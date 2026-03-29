@@ -19,6 +19,7 @@ import math
 import os
 import json
 import sys
+import random
 from datetime import datetime
 
 sys.stdout.reconfigure(encoding='utf-8')
@@ -34,12 +35,19 @@ BRANDS = [
 CATEGORY_FILTER = "Electrical%252C%2BLighting%2Band%2BBody%253EAir%2BBag%2BSystem"
 SEARCH_TERM = "air+bag"
 ITEMS_PER_PAGE = 18
-REQUEST_DELAY = 1.5
-RETRY_COUNT = 4
-RETRY_DELAY = 8
+REQUEST_DELAY = 2
+RETRY_COUNT = 5
+RETRY_DELAY = 15
 
 OUTPUT_DIR = "output"
 PROGRESS_DIR = os.path.join(OUTPUT_DIR, "progress")
+
+BROWSER_CONFIGS = [
+    {'browser': 'chrome', 'platform': 'windows', 'desktop': True},
+    {'browser': 'chrome', 'platform': 'linux', 'desktop': True},
+    {'browser': 'firefox', 'platform': 'windows', 'desktop': True},
+    {'browser': 'firefox', 'platform': 'linux', 'desktop': True},
+]
 
 
 def p(msg):
@@ -64,26 +72,53 @@ def build_url(brand: str, page: int) -> str:
     )
 
 
-def new_scraper():
-    return cloudscraper.create_scraper(
-        browser={'browser': 'chrome', 'platform': 'windows', 'desktop': True}
+def new_scraper(config_index=None):
+    if config_index is None:
+        config_index = random.randint(0, len(BROWSER_CONFIGS) - 1)
+    cfg = BROWSER_CONFIGS[config_index % len(BROWSER_CONFIGS)]
+    scraper = cloudscraper.create_scraper(
+        browser=cfg,
+        delay=random.uniform(3, 6),
     )
+    scraper.headers.update({
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Sec-Fetch-Dest': 'document',
+        'Sec-Fetch-Mode': 'navigate',
+        'Sec-Fetch-Site': 'none',
+        'Sec-Fetch-User': '?1',
+        'Cache-Control': 'max-age=0',
+    })
+    return scraper
 
 
 def fetch(scraper, url: str):
     for attempt in range(1, RETRY_COUNT + 1):
         try:
+            time.sleep(random.uniform(0.5, 2.0))
             resp = scraper.get(url, timeout=30)
             if resp.status_code == 200:
-                return resp.text, scraper
-            p(f"    [!] HTTP {resp.status_code} (deneme {attempt}/{RETRY_COUNT})")
+                if 'Cloudflare' in resp.text and 'blocked' in resp.text.lower():
+                    p(f"    [!] Cloudflare soft-block (deneme {attempt}/{RETRY_COUNT})")
+                else:
+                    return resp.text, scraper
+            else:
+                p(f"    [!] HTTP {resp.status_code} (deneme {attempt}/{RETRY_COUNT})")
+
             if attempt < RETRY_COUNT:
-                scraper = new_scraper()
-                time.sleep(RETRY_DELAY * attempt)
+                wait = RETRY_DELAY * attempt + random.uniform(0, 10)
+                p(f"    Yeni session olusturuluyor, {wait:.0f}s bekleniyor...")
+                time.sleep(wait)
+                scraper = new_scraper(attempt)
         except Exception as e:
             p(f"    [!] Hata: {e} (deneme {attempt}/{RETRY_COUNT})")
             if attempt < RETRY_COUNT:
-                time.sleep(RETRY_DELAY)
+                wait = RETRY_DELAY * attempt
+                time.sleep(wait)
+                scraper = new_scraper(attempt)
     return None, scraper
 
 
@@ -180,6 +215,7 @@ def scrape_brand(scraper, brand: str, reset: bool = False):
 
     if total is None:
         p(f"  [{brand}] Kontrol ediliyor...")
+        time.sleep(random.uniform(2, 5))
         html, scraper = fetch(scraper, build_url(brand, 1))
         if not html:
             p(f"  [{brand}] Baglanti basarisiz, atlaniyor.")
@@ -236,7 +272,7 @@ def scrape_brand(scraper, brand: str, reset: bool = False):
             save_progress(brand, prog)
             break
 
-        time.sleep(REQUEST_DELAY)
+        time.sleep(REQUEST_DELAY + random.uniform(0.5, 2.0))
 
     final = load_progress(brand)
     if final.get('completed'):
