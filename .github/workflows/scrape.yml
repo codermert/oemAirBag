@@ -53,7 +53,23 @@ jobs:
       - name: Run scraper for ${{ matrix.brand }}
         run: python scraper.py "${{ matrix.brand }}" --reset
 
-      - name: Upload result
+      - name: Commit ${{ matrix.brand }} JSON immediately
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/*.json
+          if git diff --cached --quiet; then
+            echo "No data for ${{ matrix.brand }}"
+          else
+            git commit -m "Add ${{ matrix.brand }} air bag parts"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push origin main && echo "Pushed ${{ matrix.brand }}!" && break
+              echo "Retry $i..."
+              sleep $((i * 5))
+            done
+          fi
+
+      - name: Upload result as artifact
         uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.brand }}
@@ -86,12 +102,6 @@ jobs:
           echo ""
           echo "=== Collected JSON files ==="
           ls -la output/
-          echo ""
-          echo "=== Part counts ==="
-          for f in output/*.json; do
-            count=$(python3 -c "import json; d=json.load(open('$f')); print(len(d) if isinstance(d,list) else 0)" 2>/dev/null || echo "?")
-            echo "  $(basename $f): $count parts"
-          done
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -101,17 +111,17 @@ jobs:
       - name: Merge all into one file
         run: python merge.py
 
-      - name: Commit results
+      - name: Commit merged results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add output/
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            echo "=== Files to commit ==="
             git diff --cached --name-only
-            git commit -m "Update air bag parts data - $(date -u +%Y-%m-%d)"
-            git push
-            echo "Pushed successfully!"
+            git commit -m "Update merged air bag parts - $(date -u +%Y-%m-%d)"
+            git push origin main
+            echo "Pushed merged results!"
           fi
