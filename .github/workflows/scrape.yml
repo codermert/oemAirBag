@@ -3,8 +3,10 @@ name: Scrape Air Bag Parts
 on:
   workflow_dispatch:
   schedule:
-    # Her Pazartesi 06:00 UTC'de otomatik calistir
     - cron: '0 6 * * 1'
+
+permissions:
+  contents: write
 
 jobs:
   scrape:
@@ -56,11 +58,14 @@ jobs:
         with:
           name: ${{ matrix.brand }}
           path: output/*.json
+          if-no-files-found: warn
           retention-days: 90
 
   combine:
     needs: scrape
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -74,9 +79,19 @@ jobs:
         run: |
           mkdir -p output
           for dir in artifacts/*/; do
-            cp "$dir"*.json output/ 2>/dev/null || true
+            brand_name=$(basename "$dir")
+            echo "Processing: $brand_name"
+            cp "$dir"*.json output/ 2>/dev/null || echo "  No JSON for $brand_name"
           done
+          echo ""
+          echo "=== Collected JSON files ==="
           ls -la output/
+          echo ""
+          echo "=== Part counts ==="
+          for f in output/*.json; do
+            count=$(python3 -c "import json; d=json.load(open('$f')); print(len(d) if isinstance(d,list) else 0)" 2>/dev/null || echo "?")
+            echo "  $(basename $f): $count parts"
+          done
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -91,5 +106,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output/
-          git diff --cached --quiet && echo "No changes" || git commit -m "Update air bag parts data - $(date -u +%Y-%m-%d)"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            echo "=== Files to commit ==="
+            git diff --cached --name-only
+            git commit -m "Update air bag parts data - $(date -u +%Y-%m-%d)"
+            git push
+            echo "Pushed successfully!"
+          fi
