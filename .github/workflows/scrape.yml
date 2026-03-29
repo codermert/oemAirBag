@@ -1,0 +1,95 @@
+name: Scrape Air Bag Parts
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Her Pazartesi 06:00 UTC'de otomatik calistir
+    - cron: '0 6 * * 1'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 5
+      matrix:
+        brand:
+          - Acura
+          - Audi
+          - BMW
+          - Ford
+          - GM
+          - Honda
+          - Hyundai
+          - Infiniti
+          - Jaguar
+          - Kia
+          - Land Rover
+          - Lexus
+          - Mazda
+          - Mitsubishi
+          - Mopar
+          - Nissan
+          - Porsche
+          - Subaru
+          - Toyota
+          - Volkswagen
+          - Volvo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper for ${{ matrix.brand }}
+        run: python scraper.py "${{ matrix.brand }}" --reset
+
+      - name: Upload result
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.brand }}
+          path: output/*.json
+          retention-days: 90
+
+  combine:
+    needs: scrape
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+
+      - name: Collect JSON files
+        run: |
+          mkdir -p output
+          for dir in artifacts/*/; do
+            cp "$dir"*.json output/ 2>/dev/null || true
+          done
+          ls -la output/
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Merge all into one file
+        run: python merge.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --cached --quiet && echo "No changes" || git commit -m "Update air bag parts data - $(date -u +%Y-%m-%d)"
+          git push
