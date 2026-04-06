@@ -1,0 +1,27 @@
+{
+  "total_parts": 15938,
+  "brands": {
+    "Acura": 321,
+    "Audi": 737,
+    "Bmw": 681,
+    "Ford": 1836,
+    "Gm": 1796,
+    "Honda": 827,
+    "Hyundai": 889,
+    "Infiniti": 515,
+    "Jaguar": 227,
+    "Kia": 577,
+    "Landrover": 387,
+    "Lexus": 772,
+    "Mazda": 623,
+    "Mitsubishi": 363,
+    "Mopar": 1201,
+    "Nissan": 1243,
+    "Porsche": 657,
+    "Subaru": 373,
+    "Toyota": 1322,
+    "Volkswagen": 367,
+    "Volvo": 224
+  },
+  "updated_at": "2026-04-06T08:29:48.387072Z"
+}
