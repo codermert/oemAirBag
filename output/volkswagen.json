@@ -1,75 +1,165 @@
 [
   {
     "brand": "Volkswagen",
-    "part_number": "3G1-880-741-G",
+    "part_number": "5C6-880-741-D",
     "title": "Head Air Bag",
-    "description": "Air bags. Arteon. Left.",
-    "sale_price": "$821.77",
-    "msrp": "$1,058.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3g1880741g"
+    "description": "Sedan, air bags.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5c6880741d"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1Q0-919-234-B",
-    "title": "Air Bag Lamp",
-    "description": "",
-    "sale_price": "$55.05",
-    "msrp": "$78.48",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-1q0919234b"
+    "part_number": "5C0-880-241-D",
+    "title": "Seat Air Bag",
+    "description": "Sedan, air bags.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-seat-air-bag-5c0880241d"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "11K-880-201-F-VPJ",
+    "part_number": "1K0-880-204-M",
+    "title": "Passenger Air Bag",
+    "description": "Air bags, from 05/25/2009. From 10/1/13. From 11/17/2008. Eos. To 9/30/12. Tiguan Limited.",
+    "sale_price": "$478.70",
+    "msrp": "$616.64",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-1k0880204m"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "11B-880-741-J",
+    "title": "Head Air Bag",
+    "description": "ID.4. Vin wvg. Left. To 12/06/2021. Air bags, from 12/06/2021.",
+    "sale_price": "$336.86",
+    "msrp": "$433.93",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-11b880741j"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "11K-880-201-E-XEA",
     "title": "Driver Air Bag",
-    "description": "ID.4. Vin 1v2. White.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-11k880201fvpj"
+    "description": "ID.4. Vin 1v2. Air bags, black/chrome.",
+    "sale_price": "$93.80",
+    "msrp": "$118.68",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-11k880201exea"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "2GJ-919-234-WHS",
+    "part_number": "3C8-880-741-C",
+    "title": "Head Air Bag",
+    "description": "Air bags. CC. Left.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3c8880741c"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7P6-919-234",
     "title": "Air Bag Lamp",
     "description": "",
-    "sale_price": "$11.90",
-    "msrp": "$16.25",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-2gj919234whs"
+    "sale_price": "$56.55",
+    "msrp": "$83.48",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-7p6919234"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "561-880-742-E",
-    "title": "Head Air Bag",
-    "description": "Air bags. Passat. Right.",
-    "sale_price": "$104.09",
-    "msrp": "$131.71",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-561880742e"
+    "part_number": "2GJ-880-201-F-XEA",
+    "title": "Driver Air Bag",
+    "description": "Air bags, fwd.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-2gj880201fxea"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1K5-880-742-G",
-    "title": "Head Air Bag",
-    "description": "Jetta. Right. Sedan from 1/05, wagon 2009 only, sedan.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1k5880742g"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3G8-880-842-D-2JV",
+    "part_number": "5K1-880-841-F",
     "title": "Knee Air Bag",
-    "description": "Arteon. Raven. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-knee-air-bag-3g8880842d2jv"
+    "description": "Eos. Wagon, 2010-11,.",
+    "sale_price": "$563.49",
+    "msrp": "$725.87",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-knee-air-bag-5k1880841f"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1K6-880-741-S",
-    "title": "Head Air Bag",
-    "description": "Golf. GTI. 4 door. Left. Rabbit. 4 door.",
+    "part_number": "1C0-880-201-Q-4EC",
+    "title": "Driver Air Bag",
+    "description": "Beetle. Without wheel weight. With balance weight.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1k6880741s"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1c0880201q4ec"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "17A-880-204-L",
+    "title": "Passenger Air Bag",
+    "description": "Air bags. Jetta. From 8/25/21. To 5/5/19.",
+    "sale_price": "$134.74",
+    "msrp": "$173.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-17a880204l"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "561-880-201-R-81U",
+    "title": "Driver Air Bag",
+    "description": "Passat. Air bags, to 01/16/2017.",
+    "sale_price": "$108.38",
+    "msrp": "$137.14",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-561880201r81u"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5H6-880-742-M",
+    "title": "Head Air Bag",
+    "description": "Air bags. GTI. Right. Code 4um. Golf R.",
+    "sale_price": "$680.90",
+    "msrp": "$877.11",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5h6880742m"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3G8-880-842-D-82V",
+    "title": "Knee Air Bag",
+    "description": "Arteon. Black. Right.",
+    "sale_price": "$704.39",
+    "msrp": "$907.37",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-knee-air-bag-3g8880842d82v"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "11K-880-741-G",
+    "title": "Head Air Bag",
+    "description": "Air bags. ID.4. Vin 1v2. Left. To 04/02/24.",
+    "sale_price": "$92.74",
+    "msrp": "$117.34",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-11k880741g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C5-919-234-A-1QB",
+    "title": "Air Bag Lamp",
+    "description": "Convertible, console components.",
+    "sale_price": "$51.19",
+    "msrp": "$72.98",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5c5919234a1qb"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K0-880-201-DF-1QB",
+    "title": "Driver Air Bag",
+    "description": "Sedan from 1/05, wagon 2009 only, with multifunction steering wheel, without balance weight.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1k0880201df1qb"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5H0-880-204-H",
+    "title": "Passenger Air Bag",
+    "description": "Air bags. GTI. Golf R.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-5h0880204h"
   },
   {
     "brand": "Volkswagen",
@@ -100,20 +190,20 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5NN-880-204-M",
-    "title": "Passenger Air Bag",
-    "description": "Tiguan. Without knee inflator module. From 5/24/21. From 11/12/19 to 5/23/21. Air bags. from 11/12/2019.",
-    "sale_price": "$95.56",
-    "msrp": "$120.91",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-5nn880204m"
+    "part_number": "5TB-880-841-F",
+    "title": "Knee Air Bag",
+    "description": "Tiguan. Air bags.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-knee-air-bag-5tb880841f"
   },
   {
     "brand": "Volkswagen",
     "part_number": "1T3-880-749-F",
     "title": "Head Air Bag",
     "description": "Air bags.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$310.19",
+    "msrp": "$399.57",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1t3880749f"
   },
   {
@@ -136,90 +226,117 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5NN-880-742-G",
-    "title": "Curtain Air Bag",
-    "description": "Tiguan. Right. To 1/17/21. From 1/18/2021. Air bags, from 01/18/2021.",
+    "part_number": "1Q0-919-234-A",
+    "title": "Air Bag Lamp",
+    "description": "",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-curtain-air-bag-5nn880742g"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-1q0919234a"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5K0-880-201-AE-81U",
+    "part_number": "5G0-919-234-B-WHS",
+    "title": "Air Bag Lamp",
+    "description": "",
+    "sale_price": "$49.79",
+    "msrp": "$70.98",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5g0919234bwhs"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7P6-971-584-B",
+    "title": "Air Bag Harness",
+    "description": "Air bags.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-harness-7p6971584b"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3C8-880-742-C",
+    "title": "Head Air Bag",
+    "description": "Air bags. CC. Right.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3c8880742c"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K6-880-742-P",
+    "title": "Head Air Bag",
+    "description": "Golf. GTI. 2 door. Right. Rabbit. 2 door. R32.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1k6880742p"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5M0-919-234-B-1QB",
+    "title": "Air Bag Lamp",
+    "description": "",
+    "sale_price": "$56.55",
+    "msrp": "$83.48",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5m0919234b1qb"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5GM-880-741-H",
+    "title": "Head Air Bag",
+    "description": "Air bags, 2 door. GTI. 2 door. Left.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5gm880741h"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5K0-919-234-A",
+    "title": "Air Bag Lamp",
+    "description": "Sedan,. Wagon, 2010-11,.",
+    "sale_price": "$65.47",
+    "msrp": "$96.65",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5k0919234a"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C6-880-201-T-81U",
     "title": "Driver Air Bag",
-    "description": "Air bags, with multifunction steering wheel, with multifunction steering wheel. With balance weight, with leather, with remote controls....",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-5k0880201ae81u"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K6-880-741-P",
-    "title": "Head Air Bag",
-    "description": "Golf. GTI. 2 door. Left. Rabbit. 2 door. R32.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1k6880741p"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "561-880-741-E",
-    "title": "Head Air Bag",
-    "description": "Air bags. Passat. Left.",
-    "sale_price": "$104.09",
-    "msrp": "$131.71",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-561880741e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "2GJ-880-204-K",
-    "title": "Passenger Air Bag",
-    "description": "Air bags, to 04/22/2024. Taos.",
-    "sale_price": "$181.48",
-    "msrp": "$233.77",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-2gj880204k"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7B0-880-741",
-    "title": "Head Air Bag",
-    "description": "To 9/12/08.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7b0880741"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5GM-880-742-A",
-    "title": "Head Air Bag",
-    "description": "Air bags. Golf SportWagen. Right. Golf Alltrack.",
+    "description": "Air bags, with leather, without sports wheel.",
     "sale_price": "$332.70",
     "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5gm880742a"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-5c6880201t81u"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5N0-880-742-L",
+    "part_number": "3B9-880-742-E",
     "title": "Head Air Bag",
-    "description": "Air bags. Tiguan. Right. From 11/8/10.",
-    "sale_price": "$684.08",
-    "msrp": "$881.20",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5n0880742l"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5TB-880-841-F",
-    "title": "Knee Air Bag",
-    "description": "Tiguan. AIR BAGS. driver side only.",
+    "description": "Passat. Right. Head air bag, wagon.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-knee-air-bag-5tb880841f"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3b9880742e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K9-880-742-F",
+    "title": "Curtain Air Bag",
+    "description": "Right. Jetta. From 10/13/11. Sedan from 1/05, wagon 2009 only, wagon, from vin 1k9335037. Wagon, 2010-11, to 10/12/11.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-curtain-air-bag-1k9880742f"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1T3-880-201-F-VPJ",
+    "title": "Driver Air Bag",
+    "description": "Air bags, white/chrome.",
+    "sale_price": "$745.29",
+    "msrp": "$960.06",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1t3880201fvpj"
   },
   {
     "brand": "Volkswagen",
     "part_number": "1C0-880-201-Q-4EC",
     "title": "Driver Air Bag",
-    "description": "Beetle. , without wheel weight. With balance weight.",
+    "description": "Beetle. Without wheel weight. With balance weight.",
     "sale_price": "",
     "msrp": "",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1c0880201q4ec"
@@ -235,129 +352,21 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1K0-880-201-DF-1QB",
-    "title": "Driver Air Bag",
-    "description": "Sedan from 1/05, wagon 2009 only, with multifunction steering wheel, with balance weight.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1k0880201df1qb"
-  },
-  {
-    "brand": "Volkswagen",
     "part_number": "5H0-880-204-H",
     "title": "Passenger Air Bag",
-    "description": "Air bags. GTI. From 04/25/2022. Golf R. To 04/25/2022.",
+    "description": "Air bags. GTI. Golf R.",
     "sale_price": "",
     "msrp": "",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-5h0880204h"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1K0-880-204-M",
-    "title": "Passenger Air Bag",
-    "description": "Air bags, from 05/25/2009. From 10/1/13. From 11/17/2008. Eos. To 9/30/12. Tiguan Limited.",
-    "sale_price": "$478.70",
-    "msrp": "$616.64",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-1k0880204m"
-  },
-  {
-    "brand": "Volkswagen",
     "part_number": "561-880-201-R-81U",
     "title": "Driver Air Bag",
-    "description": "Passat. Air bags.",
+    "description": "Passat. Air bags, to 01/16/2017.",
     "sale_price": "$108.38",
     "msrp": "$137.14",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-561880201r81u"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "11B-880-741-J",
-    "title": "Head Air Bag",
-    "description": "ID.4. Vin wvg. Left. To 12/06/2021. Air bags, from 12/06/2021.",
-    "sale_price": "$336.86",
-    "msrp": "$433.93",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-11b880741j"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "11K-880-201-E-XEA",
-    "title": "Driver Air Bag",
-    "description": "ID.4. Vin 1v2. Air bags, black/chrome.",
-    "sale_price": "$93.80",
-    "msrp": "$118.68",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-11k880201exea"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-880-204-Q",
-    "title": "Passenger Air Bag",
-    "description": "Golf. From 11/17/2008. Jetta. Eos. Tiguan. GTI. Sedan from 1/05, wagon 2009 only,.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-1k0880204q"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C8-880-741-C",
-    "title": "Head Air Bag",
-    "description": "Air bags. CC. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3c8880741c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5C6-880-741-D",
-    "title": "Head Air Bag",
-    "description": "Sedan, air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5c6880741d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5H6-880-742-M",
-    "title": "Head Air Bag",
-    "description": "Air bags. GTI. Right. Code 4um. Golf R.",
-    "sale_price": "$680.90",
-    "msrp": "$877.11",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5h6880742m"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "17A-880-204-L",
-    "title": "Passenger Air Bag",
-    "description": "Air bags. Jetta. From 8/25/21. To 5/5/19.",
-    "sale_price": "$134.74",
-    "msrp": "$173.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-17a880204l"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-880-204-M",
-    "title": "Passenger Air Bag",
-    "description": "Air bags, from 05/25/2009. From 10/1/13. From 11/17/2008. Eos. To 9/30/12. Tiguan Limited.",
-    "sale_price": "$478.70",
-    "msrp": "$616.64",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-1k0880204m"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "11B-880-741-J",
-    "title": "Head Air Bag",
-    "description": "ID.4. Vin wvg. Left. To 12/06/2021. Air bags, from 12/06/2021.",
-    "sale_price": "$336.86",
-    "msrp": "$433.93",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-11b880741j"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "11K-880-201-E-XEA",
-    "title": "Driver Air Bag",
-    "description": "ID.4. Vin 1v2. Air bags, black/chrome.",
-    "sale_price": "$93.80",
-    "msrp": "$118.68",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-11k880201exea"
   },
   {
     "brand": "Volkswagen",
@@ -373,18 +382,18 @@
     "part_number": "11K-880-204-E",
     "title": "Passenger Air Bag",
     "description": "ID.4. To 09/27/2021. Air bags.",
-    "sale_price": "$76.84",
-    "msrp": "$97.23",
+    "sale_price": "$65.55",
+    "msrp": "$82.94",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-11k880204e"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "7P6-919-234",
-    "title": "Air Bag Lamp",
-    "description": "",
-    "sale_price": "$56.55",
-    "msrp": "$83.48",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-7p6919234"
+    "part_number": "3G8-880-842-D-82V",
+    "title": "Knee Air Bag",
+    "description": "Arteon. Black. Right.",
+    "sale_price": "$704.39",
+    "msrp": "$907.37",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-knee-air-bag-3g8880842d82v"
   },
   {
     "brand": "Volkswagen",
@@ -397,147 +406,84 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5K1-880-841-F",
-    "title": "Knee Air Bag",
-    "description": "Eos. Wagon, 2010-11,.",
-    "sale_price": "$563.49",
-    "msrp": "$725.87",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-knee-air-bag-5k1880841f"
+    "part_number": "5C5-919-234-A-1QB",
+    "title": "Air Bag Lamp",
+    "description": "Convertible, console components.",
+    "sale_price": "$51.19",
+    "msrp": "$72.98",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5c5919234a1qb"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "3D7-880-741-C",
-    "title": "Head Air Bag",
-    "description": "Phaeton. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3d7880741c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K9-880-741-F",
-    "title": "Curtain Air Bag",
-    "description": "Left. Jetta. From 10/13/11. Sedan from 1/05, wagon 2009 only, wagon, from vin 1k9335037. Wagon, 2010-11, to 10/12/11.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-curtain-air-bag-1k9880741f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5C5-880-742-E",
-    "title": "Head Air Bag",
-    "description": "Coupe, air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5c5880742e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1T3-880-204-E",
+    "part_number": "561-880-204-B",
     "title": "Passenger Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$644.27",
-    "msrp": "$829.93",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-1t3880204e"
+    "description": "Air bags. Passat.",
+    "sale_price": "$39.47",
+    "msrp": "$48.23",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-561880204b"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "11K-880-201-E-VPJ",
+    "part_number": "3B5-880-741-E",
+    "title": "Head Air Bag",
+    "description": "Passat. Left. Head air bag, sedan.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3b5880741e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3B0-880-201-J-4EC",
     "title": "Driver Air Bag",
-    "description": "ID.4. Vin 1v2. Air bags, white/chrome.",
-    "sale_price": "$90.23",
-    "msrp": "$114.17",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-11k880201evpj"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C0-880-741-D",
-    "title": "Head Air Bag",
-    "description": "To vin 3c9150000. Passat. Left.",
+    "description": "Driver & passenger, without sport wheel.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3c0880741d"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-3b0880201j4ec"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1C0-880-201-M-4EC",
-    "title": "Driver Air Bag",
-    "description": "Coupe,.",
-    "sale_price": "$536.99",
-    "msrp": "$691.73",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1c0880201m4ec"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3CM-880-741-G",
+    "part_number": "17A-880-741-M",
     "title": "Head Air Bag",
-    "description": "Air bags. Atlas Cross Sport. Left.",
-    "sale_price": "$95.40",
-    "msrp": "$120.71",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3cm880741g"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3G8-880-841-D",
-    "title": "Knee Air Bag",
-    "description": "Air bags, black. Arteon. Raven. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-knee-air-bag-3g8880841d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K9-880-741-F",
-    "title": "Curtain Air Bag",
-    "description": "Left. Jetta. From 10/13/11. Sedan from 1/05, wagon 2009 only, wagon, from vin 1k9335037. Wagon, 2010-11, to 10/12/11.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-curtain-air-bag-1k9880741f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1T3-880-204-E",
-    "title": "Passenger Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$644.27",
-    "msrp": "$829.93",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-1t3880204e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K5-880-741-G",
-    "title": "Head Air Bag",
-    "description": "Jetta. Left. Sedan from 1/05, wagon 2009 only, sedan.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1k5880741g"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7B0-880-742-C",
-    "title": "Head Air Bag",
-    "description": "From 9/15/08. Routan. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7b0880742c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5GM-880-741-G",
-    "title": "Head Air Bag",
-    "description": "Right. Without knee inflator. GTI. 4 door. Left. Golf R. Air bags.",
+    "description": "Air bags. Jetta. Left.",
     "sale_price": "$332.70",
     "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5gm880741g"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-17a880741m"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "3AA-919-234-1QB",
+    "part_number": "3CN-880-741-G",
+    "title": "Head Air Bag",
+    "description": "Air bags. Atlas. Left.",
+    "sale_price": "$54.91",
+    "msrp": "$67.10",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3cn880741g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7P6-880-742-D",
+    "title": "Head Air Bag",
+    "description": "Air bags. Right. Touareg Hybrid.",
+    "sale_price": "$516.55",
+    "msrp": "$665.40",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7p6880742d"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1Q0-919-234-A",
     "title": "Air Bag Lamp",
-    "description": "From 11/08/2010.",
+    "description": "",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-3aa9192341qb"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-1q0919234a"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5G0-919-234-B-WHS",
+    "title": "Air Bag Lamp",
+    "description": "",
+    "sale_price": "$49.79",
+    "msrp": "$70.98",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5g0919234bwhs"
   },
   {
     "brand": "Volkswagen",
@@ -547,24 +493,6 @@
     "sale_price": "",
     "msrp": "",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1k0880201cb1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1T3-880-201-F-XEA",
-    "title": "Driver Air Bag",
-    "description": "Air bags, black/chrome.",
-    "sale_price": "$745.29",
-    "msrp": "$960.06",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1t3880201fxea"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5N0-880-741-N",
-    "title": "Head Air Bag",
-    "description": "Air bags. Tiguan Limited. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5n0880741n"
   },
   {
     "brand": "Volkswagen",
@@ -586,33 +514,6 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "11K-880-742-G",
-    "title": "Head Air Bag",
-    "description": "Air bags. ID.4. Vin 1v2. Right. To 04/02/24.",
-    "sale_price": "$81.45",
-    "msrp": "$103.06",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-11k880742g"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "2GJ-880-741-H",
-    "title": "Head Air Bag",
-    "description": "Air bags. Taos. Left. To 01/28/2024. From 01/29/2024.",
-    "sale_price": "$175.55",
-    "msrp": "$226.14",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-2gj880741h"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C0-919-234-A",
-    "title": "Air Bag Lamp",
-    "description": "To 11/05/2010. From 11/08/2010.",
-    "sale_price": "$58.30",
-    "msrp": "$86.07",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-3c0919234a"
-  },
-  {
-    "brand": "Volkswagen",
     "part_number": "5G4-880-742-E",
     "title": "Head Air Bag",
     "description": "Air bags, 4 door, with r.",
@@ -622,102 +523,12 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5C5-880-741-E",
-    "title": "Head Air Bag",
-    "description": "Coupe, air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5c5880741e"
-  },
-  {
-    "brand": "Volkswagen",
     "part_number": "5NA-919-234-WHS",
     "title": "Air Bag Lamp",
     "description": "",
     "sale_price": "$20.13",
     "msrp": "$27.50",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5na919234whs"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "11B-880-742-J",
-    "title": "Head Air Bag",
-    "description": "ID.4. Vin wvg. Right. To 12/06/2021. Air bags, from 12/06/2021.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-11b880742j"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C0-919-234-A",
-    "title": "Air Bag Lamp",
-    "description": "To 11/05/2010. From 11/08/2010.",
-    "sale_price": "$58.30",
-    "msrp": "$86.07",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-3c0919234a"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5G4-880-742-E",
-    "title": "Head Air Bag",
-    "description": "Air bags, 4 door, with r.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5g4880742e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5C5-880-741-E",
-    "title": "Head Air Bag",
-    "description": "Coupe, air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5c5880741e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5NA-919-234-WHS",
-    "title": "Air Bag Lamp",
-    "description": "",
-    "sale_price": "$20.13",
-    "msrp": "$27.50",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5na919234whs"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "11B-880-742-J",
-    "title": "Head Air Bag",
-    "description": "ID.4. Vin wvg. Right. To 12/06/2021. Air bags, from 12/06/2021.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-11b880742j"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "17A-919-225-C-RDW",
-    "title": "Air Bag Lamp",
-    "description": "",
-    "sale_price": "$12.00",
-    "msrp": "$16.40",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-17a919225crdw"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5NA-880-201-F-XEA",
-    "title": "Driver Air Bag",
-    "description": "Air bags, all. GTI. From 11/28/2022.",
-    "sale_price": "$761.45",
-    "msrp": "$980.87",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-5na880201fxea"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1C0-919-234-C",
-    "title": "Air Bag Lamp",
-    "description": "Convertible,. Coupe,.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-1c0919234c"
   },
   {
     "brand": "Volkswagen",
@@ -730,11 +541,92 @@
   },
   {
     "brand": "Volkswagen",
+    "part_number": "1K0-880-204-J",
+    "title": "Passenger Air Bag",
+    "description": "Jetta. To 11/16/2008. Eos. Rabbit. Air bags, to 05/22/2009. Tiguan. GTI. R32.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-1k0880204j"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5N0-919-234-1QB",
+    "title": "Air Bag Lamp",
+    "description": "",
+    "sale_price": "$65.47",
+    "msrp": "$96.65",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5n09192341qb"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C6-880-201-M-81U",
+    "title": "Driver Air Bag",
+    "description": "Air bags, with leather, with sports wheel.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-5c6880201m81u"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1T3-880-201-F-XEA",
+    "title": "Driver Air Bag",
+    "description": "Air bags, black/chrome.",
+    "sale_price": "$745.29",
+    "msrp": "$960.06",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1t3880201fxea"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "11K-880-742-G",
+    "title": "Head Air Bag",
+    "description": "Air bags. ID.4. Vin 1v2. Right. To 04/02/24.",
+    "sale_price": "$81.45",
+    "msrp": "$103.06",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-11k880742g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3C0-919-234-A",
+    "title": "Air Bag Lamp",
+    "description": "To 11/05/2010. From 11/08/2010.",
+    "sale_price": "$58.30",
+    "msrp": "$86.07",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-3c0919234a"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C5-880-741-E",
+    "title": "Head Air Bag",
+    "description": "Coupe, air bags.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5c5880741e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "17A-919-225-C-RDW",
+    "title": "Air Bag Lamp",
+    "description": "",
+    "sale_price": "$12.00",
+    "msrp": "$16.40",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-17a919225crdw"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1C0-919-234-C",
+    "title": "Air Bag Lamp",
+    "description": "Convertible,. Coupe,.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-1c0919234c"
+  },
+  {
+    "brand": "Volkswagen",
     "part_number": "2GJ-880-742-H",
     "title": "Head Air Bag",
-    "description": "Air bags. Taos. Right. To 01/28/2024.",
-    "sale_price": "$175.55",
-    "msrp": "$226.14",
+    "description": "Air bags. Taos. Right. To 28/01/2024.",
+    "sale_price": "$199.50",
+    "msrp": "$256.99",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-2gj880742h"
   },
   {
@@ -757,12 +649,120 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5N0-880-742-N",
+    "part_number": "1C0-880-204-E",
+    "title": "Passenger Air Bag",
+    "description": "Beetle. Convertible,. Without occupant sensor. Coupe,.",
+    "sale_price": "$1,321.09",
+    "msrp": "$1,701.77",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-1c0880204e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5NN-880-741-G",
     "title": "Head Air Bag",
-    "description": "Air bags. Tiguan Limited. Right.",
+    "description": "Tiguan. Left. From 1/18/21. Air bags, from 01/18/2021.",
+    "sale_price": "$264.83",
+    "msrp": "$341.14",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5nn880741g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3CN-880-742-G",
+    "title": "Head Air Bag",
+    "description": "Air bags. Atlas. Right.",
+    "sale_price": "$54.91",
+    "msrp": "$67.10",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3cn880742g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7P6-880-741-D",
+    "title": "Head Air Bag",
+    "description": "Air bags. Left. Touareg Hybrid.",
+    "sale_price": "$929.79",
+    "msrp": "$1,197.71",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7p6880741d"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K0-880-201-CB-1QB",
+    "title": "Driver Air Bag",
+    "description": "",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5n0880742n"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1k0880201cb1qb"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7L0-880-202-G",
+    "title": "Passenger Air Bag",
+    "description": "Front air bag, from vin 7l8081001. Touareg.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-7l0880202g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1H0-880-204-B",
+    "title": "Passenger Air Bag",
+    "description": "From vin 1ht096221. To vin 1ht096220. Cabrio. Front. Passenger side.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-1h0880204b"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3C0-919-234-A",
+    "title": "Air Bag Lamp",
+    "description": "To 11/05/2010. From 11/08/2010.",
+    "sale_price": "$58.30",
+    "msrp": "$86.07",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-3c0919234a"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5G4-880-742-E",
+    "title": "Head Air Bag",
+    "description": "Air bags, 4 door, with r.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5g4880742e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5NA-919-234-WHS",
+    "title": "Air Bag Lamp",
+    "description": "",
+    "sale_price": "$20.13",
+    "msrp": "$27.50",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5na919234whs"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1C0-919-234-C",
+    "title": "Air Bag Lamp",
+    "description": "Convertible,. Coupe,.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-1c0919234c"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7B0-880-742",
+    "title": "Head Air Bag",
+    "description": "To 9/12/08.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7b0880742"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5G4-880-741-E",
+    "title": "Head Air Bag",
+    "description": "Air bags, 4 door, with r.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5g4880741e"
   },
   {
     "brand": "Volkswagen",
@@ -811,417 +811,354 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "7P6-880-742-D",
-    "title": "Head Air Bag",
-    "description": "Air bags. Right. Touareg Hybrid.",
-    "sale_price": "$464.89",
-    "msrp": "$598.86",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7p6880742d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B9-880-742-E",
-    "title": "Head Air Bag",
-    "description": "Passat. Right. Head air bag, wagon.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3b9880742e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1Q0-919-234-A",
+    "part_number": "1Q0-919-234-B",
     "title": "Air Bag Lamp",
     "description": "",
+    "sale_price": "$55.05",
+    "msrp": "$78.48",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-1q0919234b"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K5-880-742-G",
+    "title": "Head Air Bag",
+    "description": "Jetta. Right. Sedan from 1/05, wagon 2009 only, sedan.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-1q0919234a"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1k5880742g"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "3CM-880-204-E",
-    "title": "Passenger Air Bag",
-    "description": "From 2/24/2020. Atlas Cross Sport. Air bags, from 05/19/2019.",
-    "sale_price": "$84.68",
-    "msrp": "$107.14",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-3cm880204e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "17A-880-741-M",
+    "part_number": "1K6-880-741-S",
     "title": "Head Air Bag",
-    "description": "Air bags. Jetta. Left.",
+    "description": "Golf. GTI. 4 door. Left. Rabbit. 4 door.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1k6880741s"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5K0-880-201-AE-81U",
+    "title": "Driver Air Bag",
+    "description": "Air bags, with multifunction steering wheel, with multifunction steering wheel. With balance weight, with leather, with remote controls....",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-5k0880201ae81u"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K6-880-741-P",
+    "title": "Head Air Bag",
+    "description": "Golf. GTI. 2 door. Left. Rabbit. 2 door. R32.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1k6880741p"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5GM-880-742-A",
+    "title": "Head Air Bag",
+    "description": "Air bags. Golf SportWagen. Right. Golf Alltrack.",
     "sale_price": "$332.70",
     "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-17a880741m"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5gm880742a"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5NN-880-201-S-XEA",
+    "part_number": "561-880-741-E",
+    "title": "Head Air Bag",
+    "description": "Air bags. Passat. Left.",
+    "sale_price": "$104.09",
+    "msrp": "$131.71",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-561880741e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "2GJ-919-234-WHS",
+    "title": "Air Bag Lamp",
+    "description": "",
+    "sale_price": "$11.90",
+    "msrp": "$16.25",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-2gj919234whs"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "561-880-742-E",
+    "title": "Head Air Bag",
+    "description": "Air bags. Passat. Right.",
+    "sale_price": "$104.09",
+    "msrp": "$131.71",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-561880742e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3C0-880-201-BE-1QB",
     "title": "Driver Air Bag",
-    "description": "Tiguan. Without sport steering wheel. Air bags, without heat. Air bags, awd.",
+    "description": "Passat. With 4 spk. strg. wheel. With  multifunction wheel. With 4 spoke strng whl, without radio controls, with balance weight.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-3c0880201be1qb"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5GM-880-742-G",
+    "title": "Head Air Bag",
+    "description": "Left. Without knee inflator. GTI. 4 door. Right. Golf R. Air bags.",
     "sale_price": "$332.70",
     "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-5nn880201sxea"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5gm880742g"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "7P6-971-584-B",
-    "title": "Air Bag Harness",
-    "description": "Air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-harness-7p6971584b"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C8-880-742-C",
-    "title": "Head Air Bag",
-    "description": "Air bags. CC. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3c8880742c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "561-880-204-B",
-    "title": "Passenger Air Bag",
-    "description": "Air bags. Passat.",
-    "sale_price": "$43.85",
-    "msrp": "$53.59",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-561880204b"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K6-880-742-P",
-    "title": "Head Air Bag",
-    "description": "Golf. GTI. 2 door. Right. Rabbit. 2 door. R32.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1k6880742p"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3CN-880-741-G",
-    "title": "Head Air Bag",
-    "description": "Air bags. Atlas. Left.",
-    "sale_price": "$112.76",
-    "msrp": "$145.26",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3cn880741g"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K9-880-742-F",
-    "title": "Curtain Air Bag",
-    "description": "Right. Jetta. From 10/13/11. Sedan from 1/05, wagon 2009 only, wagon, from vin 1k9335037. Wagon, 2010-11, to 10/12/11.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-curtain-air-bag-1k9880742f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3D7-880-742-C",
-    "title": "Head Air Bag",
-    "description": "Phaeton. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3d7880742c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5G0-919-234-B-WHS",
-    "title": "Air Bag Lamp",
-    "description": "",
-    "sale_price": "$49.79",
-    "msrp": "$70.98",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5g0919234bwhs"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-201-J-4EC",
+    "part_number": "5G0-880-201-AC-HVF",
     "title": "Driver Air Bag",
-    "description": "Driver & passenger, without sport wheel.",
+    "description": "Air bags, with tiptronic, with aluminum trim. Golf R. With multifunction. Air bags, with tiptronic, with r, with tiptronic, with r.",
+    "sale_price": "$1,138.89",
+    "msrp": "$1,467.07",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-5g0880201achvf"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5N0-880-742-L",
+    "title": "Head Air Bag",
+    "description": "Air bags. Tiguan. Right. From 11/8/10.",
+    "sale_price": "$684.08",
+    "msrp": "$881.20",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5n0880742l"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3C8-880-201-S-81U",
+    "title": "Driver Air Bag",
+    "description": "Air bags, all, without r-line. Eos. With radio control. Without multifunction. From 11/14/10.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-3b0880201j4ec"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-3c8880201s81u"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5M0-919-234-B-1QB",
-    "title": "Air Bag Lamp",
-    "description": "",
-    "sale_price": "$56.55",
-    "msrp": "$83.48",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5m0919234b1qb"
+    "part_number": "11K-880-201-F-VPJ",
+    "title": "Driver Air Bag",
+    "description": "ID.4. Vin 1v2. AIR BAGS. with security upgrade white/chrome.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-11k880201fvpj"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "7L6-919-235-B-B41",
-    "title": "Air Bag Lamp",
-    "description": "",
-    "sale_price": "$65.47",
-    "msrp": "$96.65",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-7l6919235bb41"
+    "part_number": "5NN-880-742-G",
+    "title": "Head Air Bag",
+    "description": "Tiguan. Right. To 1/17/21. From 1/18/2021. Air bags, from 01/18/2021.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5nn880742g"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "561-919-234-1QB",
-    "title": "Air Bag Lamp",
-    "description": "2012-15. 2016-19.",
-    "sale_price": "$65.47",
-    "msrp": "$96.65",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5619192341qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1C0-880-204-E",
+    "part_number": "2GJ-880-204-K",
     "title": "Passenger Air Bag",
-    "description": "Beetle. Convertible,. Without occupant sensor. Coupe,.",
-    "sale_price": "$1,100.90",
-    "msrp": "$1,418.14",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-1c0880204e"
+    "description": "Taos. To 22/04/2024. Air bags, from 04/22/2024.",
+    "sale_price": "$206.22",
+    "msrp": "$265.64",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-2gj880204k"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5NN-880-741-G",
-    "title": "Head Air Bag",
-    "description": "Tiguan. Left. From 1/18/21. Air bags, from 01/18/2021.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5nn880741g"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5C6-880-742-E",
-    "title": "Curtain Air Bag",
-    "description": "Jetta. Right. Sedan, air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-curtain-air-bag-5c6880742e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C0-880-742-D",
-    "title": "Head Air Bag",
-    "description": "To vin 3c9150000. Passat. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3c0880742d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1T3-880-750-F",
+    "part_number": "57N-880-741-F",
     "title": "Head Air Bag",
     "description": "Air bags.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1t3880750f"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-57n880741f"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1C0-971-582-A",
-    "title": "Air Bag Harness",
+    "part_number": "1T3-880-749-F",
+    "title": "Head Air Bag",
+    "description": "Air bags.",
+    "sale_price": "$310.19",
+    "msrp": "$399.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1t3880749f"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3CM-880-201-G-XEA",
+    "title": "Driver Air Bag",
+    "description": "Air bags, from 09/24/2020. Atlas. From 2/24/2020.",
+    "sale_price": "$86.32",
+    "msrp": "$109.23",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-3cm880201gxea"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "57N-880-742-F",
+    "title": "Head Air Bag",
+    "description": "Air bags.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-57n880742f"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3G8-880-842-D-2JV",
+    "title": "Knee Air Bag",
+    "description": "Arteon. Raven. Right.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-knee-air-bag-3g8880842d2jv"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5TB-880-841-F",
+    "title": "Knee Air Bag",
+    "description": "Tiguan. Air bags.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-knee-air-bag-5tb880841f"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C5-880-742-E",
+    "title": "Head Air Bag",
+    "description": "Coupe, air bags.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5c5880742e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3D7-880-741-C",
+    "title": "Head Air Bag",
+    "description": "Phaeton. Left.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3d7880741c"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3C0-880-741-D",
+    "title": "Head Air Bag",
+    "description": "To vin 3c9150000. Passat. Left.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3c0880741d"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5GM-880-201-C-81U",
+    "title": "Driver Air Bag",
+    "description": "Golf Alltrack. With radio control. Golf SportWagen. Air bags.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-5gm880201c81u"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K5-880-741-G",
+    "title": "Head Air Bag",
+    "description": "Jetta. Left. Sedan from 1/05, wagon 2009 only, sedan.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1k5880741g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7B0-880-742-C",
+    "title": "Head Air Bag",
+    "description": "From 9/15/08. Routan. Right.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7b0880742c"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5GM-880-741-G",
+    "title": "Head Air Bag",
+    "description": "Right. Without knee inflator. GTI. 4 door. Left. Golf R. Air bags.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5gm880741g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3AA-919-234-1QB",
+    "title": "Air Bag Lamp",
+    "description": "From 11/08/2010.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-3aa9192341qb"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "11K-880-201-E-VPJ",
+    "title": "Driver Air Bag",
+    "description": "ID.4. Vin 1v2. Air bags, white/chrome.",
+    "sale_price": "$42.94",
+    "msrp": "$52.47",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-11k880201evpj"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1C0-880-201-M-4EC",
+    "title": "Driver Air Bag",
     "description": "Coupe,.",
-    "sale_price": "$100.51",
-    "msrp": "$136.97",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-harness-1c0971582a"
+    "sale_price": "$138.96",
+    "msrp": "$179.00",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1c0880201m4ec"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5GM-880-742-H",
+    "part_number": "3CM-880-741-G",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. Atlas Cross Sport. Left.",
+    "sale_price": "$95.40",
+    "msrp": "$120.71",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-curtain-air-bag-3cm880741g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5H6-880-741-M",
     "title": "Head Air Bag",
-    "description": "Air bags, 2 door. GTI. 2 door. Right.",
+    "description": "Air bags. GTI. Left. Code 4um. Golf R.",
+    "sale_price": "$680.90",
+    "msrp": "$877.11",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5h6880741m"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3G8-880-841-D",
+    "title": "Knee Air Bag",
+    "description": "Air bags, raven. Arteon. Left. Air bags, black.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5gm880742h"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-knee-air-bag-3g8880841d"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "3D0-880-203-B-4B1",
-    "title": "Driver Air Bag",
-    "description": "Touareg. Brown.",
-    "sale_price": "$271.46",
-    "msrp": "$349.69",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-3d0880203b4b1"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7P6-919-234-A",
-    "title": "Air Bag Lamp",
-    "description": "",
+    "part_number": "1K9-880-741-F",
+    "title": "Curtain Air Bag",
+    "description": "Left. Jetta. From 10/13/11. Sedan from 1/05, wagon 2009 only, wagon, from vin 1k9335037. Wagon, 2010-11, to 10/12/11.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-7p6919234a"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-curtain-air-bag-1k9880741f"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "3G1-880-742-G",
-    "title": "Head Air Bag",
-    "description": "Air bags. Arteon. Right.",
-    "sale_price": "$821.77",
-    "msrp": "$1,058.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3g1880742g"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5C6-880-742-D",
-    "title": "Head Air Bag",
-    "description": "Sedan, air bags.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5c6880742d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7L6-880-741-F",
-    "title": "Head Air Bag",
-    "description": "Touareg. Head. Drivers side. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7l6880741f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7L0-880-202",
+    "part_number": "1T3-880-204-E",
     "title": "Passenger Air Bag",
-    "description": "Front air bag.",
+    "description": "Air bags.",
+    "sale_price": "$707.62",
+    "msrp": "$911.53",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-1t3880204e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7P6-880-572-B",
+    "title": "Passenger Air Bag Bracket",
+    "description": "Air bags.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-7l0880202"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B9-880-741-E",
-    "title": "Head Air Bag",
-    "description": "Passat. Left. Head air bag, wagon.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3b9880741e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K6-880-742-S",
-    "title": "Head Air Bag",
-    "description": "Golf. GTI. 4 door. Right. Rabbit. 4 door.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1k6880742s"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3CN-880-742-G",
-    "title": "Head Air Bag",
-    "description": "Air bags. Atlas. Right.",
-    "sale_price": "$112.76",
-    "msrp": "$145.26",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3cn880742g"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5N0-880-741-L",
-    "title": "Head Air Bag",
-    "description": "Air bags. Tiguan. Left. From 11/8/10.",
-    "sale_price": "$751.33",
-    "msrp": "$967.83",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-5n0880741l"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3D0-880-203-B-2K7",
-    "title": "Driver Air Bag",
-    "description": "Touareg. Anthracite. Phaeton.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-3d0880203b2k7"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7P6-880-741-D",
-    "title": "Head Air Bag",
-    "description": "Air bags. Left. Touareg Hybrid.",
-    "sale_price": "$774.83",
-    "msrp": "$998.10",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7p6880741d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "11K-880-201-F-XEA",
-    "title": "Driver Air Bag",
-    "description": "ID.4. Vin 1v2. Black.",
-    "sale_price": "$46.76",
-    "msrp": "$57.14",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-11k880201fxea"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5C6-919-234-C",
-    "title": "Air Bag Lamp",
-    "description": "",
-    "sale_price": "$10.89",
-    "msrp": "$14.88",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-5c6919234c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5GM-880-242-B",
-    "title": "Ft Seat Air Bag",
-    "description": "GTI. Right. Golf Alltrack. Golf R.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5gm880242b"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5C3-880-242-D",
-    "title": "Ft Seat Air Bag",
-    "description": "Beetle. Right. From 10/16/11. Coupe, air bags.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5c3880242d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-880-242",
-    "title": "Ft Seat Air Bag",
-    "description": "Right. Jetta. Passenger side. Wagon, 2010-11,. Sedan from 1/05, wagon 2009 only, front, from vin 1k7133613.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-1k0880242"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3CN-880-241-M",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. Left. Atlas Cross Sport.",
-    "sale_price": "$14.58",
-    "msrp": "$17.07",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-3cn880241m"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C8-971-584-E",
-    "title": "Driver Air Bag Harness",
-    "description": "Air bags, without tiptronic. Without multifunction steering wheel, without multifunction steering wheel.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-harness-3c8971584e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5C5-880-242-E",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags, coupe, from 10/01/2016.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5c5880242e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5H0-880-242-R",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. GTI. Right. Golf R.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5h0880242r"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-bracket-7p6880572b"
   },
   {
     "brand": "Volkswagen",
@@ -1243,18 +1180,9 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "7P6-880-572-B",
-    "title": "Passenger Air Bag Bracket",
-    "description": "Air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-bracket-7p6880572b"
-  },
-  {
-    "brand": "Volkswagen",
     "part_number": "17A-880-241-K",
     "title": "Ft Seat Air Bag",
-    "description": "Air bags, to 06/04/2023. Jetta. Left. Air bags, from 06/05/2023.",
+    "description": "Air bags, to 06/04/2023. Jetta. Left. Air bags. from 06/05/2023.",
     "sale_price": "$84.68",
     "msrp": "$107.14",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-17a880241k"
@@ -1270,219 +1198,21 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5NN-880-241-E",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags, from 01/09/2023. Tiguan. Left.",
-    "sale_price": "$104.77",
-    "msrp": "$132.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5nn880241e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-880-201-DE-1QB",
-    "title": "Steering Wheel Air Bag",
-    "description": "Jetta. All. Without radio controls. Leather wheel. Urethane wheel. Sedan from 1/05, wagon 2009 only, without multifunction steering...",
-    "sale_price": "$420.59",
-    "msrp": "$541.79",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-steering-wheel-air-bag-1k0880201de1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5C5-880-241-E",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5c5880241e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7P6-880-201-N-4A1",
-    "title": "Steering Wheel Air Bag",
-    "description": "Brown. Touareg Hybrid.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-steering-wheel-air-bag-7p6880201n4a1"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1T3-880-252-D",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-1t3880252d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1T3-880-251-D",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$211.03",
-    "msrp": "$271.84",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-1t3880251d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C8-971-584-F",
-    "title": "Driver Air Bag Harness",
-    "description": "Air bags, with tiptronic. With multifunction steering wheel, with multifunction steering wheel. Convertible, air bags. Without balance...",
-    "sale_price": "$148.59",
-    "msrp": "$206.14",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-harness-3c8971584f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7P6-880-201-N-81U",
-    "title": "Steering Wheel Air Bag",
-    "description": "Touareg Hybrid. Black.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-steering-wheel-air-bag-7p6880201n81u"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "2GJ-880-242-G",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. Taos. Right.",
-    "sale_price": "$84.68",
-    "msrp": "$107.14",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-2gj880242g"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C8-880-241-B",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-3c8880241b"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-880-241",
-    "title": "Ft Seat Air Bag",
-    "description": "Left. Jetta. Driver side. Wagon, 2010-11,. Sedan from 1/05, wagon 2009 only, front, from vin 1k7133613.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-1k0880241"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5C5-880-242-C",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags, convertible, to 09/30/2016.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5c5880242c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1Q0-880-242-F",
-    "title": "Ft Seat Air Bag",
-    "description": "Eos. Right. With power height adjust. With power seat, from 03/14/2011. With power seat, to 03/11/2011.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-1q0880242f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5N0-880-442-C-95T",
-    "title": "Rear Seat Air Bag",
-    "description": "Air bags, beige.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-rear-seat-air-bag-5n0880442c95t"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "561-880-242-A",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. Passat. Right.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-561880242a"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "6C0-971-584-C",
-    "title": "Driver Air Bag Harness",
-    "description": "Air bags, without sports wheel.",
-    "sale_price": "$170.77",
-    "msrp": "$236.91",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-harness-6c0971584c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "561-880-241-A",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. Passat. Left.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-561880241a"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-880-201-DC-1QB",
-    "title": "Steering Wheel Air Bag",
-    "description": "Wagon, 2010-11, without multifunction steering wheel, without balance weight.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-steering-wheel-air-bag-1k0880201dc1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-880-201-DE-1QB",
-    "title": "Steering Wheel Air Bag",
-    "description": "Jetta. All. Without radio controls. Leather wheel. Urethane wheel. Sedan from 1/05, wagon 2009 only, without multifunction steering...",
-    "sale_price": "$420.59",
-    "msrp": "$541.79",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-steering-wheel-air-bag-1k0880201de1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5C5-880-241-E",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5c5880241e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5C3-880-241-D",
-    "title": "Ft Seat Air Bag",
-    "description": "Beetle. Left. From 10/16/11. Coupe, air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5c3880241d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1Q0-880-242-F",
-    "title": "Ft Seat Air Bag",
-    "description": "Eos. Right. With power height adjust. With power seat, from 03/14/2011. With power seat, to 03/11/2011.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-1q0880242f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5N0-880-442-C-95T",
-    "title": "Rear Seat Air Bag",
-    "description": "Air bags, beige.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-rear-seat-air-bag-5n0880442c95t"
-  },
-  {
-    "brand": "Volkswagen",
     "part_number": "7P6-880-571-B",
     "title": "Passenger Air Bag Bracket",
     "description": "Air bags.",
     "sale_price": "",
     "msrp": "",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-bracket-7p6880571b"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1Q0-880-241-F",
+    "title": "Ft Seat Air Bag",
+    "description": "Eos. Left. With power height adjust. With power seat, from 03/14/2011. With power seat, to 03/11/2011.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-1q0880241f"
   },
   {
     "brand": "Volkswagen",
@@ -1513,21 +1243,30 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5H0-880-241-R",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. GTI. Left. Golf R.",
-    "sale_price": "$389.44",
-    "msrp": "$501.66",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5h0880241r"
-  },
-  {
-    "brand": "Volkswagen",
     "part_number": "5N0-880-242-L",
     "title": "Ft Seat Air Bag",
     "description": "Air bags, from 11/2009. Front. Right. Tiguan Limited.",
     "sale_price": "$237.60",
     "msrp": "$306.07",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5n0880242l"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C5-880-241-C",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags, convertible, to 09/30/2016.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5c5880241c"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "2GJ-880-241-G",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. Taos. Left. To 14/05/2023. From 15/05/2023.",
+    "sale_price": "$84.68",
+    "msrp": "$107.14",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-2gj880241g"
   },
   {
     "brand": "Volkswagen",
@@ -1540,21 +1279,30 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1Q0-880-241-F",
+    "part_number": "5H0-880-241-R",
     "title": "Ft Seat Air Bag",
-    "description": "Eos. Left. With power height adjust. With power seat, from 03/14/2011. With power seat, to 03/11/2011.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-1q0880241f"
+    "description": "Air bags. GTI. Left. Golf R.",
+    "sale_price": "$389.44",
+    "msrp": "$501.66",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5h0880241r"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "2GJ-880-241-G",
+    "part_number": "561-880-242-A",
     "title": "Ft Seat Air Bag",
-    "description": "Air bags. Taos. Left.",
-    "sale_price": "$84.68",
-    "msrp": "$107.14",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-2gj880241g"
+    "description": "Air bags. Passat. Right.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-561880242a"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5N0-880-242-L",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags, from 11/2009. Front. Right. Tiguan Limited.",
+    "sale_price": "$237.60",
+    "msrp": "$306.07",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5n0880242l"
   },
   {
     "brand": "Volkswagen",
@@ -1564,6 +1312,285 @@
     "sale_price": "",
     "msrp": "",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5c5880241c"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5H0-880-241-R",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. GTI. Left. Golf R.",
+    "sale_price": "$389.44",
+    "msrp": "$501.66",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5h0880241r"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "2GJ-880-241-G",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. Taos. Left. To 14/05/2023. From 15/05/2023.",
+    "sale_price": "$84.68",
+    "msrp": "$107.14",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-2gj880241g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "11K-880-241-F",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. ID.4. Vin 1v2. Left.",
+    "sale_price": "$14.87",
+    "msrp": "$17.41",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-11k880241f"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "561-880-242-A",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. Passat. Right.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-561880242a"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "6C0-971-584-C",
+    "title": "Driver Air Bag Harness",
+    "description": "Air bags, without sports wheel.",
+    "sale_price": "$170.77",
+    "msrp": "$236.91",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-harness-6c0971584c"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "561-880-241-A",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. Passat. Left.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-561880241a"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3C8-880-241-B",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-3c8880241b"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C5-880-242-C",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags, convertible, to 09/30/2016.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5c5880242c"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1Q0-880-242-F",
+    "title": "Ft Seat Air Bag",
+    "description": "Eos. Right. With power height adjust. With power seat, from 03/14/2011. With power seat, to 03/11/2011.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-1q0880242f"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5N0-880-442-C-95T",
+    "title": "Rear Seat Air Bag",
+    "description": "Air bags, beige.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-rear-seat-air-bag-5n0880442c95t"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "2GJ-880-242-G",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. Taos. Right.",
+    "sale_price": "$84.68",
+    "msrp": "$107.14",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-2gj880242g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "57N-880-442-D",
+    "title": "Rear Seat Air Bag",
+    "description": "Air bags.",
+    "sale_price": "$67.97",
+    "msrp": "$86.01",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-rear-seat-air-bag-57n880442d"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K0-880-241",
+    "title": "Ft Seat Air Bag",
+    "description": "Left. Jetta. Driver side. Wagon, 2010-11,. Sedan from 1/05, wagon 2009 only, front, from vin 1k7133613.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-1k0880241"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K0-880-201-DC-1QB",
+    "title": "Steering Wheel Air Bag",
+    "description": "Wagon, 2010-11, without multifunction steering wheel, without balance weight.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-steering-wheel-air-bag-1k0880201dc1qb"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K0-880-242",
+    "title": "Ft Seat Air Bag",
+    "description": "Right. Jetta. Passenger side. Wagon, 2010-11,. Sedan from 1/05, wagon 2009 only, front, from vin 1k7133613.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-1k0880242"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C3-880-242-D",
+    "title": "Ft Seat Air Bag",
+    "description": "Beetle. Right. From 10/16/11. Coupe, air bags.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5c3880242d"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1Q0-880-241-F",
+    "title": "Ft Seat Air Bag",
+    "description": "Eos. Left. With power height adjust. With power seat, from 03/14/2011. With power seat, to 03/11/2011.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-1q0880241f"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3C8-880-242-B",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-3c8880242b"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1Q0-880-241-G",
+    "title": "Ft Seat Air Bag",
+    "description": "Without power seat. Eos. Left. Without power height adjust.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-1q0880241g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5N0-880-441-C-95T",
+    "title": "Rear Seat Air Bag",
+    "description": "Air bags, beige.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-rear-seat-air-bag-5n0880441c95t"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5N0-880-242-L",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags, from 11/2009. Front. Right. Tiguan Limited.",
+    "sale_price": "$237.60",
+    "msrp": "$306.07",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5n0880242l"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C5-880-241-C",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags, convertible, to 09/30/2016.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5c5880241c"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "2GJ-880-241-G",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. Taos. Left. To 14/05/2023. From 15/05/2023.",
+    "sale_price": "$84.68",
+    "msrp": "$107.14",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-2gj880241g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "11K-880-241-F",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. ID.4. Vin 1v2. Left.",
+    "sale_price": "$14.87",
+    "msrp": "$17.41",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-11k880241f"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5H0-880-241-R",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. GTI. Left. Golf R.",
+    "sale_price": "$389.44",
+    "msrp": "$501.66",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5h0880241r"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K0-880-201-DE-1QB",
+    "title": "Steering Wheel Air Bag",
+    "description": "Jetta. All. Without radio controls. Leather wheel. Urethane wheel. Sedan from 1/05, wagon 2009 only, without multifunction steering...",
+    "sale_price": "$420.59",
+    "msrp": "$541.79",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-steering-wheel-air-bag-1k0880201de1qb"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C5-880-241-E",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5c5880241e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C3-880-241-D",
+    "title": "Ft Seat Air Bag",
+    "description": "Beetle. Left. From 10/16/11. Coupe, air bags.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-5c3880241d"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "57N-880-581-E",
+    "title": "Front Center Air Bag",
+    "description": "Air bags.",
+    "sale_price": "$52.78",
+    "msrp": "$64.50",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-front-center-air-bag-57n880581e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "17A-880-242-K",
+    "title": "Ft Seat Air Bag",
+    "description": "Jetta. Right. Air bags. from 06/05/2023.",
+    "sale_price": "$84.68",
+    "msrp": "$107.14",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-17a880242k"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "11K-880-242-F",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. ID.4. Vin 1v2. Right.",
+    "sale_price": "$14.87",
+    "msrp": "$17.41",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-ft-seat-air-bag-11k880242f"
   },
   {
     "brand": "Volkswagen",
@@ -1594,33 +1621,6 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "3C0-880-242-D",
-    "title": "Side Impact Inflator Module",
-    "description": "Golf. GTI. 4 door. Right. Front. Passat. Rabbit. 4 door.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3c0880242d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7P6-880-201-M-4A1",
-    "title": "Driver Inflator Module",
-    "description": "Touareg Hybrid. AIR BAGS. brown to 08/2016.",
-    "sale_price": "$1,503.34",
-    "msrp": "$1,936.54",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-7p6880201m4a1"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C1-880-241-A",
-    "title": "Side Impact Inflator Module",
-    "description": "Golf. GTI. 2 door. Left. Front, 2 door, from vin 1k7b094401. Rabbit. 2 door. R32.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3c1880241a"
-  },
-  {
-    "brand": "Volkswagen",
     "part_number": "3C0-880-442",
     "title": "Side Impact Inflator Module",
     "description": "CC. Right. Rear. Passat. Air bags.",
@@ -1639,39 +1639,39 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "3C1-880-242-A",
+    "part_number": "3C1-880-241-A",
     "title": "Side Impact Inflator Module",
-    "description": "Golf. GTI. 2 door. Right. Front, 2 door, from vin 1k7b094401. Rabbit. 2 door. R32.",
+    "description": "Golf. GTI. 2 door. Left. Front, 2 door, from vin 1k7b094401. Rabbit. 2 door. R32.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3c1880242a"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3c1880241a"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5NA-880-201-G-XEA",
-    "title": "Driver Inflator Module",
-    "description": "Tiguan. Without sport steering wheel. Arteon. Golf R. Air bags, with heat. Air bags. from 11/28/2022.",
-    "sale_price": "$402.12",
-    "msrp": "$518.00",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5na880201gxea"
+    "part_number": "3C0-880-242-D",
+    "title": "Side Impact Inflator Module",
+    "description": "Golf. GTI. 4 door. Right. Front. Passat. Rabbit. 4 door.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3c0880242d"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5C6-880-204-J",
+    "part_number": "3CM-880-204-E",
     "title": "Passenger Inflator Module",
-    "description": "Jetta. Sedan, air bags.",
-    "sale_price": "$379.18",
-    "msrp": "$488.44",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-5c6880204j"
+    "description": "Atlas. From 2/24/2020. Air bags, from 05/19/2019.",
+    "sale_price": "$84.68",
+    "msrp": "$107.14",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-3cm880204e"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "3C0-880-441",
-    "title": "Side Impact Inflator Module",
-    "description": "CC. Left. Rear. Passat. Air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3c0880441"
+    "part_number": "7P6-880-201-M-4A1",
+    "title": "Driver Inflator Module",
+    "description": "Touareg Hybrid. AIR BAGS. brown to 08/2016.",
+    "sale_price": "$1,804.01",
+    "msrp": "$2,323.86",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-7p6880201m4a1"
   },
   {
     "brand": "Volkswagen",
@@ -1684,9 +1684,18 @@
   },
   {
     "brand": "Volkswagen",
+    "part_number": "3C0-880-441",
+    "title": "Side Impact Inflator Module",
+    "description": "CC. Left. Rear. Passat. Air bags.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3c0880441"
+  },
+  {
+    "brand": "Volkswagen",
     "part_number": "1KM-880-201-E-81U",
     "title": "Driver Inflator Module",
-    "description": "Jetta. From 11/12. To 10/11. Sedan from 1/05, wagon 2009 only, without multifunction steering wheel, with balance weight. AIR BAGS....",
+    "description": "Jetta. From 11/12. To 10/11. Sedan from 1/05, wagon 2009 only, without multifunction steering wheel, without balance weight. AIR BAGS....",
     "sale_price": "$569.69",
     "msrp": "$733.86",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-1km880201e81u"
@@ -1699,6 +1708,105 @@
     "sale_price": "",
     "msrp": "",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-7p6880201m81u"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3C1-880-242-A",
+    "title": "Side Impact Inflator Module",
+    "description": "Golf. GTI. 2 door. Right. Front, 2 door, from vin 1k7b094401. Rabbit. 2 door. R32.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3c1880242a"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C6-880-204-J",
+    "title": "Passenger Inflator Module",
+    "description": "Jetta. Sedan, air bags.",
+    "sale_price": "$379.18",
+    "msrp": "$488.44",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-5c6880204j"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7B0-880-841-C",
+    "title": "Knee Inflator Module",
+    "description": "Routan.",
+    "sale_price": "$950.31",
+    "msrp": "$1,428.18",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-knee-inflator-module-7b0880841c"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5GM-880-201-L-HVF",
+    "title": "Driver Inflator Module",
+    "description": "Tiguan. With sport steering wheel. GTI. With multifunction. Air bags, titanium black/black.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5gm880201lhvf"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C0-959-653",
+    "title": "Clock Spring",
+    "description": "Beetle. 1.8l. Jetta. Low version. Without esp. MODULES AND SENSORS. with button start with servotronic. Beetle. 2.0l tdi. Modules and...",
+    "sale_price": "$329.36",
+    "msrp": "$494.99",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-clock-spring-5c0959653"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5G0-880-201-Q-81U",
+    "title": "Driver Inflator Module",
+    "description": "E-Golf. Without multifunction. Air bags, without tiptronic. Golf R. Egolf.",
+    "sale_price": "$501.11",
+    "msrp": "$645.51",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5g0880201q81u"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5NN-880-204-F",
+    "title": "Passenger Inflator Module",
+    "description": "Air bags, to 11/11/2019. Tiguan. Without knee inflator module. To 11/11/19.",
+    "sale_price": "$121.80",
+    "msrp": "$156.90",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-5nn880204f"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C6-880-741-E",
+    "title": "Inflator Curtain",
+    "description": "Jetta. Left. Sedan, air bags.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-inflator-curtain-5c6880741e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "17A-880-201-F-81U",
+    "title": "Driver Inflator Module",
+    "description": "Jetta. With radio switch. Air bags, with heated wheel.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-17a880201f81u"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3C0-880-201-BL-1QB",
+    "title": "Driver Inflator Module",
+    "description": "Passat. With 4 spk. strg. wheel. Without multifunction wheel. With 4 spoke strng whl, without radio controls, without balance weight.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-3c0880201bl1qb"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5NN-880-204-M",
+    "title": "Passenger Inflator Module",
+    "description": "Air bags, from 11/12/2019. Tiguan. Without knee inflator module. From 5/24/21. From 11/12/19 to 5/23/21.",
+    "sale_price": "$95.56",
+    "msrp": "$120.91",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-5nn880204m"
   },
   {
     "brand": "Volkswagen",
@@ -1720,12 +1828,12 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5G0-880-201-S-81U",
+    "part_number": "561-880-201-T-81U",
     "title": "Driver Inflator Module",
-    "description": "E-Golf. With multifunction. Golf SportWagen. Air bags. Arteon. Golf Alltrack. Egolf. Golf R.",
-    "sale_price": "$839.29",
-    "msrp": "$1,081.14",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5g0880201s81u"
+    "description": "Air bags. Passat.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-561880201t81u"
   },
   {
     "brand": "Volkswagen",
@@ -1738,48 +1846,12 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5C5-880-204-E",
-    "title": "Passenger Inflator Module",
-    "description": "Beetle. From 7/3/12. Convertible, air bags.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-5c5880204e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J0-959-653-C",
-    "title": "Clock Spring",
-    "description": "Driver & passenger. Beetle. Without stability control. Without stability cntrl. Convertible, without passenger deactivation switch,...",
-    "sale_price": "$189.07",
-    "msrp": "$284.15",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-clock-spring-1j0959653c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3D0-880-241-C",
-    "title": "Side Impact Inflator Module",
-    "description": "Phaeton. Front. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3d0880241c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5K0-880-201-AA-81U",
+    "part_number": "561-880-201-AA-81U",
     "title": "Driver Inflator Module",
-    "description": "",
-    "sale_price": "$249.53",
-    "msrp": "$321.43",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5k0880201aa81u"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3G1-880-204-E",
-    "title": "Passenger Inflator Module",
-    "description": "Air bags. Arteon.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-3g1880204e"
+    "description": "Passat. Air bags.",
+    "sale_price": "$84.68",
+    "msrp": "$107.14",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-561880201aa81u"
   },
   {
     "brand": "Volkswagen",
@@ -1810,39 +1882,93 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1C0-880-241-C",
-    "title": "Side Impact Inflator Module",
-    "description": "Beetle. Left. From vin 1c2430760.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-1c0880241c"
+    "part_number": "5G0-880-201-S-81U",
+    "title": "Driver Inflator Module",
+    "description": "E-Golf. With multifunction. Golf SportWagen. Air bags. Arteon. Golf Alltrack. Egolf. Golf R.",
+    "sale_price": "$901.87",
+    "msrp": "$1,161.76",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5g0880201s81u"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5GM-880-201-A-81U",
-    "title": "Driver Inflator Module",
-    "description": "GTI. Without multifunction. Air bags, without tiptronic, without e-Golf. Air bags, all. Golf Alltrack. Without radio control. Golf...",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5gm880201a81u"
+    "part_number": "5C5-880-204-E",
+    "title": "Passenger Inflator Module",
+    "description": "Beetle. From 7/3/12. Convertible, air bags.",
+    "sale_price": "$375.42",
+    "msrp": "$483.60",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-5c5880204e"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5NN-880-201-L-HVF",
+    "part_number": "5K0-880-201-AA-81U",
     "title": "Driver Inflator Module",
-    "description": "Air bags. Tiguan. Without sport steering wheel.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5nn880201lhvf"
+    "description": "",
+    "sale_price": "$249.53",
+    "msrp": "$321.43",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5k0880201aa81u"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "17A-880-201-H-HVF",
+    "part_number": "5NN-880-201-S-XEA",
     "title": "Driver Inflator Module",
-    "description": "Jetta. Without radio switch. Air bags, without heated wheel.",
+    "description": "Tiguan. Without sport steering wheel. Air bags, without heat. Air bags, awd.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5nn880201sxea"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3G1-880-204-E",
+    "title": "Passenger Inflator Module",
+    "description": "Air bags. Arteon.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-17a880201hhvf"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-3g1880204e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C5-880-201-AD-81U",
+    "title": "Driver Inflator Module",
+    "description": "Beetle. Without multi-function wheel. Air bags, without tiptronic, to 09/2016.",
+    "sale_price": "$116.45",
+    "msrp": "$150.00",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5c5880201ad81u"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5GM-880-741-J",
+    "title": "Inflator Curtain",
+    "description": "Right. With knee inflator. Golf. Air bags, 4 door, without r. GTI. 4 door. Left.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-inflator-curtain-5gm880741j"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5NN-880-201-S-XEA",
+    "title": "Driver Inflator Module",
+    "description": "Tiguan. Without sport steering wheel. Air bags, without heat. Air bags, awd.",
+    "sale_price": "$332.70",
+    "msrp": "$428.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5nn880201sxea"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3G1-880-204-E",
+    "title": "Passenger Inflator Module",
+    "description": "Air bags. Arteon.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-3g1880204e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C5-880-201-AD-81U",
+    "title": "Driver Inflator Module",
+    "description": "Beetle. Without multi-function wheel. Air bags, without tiptronic, to 09/2016.",
+    "sale_price": "$116.45",
+    "msrp": "$150.00",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5c5880201ad81u"
   },
   {
     "brand": "Volkswagen",
@@ -1852,15 +1978,6 @@
     "sale_price": "",
     "msrp": "",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-3c8880201aa81u"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5GM-880-204-F",
-    "title": "Passenger Inflator Module",
-    "description": "Air bags. GTI. Without knee inflator. Golf Alltrack. Golf R.",
-    "sale_price": "$75.60",
-    "msrp": "$95.65",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-5gm880204f"
   },
   {
     "brand": "Volkswagen",
@@ -1882,114 +1999,6 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "3C0-880-201-BH-1QB",
-    "title": "Driver Inflator Module",
-    "description": "Passat. With 3 spk. strg. wheel. Without balance weight.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-3c0880201bh1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3CM-880-201-D-81U",
-    "title": "Driver Inflator Module",
-    "description": "From 2/24/2020. Air bags, to 09/24/2020. Atlas Cross Sport.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-3cm880201d81u"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3CN-880-201-E-81U",
-    "title": "Driver Inflator Module",
-    "description": "Air bags. Atlas. To 2/23/2020.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-3cn880201e81u"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1KM-880-201-G-81U",
-    "title": "Driver Inflator Module",
-    "description": "With multi-function wheel. From 11/11. Sedan, air bags, with shift paddles on steering wheel, with shift paddles on steering wheel. To...",
-    "sale_price": "$382.15",
-    "msrp": "$492.27",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-1km880201g81u"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3CN-880-204-G",
-    "title": "Passenger Inflator Module",
-    "description": "Air bags, from 05/19/2019. Atlas. From 05/20/20 to 2/23/20.",
-    "sale_price": "$84.68",
-    "msrp": "$107.14",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-3cn880204g"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3AA-880-204-A",
-    "title": "Passenger Inflator Module",
-    "description": "CC. Air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-3aa880204a"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3CN-880-204-F",
-    "title": "Passenger Inflator Module",
-    "description": "Atlas. To 05/19/2019.",
-    "sale_price": "$90.30",
-    "msrp": "$114.26",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-3cn880204f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7B0-880-201-C-DX9",
-    "title": "Driver Inflator Module",
-    "description": "From 12/10. Routan.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-7b0880201cdx9"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7P6-880-204-E",
-    "title": "Passenger Inflator Module",
-    "description": "Air bags. Touareg Hybrid.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-7p6880204e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1T0-880-201-AA-81U",
-    "title": "Driver Inflator Module",
-    "description": "Air bags, all. With radio controls. Without aluminum inserts. Air bags, with multifunction steering wheel, without tiptronic. Tiguan...",
-    "sale_price": "$851.71",
-    "msrp": "$1,097.14",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-1t0880201aa81u"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3CN-880-204-G",
-    "title": "Passenger Inflator Module",
-    "description": "Air bags, from 05/19/2019. Atlas. From 05/20/20 to 2/23/20.",
-    "sale_price": "$84.68",
-    "msrp": "$107.14",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-3cn880204g"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C8-880-201-AA-81U",
-    "title": "Driver Inflator Module",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-3c8880201aa81u"
-  },
-  {
-    "brand": "Volkswagen",
     "part_number": "5GM-880-204-F",
     "title": "Passenger Inflator Module",
     "description": "Air bags. GTI. Without knee inflator. Golf Alltrack. Golf R.",
@@ -1999,27 +2008,9 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1C1-858-452-F-8SM",
-    "title": "Instrument Panel Upper Cover",
-    "description": "Coupe,. Convertible,.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-instrument-panel-upper-cover-1c1858452f8sm"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3D0-880-242-C",
-    "title": "Side Impact Inflator Module",
-    "description": "Phaeton. Front. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3d0880242c"
-  },
-  {
-    "brand": "Volkswagen",
     "part_number": "3C0-880-201-BH-1QB",
     "title": "Driver Inflator Module",
-    "description": "Passat. With 3 spk. strg. wheel. Without balance weight.",
+    "description": "Passat. With 4 spk. strg. wheel. Without multifunction wheel. With balance weight.",
     "sale_price": "",
     "msrp": "",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-3c0880201bh1qb"
@@ -2044,15 +2035,6 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1J0-959-654-BG",
-    "title": "Clock Spring",
-    "description": "Without stability cntrl, without passenger air bag deactivation.",
-    "sale_price": "$297.98",
-    "msrp": "$447.81",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-clock-spring-1j0959654bg"
-  },
-  {
-    "brand": "Volkswagen",
     "part_number": "1C0-880-242-C",
     "title": "Side Impact Inflator Module",
     "description": "Beetle. Right. From vin 1c2430760.",
@@ -2062,21 +2044,21 @@
   },
   {
     "brand": "Volkswagen",
+    "part_number": "1J0-959-654-BG",
+    "title": "Clock Spring",
+    "description": "Without stability cntrl, without passenger air bag deactivation.",
+    "sale_price": "$297.98",
+    "msrp": "$447.81",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-clock-spring-1j0959654bg"
+  },
+  {
+    "brand": "Volkswagen",
     "part_number": "5GM-880-742-J",
     "title": "Inflator Curtain",
     "description": "Left. With knee inflator. Golf. Air bags, 4 door, without r. GTI. 4 door. Right.",
     "sale_price": "",
     "msrp": "",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-inflator-curtain-5gm880742j"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5H0-880-201-J-HVF",
-    "title": "Driver Inflator Module",
-    "description": "GTI. To 11/28/2022. Golf R.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5h0880201jhvf"
   },
   {
     "brand": "Volkswagen",
@@ -2107,39 +2089,183 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1C0-880-241-C",
-    "title": "Side Impact Inflator Module",
-    "description": "Beetle. Left. From vin 1c2430760.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-1c0880241c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5GM-880-201-A-81U",
-    "title": "Driver Inflator Module",
-    "description": "GTI. Without multifunction. Air bags, without tiptronic, without e-Golf. Air bags, all. Golf Alltrack. Without radio control. Golf...",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5gm880201a81u"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "17A-880-201-H-HVF",
-    "title": "Driver Inflator Module",
-    "description": "Jetta. Without radio switch. Air bags, without heated wheel.",
+    "part_number": "5C6-880-742-E",
+    "title": "Inflator Curtain",
+    "description": "Jetta. Right. Sedan, air bags.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-17a880201hhvf"
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-inflator-curtain-5c6880742e"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5NN-880-201-L-HVF",
+    "part_number": "5H0-880-201-J-HVF",
     "title": "Driver Inflator Module",
-    "description": "Air bags. Tiguan. Without sport steering wheel.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5nn880201lhvf"
+    "description": "GTI. To 11/28/2022. Golf R.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5h0880201jhvf"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3AA-880-204-A",
+    "title": "Passenger Inflator Module",
+    "description": "CC. Air bags.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-3aa880204a"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3CN-880-201-E-81U",
+    "title": "Driver Inflator Module",
+    "description": "Air bags. Atlas. To 2/23/2020.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-3cn880201e81u"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C5-880-201-AE-81U",
+    "title": "Driver Inflator Module",
+    "description": "Beetle. With multi-function wheel. Convertible, air bags.",
+    "sale_price": "$84.68",
+    "msrp": "$107.14",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5c5880201ae81u"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3CN-880-204-F",
+    "title": "Passenger Inflator Module",
+    "description": "Atlas. To 05/19/2019.",
+    "sale_price": "$90.30",
+    "msrp": "$114.26",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-3cn880204f"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "10A-880-201-G-VPJ",
+    "title": "Driver Inflator Module",
+    "description": "ID.4. Vin wvg. Air bags, white.",
+    "sale_price": "$501.11",
+    "msrp": "$645.51",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-10a880201gvpj"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1KM-880-201-G-81U",
+    "title": "Driver Inflator Module",
+    "description": "With multi-function wheel. From 11/11. Sedan, air bags, with shift paddles on steering wheel, with shift paddles on steering wheel. To...",
+    "sale_price": "$382.15",
+    "msrp": "$492.27",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-1km880201g81u"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5C6-880-204-K",
+    "title": "Passenger Inflator Module",
+    "description": "Jetta. Air bags.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-5c6880204k"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7B0-880-201-C-DX9",
+    "title": "Driver Inflator Module",
+    "description": "From 12/10. Routan.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-7b0880201cdx9"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7P6-880-204-E",
+    "title": "Passenger Inflator Module",
+    "description": "Air bags. Touareg Hybrid.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-7p6880204e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1T0-880-201-AA-81U",
+    "title": "Driver Inflator Module",
+    "description": "Air bags, all. With radio controls. Without aluminum inserts. Air bags, with multifunction steering wheel, without tiptronic. Tiguan...",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-1t0880201aa81u"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3CN-880-204-G",
+    "title": "Passenger Inflator Module",
+    "description": "Air bags, from 05/19/2019. Atlas. From 05/20/20 to 2/23/20.",
+    "sale_price": "$84.68",
+    "msrp": "$107.14",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-3cn880204g"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5NA-880-201-G-XEA",
+    "title": "Driver Inflator Module",
+    "description": "Tiguan. Without sport steering wheel. Arteon. Air bags, from 11/28/2022. Golf R. From 11/28/22 to 11/25/24. Air bags, with heat.",
+    "sale_price": "$402.12",
+    "msrp": "$518.00",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-5na880201gxea"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7B0-880-242",
+    "title": "Side Impact Inflator Module",
+    "description": "Routan. Right.",
+    "sale_price": "$618.19",
+    "msrp": "$929.05",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-7b0880242"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "3G1-880-242-E",
+    "title": "Side Impact Inflator Module",
+    "description": "Air bags. Arteon. Right.",
+    "sale_price": "$196.46",
+    "msrp": "$253.07",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3g1880242e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5NN-880-242-E",
+    "title": "Side Impact Inflator Module",
+    "description": "Tiguan. Right. Air bags, to 01/09/2023. Air bags, from 01/09/2023.",
+    "sale_price": "$95.97",
+    "msrp": "$121.43",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-5nn880242e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5K0-953-549-B",
+    "title": "Clock Spring",
+    "description": "Golf. Without keyless entry. Without keyless access. Jetta wagon. Sedan, modules and sensors, without button start.",
+    "sale_price": "$501.81",
+    "msrp": "$754.15",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-clock-spring-5k0953549b"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1J0-971-584-J",
+    "title": "Wire Harness",
+    "description": "Driver air bag with 4 spoke wheel.",
+    "sale_price": "$111.76",
+    "msrp": "$152.30",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-1j0971584j"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5K0-971-584-A",
+    "title": "Wire Harness",
+    "description": "Sedan, air bags, with multifunction steering wheel, to 12/05/2011. With balance weight. Wagon, 2010-11, with multifunction steering...",
+    "sale_price": "$155.25",
+    "msrp": "$215.37",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-5k0971584a"
   },
   {
     "brand": "Volkswagen",
@@ -2172,7 +2298,7 @@
     "brand": "Volkswagen",
     "part_number": "1J0-959-654-BK",
     "title": "Clock Spring",
-    "description": "With stability cntrl. With stability control. , without passenger deactivation switch, with steering sensor.",
+    "description": "With stability cntrl. With steering sensor. With stability control.",
     "sale_price": "$701.43",
     "msrp": "$973.06",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-clock-spring-1j0959654bk"
@@ -2182,144 +2308,9 @@
     "part_number": "561-880-241-E",
     "title": "Side Impact Inflator Module",
     "description": "Air bags. Passat. Left.",
-    "sale_price": "$17.28",
-    "msrp": "$20.23",
+    "sale_price": "$15.54",
+    "msrp": "$18.20",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-561880241e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "561-880-242-E",
-    "title": "Side Impact Inflator Module",
-    "description": "Air bags. Passat. Right.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-561880242e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "11A-880-242-Q",
-    "title": "Side Impact Inflator Module",
-    "description": "ID.4. Vin wvg. Right. Air bags.",
-    "sale_price": "$162.27",
-    "msrp": "$209.03",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-11a880242q"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5N0-880-441-C-31X",
-    "title": "Side Impact Inflator Module",
-    "description": "Tiguan. Rear. Left. Air bags, brown.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-5n0880441c31x"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K8-880-241-D",
-    "title": "Side Impact Inflator Module",
-    "description": "CC. Front. Left. Air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-1k8880241d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-971-584",
-    "title": "Wire Harness",
-    "description": "Sedan from 1/05, wagon 2009 only, without multifunction steering wheel, wagon.",
-    "sale_price": "$176.32",
-    "msrp": "$244.60",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-1k0971584"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "11A-880-241-Q",
-    "title": "Side Impact Inflator Module",
-    "description": "ID.4. Vin wvg. Left. Air bags.",
-    "sale_price": "$162.26",
-    "msrp": "$209.01",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-11a880241q"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "17A-880-242-H",
-    "title": "Side Impact Inflator Module",
-    "description": "Air bags, to 06/04/2023. Jetta. Right.",
-    "sale_price": "$332.70",
-    "msrp": "$428.57",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-17a880242h"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "510-880-241-A",
-    "title": "Side Impact Inflator Module",
-    "description": "E-Golf. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-510880241a"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5N0-880-442-C-82V",
-    "title": "Side Impact Inflator Module",
-    "description": "Tiguan. Rear. Right. Air bags, black.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-5n0880442c82v"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5N0-880-441-C-31X",
-    "title": "Side Impact Inflator Module",
-    "description": "Tiguan. Rear. Left. Air bags, brown.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-5n0880441c31x"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K8-880-241-D",
-    "title": "Side Impact Inflator Module",
-    "description": "CC. Front. Left. Air bags.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-1k8880241d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "510-880-241-A",
-    "title": "Side Impact Inflator Module",
-    "description": "E-Golf. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-510880241a"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-971-584",
-    "title": "Wire Harness",
-    "description": "Sedan from 1/05, wagon 2009 only, without multifunction steering wheel, wagon.",
-    "sale_price": "$176.32",
-    "msrp": "$244.60",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-1k0971584"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "11A-880-241-Q",
-    "title": "Side Impact Inflator Module",
-    "description": "ID.4. Vin wvg. Left. Air bags.",
-    "sale_price": "$162.26",
-    "msrp": "$209.01",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-11a880241q"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5N0-880-442-C-82V",
-    "title": "Side Impact Inflator Module",
-    "description": "Tiguan. Rear. Right. Air bags, black.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-5n0880442c82v"
   },
   {
     "brand": "Volkswagen",
@@ -2329,24 +2320,6 @@
     "sale_price": "",
     "msrp": "",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-1q0880242g"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7P0-880-241-D",
-    "title": "Side Impact Inflator Module",
-    "description": "Air bags. From 7/11. Touareg Hybrid. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-7p0880241d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7P0-880-242-D",
-    "title": "Side Impact Inflator Module",
-    "description": "Air bags. From 7/11. Touareg Hybrid. Right. To 7/11.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-7p0880242d"
   },
   {
     "brand": "Volkswagen",
@@ -2368,15 +2341,6 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5TA-971-584-B",
-    "title": "Wire Harness",
-    "description": "Air bags, with gli.",
-    "sale_price": "$27.69",
-    "msrp": "$36.45",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-5ta971584b"
-  },
-  {
-    "brand": "Volkswagen",
     "part_number": "5K0-971-584-B",
     "title": "Wire Harness",
     "description": "Without multifunction steering wheel, without multifunction steering wheel. AIR BAGS. without multifunction steering wheel from...",
@@ -2386,12 +2350,39 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1K0-971-584-L",
+    "part_number": "7P0-880-241-D",
+    "title": "Side Impact Inflator Module",
+    "description": "Air bags. From 7/11. Touareg Hybrid. Left.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-7p0880241d"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7P0-880-242-D",
+    "title": "Side Impact Inflator Module",
+    "description": "Air bags. From 7/11. Touareg Hybrid. Right.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-7p0880242d"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5TA-971-584-B",
     "title": "Wire Harness",
-    "description": "Sedan from 1/05, wagon 2009 only, with multifunction steering wheel, sedan.",
-    "sale_price": "$26.08",
-    "msrp": "$34.33",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-1k0971584l"
+    "description": "Air bags. without gli.",
+    "sale_price": "$27.69",
+    "msrp": "$36.45",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-5ta971584b"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5NN-880-241-E",
+    "title": "Side Impact Inflator Module",
+    "description": "Tiguan. Left. Air bags, to 01/09/2023. Air bags, from 01/09/2023.",
+    "sale_price": "$104.77",
+    "msrp": "$132.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-5nn880241e"
   },
   {
     "brand": "Volkswagen",
@@ -2404,30 +2395,120 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "5NN-880-242-E",
-    "title": "Side Impact Inflator Module",
-    "description": "Tiguan. Right. Air bags, to 01/09/2023. Air bags, from 01/09/2023.",
-    "sale_price": "$95.97",
-    "msrp": "$121.43",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-5nn880242e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5K0-953-549-B",
-    "title": "Clock Spring",
-    "description": "Golf. Without keyless access. Jetta wagon. Without keyless entry. Sedan, modules and sensors, without button start.",
-    "sale_price": "$501.81",
-    "msrp": "$754.15",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-clock-spring-5k0953549b"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J0-971-584-J",
+    "part_number": "1K0-971-584-L",
     "title": "Wire Harness",
-    "description": "Driver air bag with 4 spoke wheel.",
-    "sale_price": "$111.76",
-    "msrp": "$152.30",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-1j0971584j"
+    "description": "Sedan from 1/05, wagon 2009 only, with multifunction steering wheel, sedan.",
+    "sale_price": "$26.08",
+    "msrp": "$34.33",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-1k0971584l"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5K0-971-584",
+    "title": "Wire Harness",
+    "description": "Without multifunction steering wheel, without multifunction steering wheel. AIR BAGS. without multifunction steering wheel to 12/05/2011.",
+    "sale_price": "$148.59",
+    "msrp": "$206.14",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-5k0971584"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K0-971-584-K",
+    "title": "Wire Harness",
+    "description": "Sedan from 1/05, wagon 2009 only, without multifunction steering wheel, sedan.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-1k0971584k"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5N0-880-442-C-31X",
+    "title": "Side Impact Inflator Module",
+    "description": "Tiguan. Rear. Right. Air bags, brown.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-5n0880442c31x"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7P0-880-241-D",
+    "title": "Side Impact Inflator Module",
+    "description": "Air bags. From 7/11. Touareg Hybrid. Left.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-7p0880241d"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "7P0-880-242-D",
+    "title": "Side Impact Inflator Module",
+    "description": "Air bags. From 7/11. Touareg Hybrid. Right.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-7p0880242d"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5TA-971-584-B",
+    "title": "Wire Harness",
+    "description": "Air bags. without gli.",
+    "sale_price": "$27.69",
+    "msrp": "$36.45",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-5ta971584b"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5NN-880-241-E",
+    "title": "Side Impact Inflator Module",
+    "description": "Tiguan. Left. Air bags, to 01/09/2023. Air bags, from 01/09/2023.",
+    "sale_price": "$104.77",
+    "msrp": "$132.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-5nn880241e"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1J0-959-654-AL",
+    "title": "Clock Spring",
+    "description": "With stability cntrl.",
+    "sale_price": "$695.33",
+    "msrp": "$964.60",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-clock-spring-1j0959654al"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K0-971-584-L",
+    "title": "Wire Harness",
+    "description": "Sedan from 1/05, wagon 2009 only, with multifunction steering wheel, sedan.",
+    "sale_price": "$26.08",
+    "msrp": "$34.33",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-1k0971584l"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5K0-971-584",
+    "title": "Wire Harness",
+    "description": "Without multifunction steering wheel, without multifunction steering wheel. AIR BAGS. without multifunction steering wheel to 12/05/2011.",
+    "sale_price": "$148.59",
+    "msrp": "$206.14",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-5k0971584"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "1K0-971-584-K",
+    "title": "Wire Harness",
+    "description": "Sedan from 1/05, wagon 2009 only, without multifunction steering wheel, sedan.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-1k0971584k"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "5N0-880-442-C-31X",
+    "title": "Side Impact Inflator Module",
+    "description": "Tiguan. Rear. Right. Air bags, brown.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-5n0880442c31x"
   },
   {
     "brand": "Volkswagen",
@@ -2452,18 +2533,27 @@
     "part_number": "3G1-880-241-E",
     "title": "Side Impact Inflator Module",
     "description": "Air bags. Arteon. Left.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$52.36",
+    "msrp": "$74.65",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3g1880241e"
   },
   {
     "brand": "Volkswagen",
-    "part_number": "4M0-959-339-B-060",
+    "part_number": "4M0-959-339-B-065",
     "title": "Occupant Module",
-    "description": "Modules & sensors.",
-    "sale_price": "$90.08",
-    "msrp": "$132.99",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-occupant-module-4m0959339b060"
+    "description": "Modules & sensors, comfort seat. Modules & sensors, without cloth seat.",
+    "sale_price": "$52.36",
+    "msrp": "$74.65",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-occupant-module-4m0959339b065"
+  },
+  {
+    "brand": "Volkswagen",
+    "part_number": "4M0-959-339-B-066",
+    "title": "Occupant Module",
+    "description": "Modules & sensors, sport/comfort seat. MODULES & SENSORS. without cloth seats with sport seat.",
+    "sale_price": "$50.91",
+    "msrp": "$72.57",
+    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-occupant-module-4m0959339b066"
   },
   {
     "brand": "Volkswagen",
@@ -2476,402 +2566,6 @@
   },
   {
     "brand": "Volkswagen",
-    "part_number": "1J0-880-201-N-4EC",
-    "title": "Driver Inflator Module",
-    "description": "Beetle. Jetta. Wagon. With multi-function ind. Passat. New style. 4 spoke wheel, with multifuntion. Without sport steering wheel, with...",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-1j0880201n4ec"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J0-959-654-BF",
-    "title": "Clock Spring",
-    "description": "Convertible, with passenger deactivation switch, with passenger deactivation switch. Beetle. Coupe, with stability control, with...",
-    "sale_price": "$713.63",
-    "msrp": "$989.99",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-clock-spring-1j0959654bf"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J9-880-742-F",
-    "title": "Head Air Bag",
-    "description": "Jetta. Right. Wagon.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1j9880742f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J4-880-242-F",
-    "title": "Side Air Bag",
-    "description": "Convertible,. Coupe, from vin 1c2430760.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-1j4880242f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1HM-880-261-F-08P",
-    "title": "Air Bag Door",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-door-1hm880261f08p"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7D0-880-203-A-01C",
-    "title": "Driver Air Bag",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-7d0880203a01c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "380880242A",
-    "title": "Side Air Bag",
-    "description": "From vin 1ht096221, driver.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-380880242a"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J6-880-742-F",
-    "title": "Head Air Bag",
-    "description": "Head. Right. R32.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1j6880742f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-201-BK-4EC",
-    "title": "Driver Air Bag",
-    "description": "With sport steering wheel, with sport steering wheel. Driver & passenger, with sport wheel. 3 spoke wheel.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-3b0880201bk4ec"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-241-F-7B4",
-    "title": "Side Air Bag",
-    "description": "Anthracite.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-3b0880241f7b4"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7L6-880-742-F",
-    "title": "Head Air Bag",
-    "description": "Touareg. Head. Passenger side. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7l6880742f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7B0880742H",
-    "title": "Head Air Bag",
-    "description": "From 9/15/08. Routan. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7b0880742h"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B1-880-261-D-8BL",
-    "title": "Air Bag Door",
-    "description": "Walnut.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-door-3b1880261d8bl"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-242-F-7C7",
-    "title": "Side Air Bag",
-    "description": "Beige.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-3b0880242f7c7"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "380880241A",
-    "title": "Side Air Bag",
-    "description": "From vin 1ht096221, passenger.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-380880241a"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7L0880240J",
-    "title": "Side Air Bag",
-    "description": "Touareg. Passenger side. Side air bag, from vin 7l5041501.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-7l0880240j"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J0-880-204-K",
-    "title": "Passenger Air Bag",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-1j0880204k"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B1-880-261-D-2L4",
-    "title": "Air Bag Door",
-    "description": "Platinum.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-door-3b1880261d2l4"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B9-880-742-K",
-    "title": "Head Air Bag",
-    "description": "Passat. Wagon. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3b9880742k"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C0-880-201-AS-1QB",
-    "title": "Driver Air Bag",
-    "description": "Eos. With radio control. Passat. With 3 spk. strg. wheel. Without balance weight, with remote controls.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-3c0880201as1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5H0880201GHVF",
-    "title": "Driver Air Bag",
-    "description": "Air bags, from 11/28/2022.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-5h0880201ghvf"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C1-880-242",
-    "title": "Side Air Bag",
-    "description": "Front, 2 door, to vin# 1k7b094400.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-3c1880242"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-241-F-E74",
-    "title": "Side Air Bag",
-    "description": "Black.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-3b0880241fe74"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1H0-898-203",
-    "title": "Driver Air Bag",
-    "description": "To vin 1ht096220, without leather strg whl. Front. Without wagon. Passat. Cabrio. Driver side. Golf, GTI.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1h0898203"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-241-F-68H",
-    "title": "Side Air Bag",
-    "description": "Green.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-3b0880241f68h"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-242-F-7B4",
-    "title": "Side Air Bag",
-    "description": "Anthracite.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-3b0880242f7b4"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J4-880-241-F",
-    "title": "Side Air Bag",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-1j4880241f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5N0-880-201-C-1QB",
-    "title": "Driver Air Bag",
-    "description": "Air bags, without multifunction steering wheel, without multifunction steering wheel. Tiguan. Without radio controls.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-5n0880201c1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5GM880201ACHVF",
-    "title": "Driver Air Bag",
-    "description": "Air bags, with tiptronic, with r, with tiptronic, with r.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-5gm880201achvf"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7D1-880-200-B-8HS",
-    "title": "Passenger Air Bag",
-    "description": "Lagoon.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-7d1880200b8hs"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C1-880-241",
-    "title": "Side Air Bag",
-    "description": "Front, 2 door, to vin# 1k7b094400.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-3c1880241"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7D1-880-200-B-8EL",
-    "title": "Passenger Air Bag",
-    "description": "Gray. EuroVan.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-7d1880200b8el"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B1-880-261-D-27Y",
-    "title": "Air Bag Door",
-    "description": "Black.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-door-3b1880261d27y"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J3-880-242-F",
-    "title": "Side Air Bag",
-    "description": "Golf, GTI, R32. Passenger side. 2 door.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-1j3880242f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1H0-898-203-A",
-    "title": "Driver Air Bag",
-    "description": "To vin 1ht096220, with leather strg whl.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1h0898203a"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C0-880-204-F",
-    "title": "Passenger Air Bag",
-    "description": "Air bags. CC. Passat.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-3c0880204f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7B0-880-741-C",
-    "title": "Head Air Bag",
-    "description": "From 9/15/08. Routan. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7b0880741c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-242-F-E74",
-    "title": "Side Air Bag",
-    "description": "Black.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-3b0880242fe74"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-919-234-E",
-    "title": "Air Bag Lamp",
-    "description": "Sedan from 1/05, wagon 2009 only,.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-lamp-1k0919234e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J4-880-241-H",
-    "title": "Side Air Bag",
-    "description": "To vin 1c2430759. Beetle. Left. 4 door. Driver & passenger.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-1j4880241h"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7L0-880-240-E",
-    "title": "Side Air Bag",
-    "description": "Touareg. Passenger side.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-7l0880240e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7B0880741H",
-    "title": "Head Air Bag",
-    "description": "From 9/15/08. Routan. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7b0880741h"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-241-F-7B4",
-    "title": "Side Air Bag",
-    "description": "Anthracite.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-3b0880241f7b4"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J9-880-742-F",
-    "title": "Head Air Bag",
-    "description": "Jetta. Right. Wagon.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1j9880742f"
-  },
-  {
-    "brand": "Volkswagen",
     "part_number": "7L6-880-742-F",
     "title": "Head Air Bag",
     "description": "Touareg. Head. Passenger side. Right.",
@@ -2896,410 +2590,5 @@
     "sale_price": "",
     "msrp": "",
     "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-7b0880742h"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B1-880-261-D-8BL",
-    "title": "Air Bag Door",
-    "description": "Walnut.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-door-3b1880261d8bl"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J4-880-242-F",
-    "title": "Side Air Bag",
-    "description": "Convertible,. Coupe, from vin 1c2430760.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-1j4880242f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J6-880-741-F",
-    "title": "Head Air Bag",
-    "description": "Head. Left. R32.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1j6880741f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-241-F-7C7",
-    "title": "Side Air Bag",
-    "description": "Beige.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-3b0880241f7c7"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B9-880-741-K",
-    "title": "Head Air Bag",
-    "description": "Passat. Wagon. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3b9880741k"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1C1-971-581-A",
-    "title": "Air Bag Harness",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-harness-1c1971581a"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J5-880-741-D",
-    "title": "Head Air Bag",
-    "description": "Jetta. Left. Sedan.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1j5880741d"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-242-F-68H",
-    "title": "Side Air Bag",
-    "description": "Green.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-3b0880242f68h"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C0-880-741-E",
-    "title": "Head Air Bag",
-    "description": "From vin 3c9150001. Passat. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3c0880741e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J3-880-241-F",
-    "title": "Side Air Bag",
-    "description": "2 door.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-1j3880241f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C0-880-742-E",
-    "title": "Head Air Bag",
-    "description": "From vin 3c9150001. Passat. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3c0880742e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-241-F-69J",
-    "title": "Side Air Bag",
-    "description": "Beige.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-air-bag-3b0880241f69j"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B5-880-741-H",
-    "title": "Head Air Bag",
-    "description": "Passat. Sedan. Left.",
-    "sale_price": "$249.53",
-    "msrp": "$321.43",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3b5880741h"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B5-880-742-H",
-    "title": "Head Air Bag",
-    "description": "Passat. Right. Sedan, from vin# 3b2150001. Sedan, to vin# 3b2150000. Head air bag, sedan.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-3b5880742h"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J1-880-261-C-23F",
-    "title": "Air Bag Door",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-air-bag-door-1j1880261c23f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3D0-880-203-B-5M4",
-    "title": "Driver Air Bag",
-    "description": "Blue.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-3d0880203b5m4"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J9-880-741-F",
-    "title": "Head Air Bag",
-    "description": "Jetta. Left. Wagon.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-head-air-bag-1j9880741f"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1H0-880-199-01C",
-    "title": "Driver Air Bag",
-    "description": "From vin 1ht096221. Jetta. Front. Without wagon. Cabrio. Driver side. Golf, GTI.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-air-bag-1h088019901c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-880-201-BP-1QB",
-    "title": "Steering Wheel Air Bag",
-    "description": "With audio control. With multifunction steering wheel, with balance weight. Jetta. All. With radio controls. Urethane wheel. Rabbit....",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-steering-wheel-air-bag-1k0880201bp1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-880-201-J-1QB",
-    "title": "Steering Wheel Air Bag",
-    "description": "With multifunction steering wheel without balance weight.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-steering-wheel-air-bag-1k0880201j1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1HM-898-261-Q05",
-    "title": "Passenger Air Bag Cover",
-    "description": "From vin 1ht096221, beaver. To vin 1ht096220, beaver.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-cover-1hm898261q05"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-880-201-H-1QB",
-    "title": "Steering Wheel Air Bag",
-    "description": "Without multifunction steering wheel without balance weight.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-steering-wheel-air-bag-1k0880201h1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1HM-898-261-A35",
-    "title": "Passenger Air Bag Cover",
-    "description": "From vin 1ht096221, black. To vin 1ht096220, black.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-air-bag-cover-1hm898261a35"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-880-201-M-1QB",
-    "title": "Steering Wheel Air Bag",
-    "description": "Jetta. 3 spoke wheel. With multifunction steering wheel with balance weight.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-steering-wheel-air-bag-1k0880201m1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-880-201-L-1QB",
-    "title": "Steering Wheel Air Bag",
-    "description": "Jetta. 4 spoke wheel. Without multifunction steering wheel with balance weight.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-steering-wheel-air-bag-1k0880201l1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C0-880-241-B",
-    "title": "Side Impact Inflator Module",
-    "description": "Jetta. Driver side. Passat. Left. Front, 4 door, to vin# 1k7b094400.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3c0880241b"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C0-880-242-B",
-    "title": "Side Impact Inflator Module",
-    "description": "Jetta. Passenger side. Passat. Right. Front, 4 door, to vin# 1k7b094400.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-3c0880242b"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7B0880741B",
-    "title": "Inflator Curtain",
-    "description": "Routan. Left. From 9/15/08.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-inflator-curtain-7b0880741b"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7B0880742B",
-    "title": "Inflator Curtain",
-    "description": "Routan. Right. From 9/15/08.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-inflator-curtain-7b0880742b"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3C0-880-201-BJ-1QB",
-    "title": "Driver Inflator Module",
-    "description": "Passat. With 4 spk. strg. wheel. With  multifunction wheel. With balance weight.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-3c0880201bj1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-880-201-CA-1QB",
-    "title": "Driver Inflator Module",
-    "description": "Eos. With multifunction. Without balance weight, without remote controls. GTI. Without radio controls. Rabbit. With tiptronic.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-1k0880201ca1qb"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "5C5-880-204-B",
-    "title": "Passenger Inflator Module",
-    "description": "Air bags. Beetle. From 11/14/11 to 7/2/12.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-5c5880204b"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7L0-880-240-R",
-    "title": "Side Impact Inflator Module",
-    "description": "Side air bag, from vin 7l5041501. Touareg. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-7l0880240r"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1K0-959-653-A",
-    "title": "Clock Spring",
-    "description": "Sedan.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-clock-spring-1k0959653a"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J0-971-584-H",
-    "title": "Wire Harness",
-    "description": "Driver air bag with 3 spoke wheel.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-1j0971584h"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1Q0-880-241-B",
-    "title": "Side Impact Inflator Module",
-    "description": "Eos. Left. Without power height adjust. Without power seat.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-1q0880241b"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1Q0-880-242-B",
-    "title": "Side Impact Inflator Module",
-    "description": "Without power seat. Eos. Right. Without power height adjust.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-1q0880242b"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J0-971-584-K",
-    "title": "Wire Harness",
-    "description": "Driver air bag with 3 spoke wheel.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-wire-harness-1j0971584k"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1Q0-880-241-C",
-    "title": "Side Impact Inflator Module",
-    "description": "Eos. Left. With power height adjust. With power seat.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-1q0880241c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1Q0-880-242-C",
-    "title": "Side Impact Inflator Module",
-    "description": "Eos. Right. With power height adjust. With power seat.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-1q0880242c"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-201-BS-4EC",
-    "title": "Driver Inflator Module",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-driver-inflator-module-3b0880201bs4ec"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1HM-880-204",
-    "title": "Inflator Module",
-    "description": "Front. Passenger side. Cabrio. Passat. Golf, GTI, Jetta.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-inflator-module-1hm880204"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "7L0-880-202-E",
-    "title": "Inflator Module",
-    "description": "Passenger side. Front air bag, to vin 7l8081000. Touareg.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-inflator-module-7l0880202e"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "1J4-880-242-H",
-    "title": "Side Impact Inflator Module",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-side-impact-inflator-module-1j4880242h"
-  },
-  {
-    "brand": "Volkswagen",
-    "part_number": "3B0-880-204-G",
-    "title": "Passenger Inflator Module",
-    "description": "Front. Passat. Beetle. Driver & passenger. Jetta. Passenger side. Wagon. From 12/01. EuroVan. Golf, GTI.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://volkswagen.oempartsonline.com/oem-parts/volkswagen-passenger-inflator-module-3b0880204g"
   }
 ]
