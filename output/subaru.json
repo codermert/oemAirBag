@@ -1,192 +1,93 @@
 [
   {
     "brand": "Subaru",
-    "part_number": "98251SG020",
+    "part_number": "98251SL030",
     "title": "Head Air Bag",
-    "description": "Air bags. Forester. Right.",
-    "sale_price": "$702.72",
-    "msrp": "$1,055.13",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251sg020"
+    "description": "Air bags. Forester. Left.",
+    "sale_price": "$497.23",
+    "msrp": "$743.25",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251sl030"
   },
   {
     "brand": "Subaru",
-    "part_number": "98251CA000",
-    "title": "Head Air Bag",
-    "description": "Air bags. BRZ. Right.",
-    "sale_price": "$520.88",
-    "msrp": "$778.60",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ca000"
+    "part_number": "98271FE052NV",
+    "title": "Passenger Air Bag",
+    "description": "Ts, Outback.",
+    "sale_price": "$1,325.88",
+    "msrp": "$1,990.82",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271fe052nv"
   },
   {
     "brand": "Subaru",
-    "part_number": "98211AJ04CVH",
-    "title": "Driver Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$539.23",
-    "msrp": "$806.02",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211aj04cvh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251XC01B",
+    "part_number": "98251FG002",
     "title": "Head Air Bag",
-    "description": "Air bags. Ascent. Left.",
-    "sale_price": "$569.82",
-    "msrp": "$855.58",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251xc01b"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FG012",
-    "title": "Head Air Bag",
-    "description": "Impreza. Wagon. With turbo. Left.",
+    "description": "Impreza. Wagon. With turbo. Right.",
     "sale_price": "$550.33",
     "msrp": "$822.62",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fg012"
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fg002"
   },
   {
     "brand": "Subaru",
-    "part_number": "98251CA021",
-    "title": "Head Air Bag",
-    "description": "Air bags. BRZ. Right.",
-    "sale_price": "$556.59",
-    "msrp": "$835.72",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ca021"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FL01B",
-    "title": "Head Air Bag",
-    "description": "Impreza. Sedan. Left.",
-    "sale_price": "$630.72",
-    "msrp": "$947.03",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fl01b"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251VA061",
+    "part_number": "98251VA050",
     "title": "Head Air Bag",
     "description": "Air bags. WRX, WRX STI. Left.",
-    "sale_price": "$633.97",
-    "msrp": "$951.90",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251va061"
+    "sale_price": "$618.30",
+    "msrp": "$928.38",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251va050"
   },
   {
     "brand": "Subaru",
-    "part_number": "98251XA01B",
+    "part_number": "98251AJ26A",
     "title": "Head Air Bag",
-    "description": "Tribeca. Left.",
-    "sale_price": "$357.07",
-    "msrp": "$533.73",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251xa01b"
+    "description": "Air bags, Outback, with sunroof.",
+    "sale_price": "$374.51",
+    "msrp": "$559.80",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251aj26a"
   },
   {
     "brand": "Subaru",
-    "part_number": "98251AG13A",
-    "title": "Head Air Bag",
-    "description": "Wagon, with i, gt & XT.",
-    "sale_price": "$357.07",
-    "msrp": "$533.73",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ag13a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98241AE35A",
-    "title": "Air Bag Harness",
-    "description": "Rear, without side air bag.",
-    "sale_price": "$59.09",
-    "msrp": "$86.38",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-air-bag-harness-98241ae35a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211AL02AVH",
+    "part_number": "98211VA010VH",
     "title": "Driver Air Bag",
-    "description": "Air bags. Legacy, Outback.",
-    "sale_price": "$572.44",
-    "msrp": "$859.52",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211al02avh"
+    "description": "Air Bag Module Driver.\nBlack.\nThe Air Bag inflator Module mounted to the steering Wheel.\nFits STI, WRX\nAir Bag Inflator Module\nA very...",
+    "sale_price": "$652.68",
+    "msrp": "$980.00",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211va010vh"
   },
   {
     "brand": "Subaru",
-    "part_number": "98271XC00A",
-    "title": "Passenger Air Bag",
+    "part_number": "98251AJ05B",
+    "title": "Head Air Bag",
+    "description": "Legacy/Outback. Wagon. Left. Without sunroof.",
+    "sale_price": "$369.50",
+    "msrp": "$552.32",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251aj05b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211SL000VH",
+    "title": "Driver Air Bag",
+    "description": "Air bags. Forester.",
+    "sale_price": "$659.87",
+    "msrp": "$990.80",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211sl000vh"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211XC00AVH",
+    "title": "Driver Air Bag",
     "description": "Air bags. Ascent.",
-    "sale_price": "$611.40",
-    "msrp": "$918.02",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271xc00a"
+    "sale_price": "$553.07",
+    "msrp": "$826.72",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211xc00avh"
   },
   {
     "brand": "Subaru",
-    "part_number": "98251FJ041",
-    "title": "Head Air Bag",
-    "description": "Impreza. Without turbo. From 11/11/11. Air bags. XV Crosstrek. Right.",
-    "sale_price": "$550.34",
-    "msrp": "$822.63",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fj041"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251AN00C",
-    "title": "Head Air Bag",
-    "description": "Air bags, Legacy.",
-    "sale_price": "$932.40",
-    "msrp": "$1,400.00",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251an00c"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251VA040",
-    "title": "Head Air Bag",
-    "description": "Air bags. WRX, WRX STI. Right.",
-    "sale_price": "$649.74",
-    "msrp": "$975.58",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251va040"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98271FJ040",
-    "title": "Passenger Air Bag",
-    "description": "Air bags. WRX, WRX STI. Impreza. Without turbo. Crosstrek.",
-    "sale_price": "$802.01",
-    "msrp": "$1,204.22",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271fj040"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98234AC030",
-    "title": "Air Bag Harness",
-    "description": "1998-99, to front sensor.",
-    "sale_price": "$86.55",
-    "msrp": "$126.53",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-air-bag-harness-98234ac030"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251AG15A",
-    "title": "Head Air Bag",
-    "description": "Wagon, without i, gt & XT. Legacy/Outback. Left. Wagon. 25i ltd, 25gt ltd. Wagon. 30r ltd, 30r ll-bean.",
-    "sale_price": "$357.07",
-    "msrp": "$533.73",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ag15a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251CA010",
-    "title": "Head Air Bag",
-    "description": "Air bags. BRZ. Left.",
-    "sale_price": "$520.88",
-    "msrp": "$778.60",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ca010"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251AN03D",
-    "title": "Curtain Air Bag",
-    "description": "Air bags. Outback.",
-    "sale_price": "$874.13",
-    "msrp": "$1,312.50",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-curtain-air-bag-98251an03d"
+    "part_number": "98211FJ090VH",
+    "title": "Driver Air Bag",
+    "description": "Air bags.",
+    "sale_price": "$735.32",
+    "msrp": "$1,104.08",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211fj090vh"
   },
   {
     "brand": "Subaru",
@@ -262,183 +163,120 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98301FJ010VH",
-    "title": "Knee Air Bag",
-    "description": "Air Bag Module Knee. Air B MOD K LHD.\nBlack.\nAn Air Bag inflator Module mounted to the instrument panel.\nFits Crosstrek, Impreza, STI,...",
-    "sale_price": "$526.84",
-    "msrp": "$787.50",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-air-bag-98301fj010vh"
+    "part_number": "98251FG012",
+    "title": "Head Air Bag",
+    "description": "Impreza. Wagon. With turbo. Left.",
+    "sale_price": "$550.33",
+    "msrp": "$822.62",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fg012"
   },
   {
     "brand": "Subaru",
-    "part_number": "98271AG01B",
+    "part_number": "98251AN00C",
+    "title": "Head Air Bag",
+    "description": "Air bags, Legacy.",
+    "sale_price": "$932.40",
+    "msrp": "$1,400.00",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251an00c"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251VA040",
+    "title": "Head Air Bag",
+    "description": "Air bags. WRX, WRX STI. Right.",
+    "sale_price": "$649.74",
+    "msrp": "$975.58",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251va040"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271FJ040",
     "title": "Passenger Air Bag",
-    "description": "Legacy/Outback.",
-    "sale_price": "$588.10",
-    "msrp": "$883.03",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271ag01b"
+    "description": "Air bags. WRX, WRX STI. Impreza. Without turbo. Crosstrek.",
+    "sale_price": "$802.01",
+    "msrp": "$1,204.22",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271fj040"
   },
   {
     "brand": "Subaru",
-    "part_number": "98271FL030",
-    "title": "Passenger Air Bag",
-    "description": "Air bags. Crosstrek.",
-    "sale_price": "$708.65",
-    "msrp": "$1,064.03",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271fl030"
+    "part_number": "98234AC030",
+    "title": "Air Bag Harness",
+    "description": "1998-99, to front sensor.",
+    "sale_price": "$86.55",
+    "msrp": "$126.53",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-air-bag-harness-98234ac030"
   },
   {
     "brand": "Subaru",
-    "part_number": "98251AJ06B",
+    "part_number": "98251AG15A",
     "title": "Head Air Bag",
-    "description": "Legacy/Outback. Wagon. Right. With sunroof.",
-    "sale_price": "$369.51",
-    "msrp": "$552.33",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251aj06b"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251AG10A",
-    "title": "Head Air Bag",
-    "description": "Legacy/Outback. Right. Sedan. 25i, 25gt. Sedan, with Legacy i & gt.",
-    "sale_price": "$344.17",
-    "msrp": "$514.45",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ag10a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251SJ021",
-    "title": "Curtain Air Bag",
-    "description": "Air bags. Forester. Right.",
-    "sale_price": "$725.62",
-    "msrp": "$1,089.52",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-curtain-air-bag-98251sj021"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251AG14A",
-    "title": "Head Air Bag",
-    "description": "Wagon, with i, gt & XT. Legacy/Outback. Right. Wagon. 25i ltd, 25gt ltd. Wagon. 30r ltd, 30r ll-bean.",
+    "description": "Wagon, without i, gt & XT. Legacy/Outback. Left. Wagon. 25i ltd, 25gt ltd. Wagon. 30r ltd, 30r ll-bean.",
     "sale_price": "$357.07",
     "msrp": "$533.73",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ag14a"
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ag15a"
   },
   {
     "brand": "Subaru",
-    "part_number": "98211AN00AVH",
-    "title": "Driver Air Bag",
-    "description": "Air bags. Legacy, Outback.",
-    "sale_price": "$572.47",
-    "msrp": "$859.57",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211an00avh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251SC002",
+    "part_number": "98251CA021",
     "title": "Head Air Bag",
-    "description": "Forester. Right.",
-    "sale_price": "$550.32",
-    "msrp": "$822.60",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251sc002"
+    "description": "Air bags. BRZ. Right.",
+    "sale_price": "$556.59",
+    "msrp": "$835.72",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ca021"
   },
   {
     "brand": "Subaru",
-    "part_number": "98271AG03B",
-    "title": "Passenger Air Bag",
-    "description": "Legacy/Outback.",
-    "sale_price": "$588.11",
-    "msrp": "$883.05",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271ag03b"
+    "part_number": "98251CA010",
+    "title": "Head Air Bag",
+    "description": "Air bags. BRZ. Left.",
+    "sale_price": "$520.88",
+    "msrp": "$778.60",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ca010"
   },
   {
     "brand": "Subaru",
-    "part_number": "98211FN000VH",
-    "title": "Driver Air Bag",
-    "description": "Impreza. Air bags, with base, premium. Crosstrek. 2.0l.",
-    "sale_price": "$557.04",
-    "msrp": "$832.65",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211fn000vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251SJ031",
+    "part_number": "98251AN03D",
     "title": "Curtain Air Bag",
-    "description": "Air bags. Forester. Left.",
-    "sale_price": "$725.62",
-    "msrp": "$1,089.52",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-curtain-air-bag-98251sj031"
+    "description": "Air bags. Outback.",
+    "sale_price": "$874.13",
+    "msrp": "$1,312.50",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-curtain-air-bag-98251an03d"
   },
   {
     "brand": "Subaru",
-    "part_number": "98251VC070",
+    "part_number": "98251VA061",
     "title": "Head Air Bag",
-    "description": "Air bags. WRX. Left.",
-    "sale_price": "$615.06",
-    "msrp": "$923.52",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251vc070"
+    "description": "Air bags. WRX, WRX STI. Left.",
+    "sale_price": "$633.97",
+    "msrp": "$951.90",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251va061"
   },
   {
     "brand": "Subaru",
-    "part_number": "6218042100",
+    "part_number": "98251XA01B",
     "title": "Head Air Bag",
-    "description": "Air bags. Solterra. Left.",
-    "sale_price": "$579.25",
-    "msrp": "$869.75",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-6218042100"
+    "description": "Tribeca. Left.",
+    "sale_price": "$357.07",
+    "msrp": "$533.73",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251xa01b"
   },
   {
     "brand": "Subaru",
-    "part_number": "98301SJ021VH",
-    "title": "Knee Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$576.92",
-    "msrp": "$866.25",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-air-bag-98301sj021vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211FL030VH",
-    "title": "Driver Air Bag",
-    "description": "Forester. Without hybrid. Crosstrek.",
-    "sale_price": "$572.65",
-    "msrp": "$859.83",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211fl030vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FN010",
+    "part_number": "98251AG13A",
     "title": "Head Air Bag",
-    "description": "Impreza. Air bags, with base, premium. Crosstrek. Left. 2.0l.",
-    "sale_price": "$633.52",
-    "msrp": "$951.23",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fn010"
+    "description": "Wagon, with i, gt & XT.",
+    "sale_price": "$357.07",
+    "msrp": "$533.73",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ag13a"
   },
   {
     "brand": "Subaru",
-    "part_number": "98251FJ080",
-    "title": "Head Air Bag",
-    "description": "Impreza. Without turbo. Wagon. Right. From 11/11/11. Crosstrek.",
-    "sale_price": "$521.64",
-    "msrp": "$779.73",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fj080"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FJ090",
-    "title": "Head Air Bag",
-    "description": "Impreza. Without turbo. Wagon. Left. From 11/11/11. Crosstrek.",
-    "sale_price": "$521.64",
-    "msrp": "$779.73",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fj090"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98271SL000",
-    "title": "Passenger Air Bag",
-    "description": "Air bags. Forester.",
-    "sale_price": "$742.35",
-    "msrp": "$1,114.63",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271sl000"
+    "part_number": "98241AE35A",
+    "title": "Air Bag Harness",
+    "description": "Rear, without side air bag.",
+    "sale_price": "$59.09",
+    "msrp": "$86.38",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-air-bag-harness-98241ae35a"
   },
   {
     "brand": "Subaru",
@@ -487,138 +325,12 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98301SJ021VH",
-    "title": "Knee Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$576.92",
-    "msrp": "$866.25",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-air-bag-98301sj021vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211FL030VH",
-    "title": "Driver Air Bag",
-    "description": "Forester. Without hybrid. Crosstrek.",
-    "sale_price": "$572.65",
-    "msrp": "$859.83",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211fl030vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FN010",
+    "part_number": "98251AN00C",
     "title": "Head Air Bag",
-    "description": "Impreza. Air bags, with base, premium. Crosstrek. Left. 2.0l.",
-    "sale_price": "$633.52",
-    "msrp": "$951.23",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fn010"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FJ080",
-    "title": "Head Air Bag",
-    "description": "Impreza. Without turbo. Wagon. Right. From 11/11/11. Crosstrek.",
-    "sale_price": "$521.64",
-    "msrp": "$779.73",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fj080"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FJ090",
-    "title": "Head Air Bag",
-    "description": "Impreza. Without turbo. Wagon. Left. From 11/11/11. Crosstrek.",
-    "sale_price": "$521.64",
-    "msrp": "$779.73",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fj090"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98271SL000",
-    "title": "Passenger Air Bag",
-    "description": "Air bags. Forester.",
-    "sale_price": "$742.35",
-    "msrp": "$1,114.63",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271sl000"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251SG020",
-    "title": "Head Air Bag",
-    "description": "Air bags. Forester. Right.",
-    "sale_price": "$702.72",
-    "msrp": "$1,055.13",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251sg020"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251XC01B",
-    "title": "Head Air Bag",
-    "description": "Air bags. Ascent. Left.",
-    "sale_price": "$569.82",
-    "msrp": "$855.58",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251xc01b"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FL01B",
-    "title": "Head Air Bag",
-    "description": "Impreza. Sedan. Left.",
-    "sale_price": "$630.72",
-    "msrp": "$947.03",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fl01b"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211AL02AVH",
-    "title": "Driver Air Bag",
-    "description": "Air bags. Legacy, Outback.",
-    "sale_price": "$572.44",
-    "msrp": "$859.52",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211al02avh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251CA000",
-    "title": "Head Air Bag",
-    "description": "Air bags. BRZ. Right.",
-    "sale_price": "$520.88",
-    "msrp": "$778.60",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ca000"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211AJ04CVH",
-    "title": "Driver Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$539.23",
-    "msrp": "$806.02",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211aj04cvh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98271XC00A",
-    "title": "Passenger Air Bag",
-    "description": "Air bags. Ascent.",
-    "sale_price": "$611.40",
-    "msrp": "$918.02",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271xc00a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FJ041",
-    "title": "Head Air Bag",
-    "description": "Impreza. Without turbo. From 11/11/11. Air bags. XV Crosstrek. Right.",
-    "sale_price": "$550.34",
-    "msrp": "$822.63",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fj041"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FG012",
-    "title": "Head Air Bag",
-    "description": "Impreza. Wagon. With turbo. Left.",
-    "sale_price": "$550.33",
-    "msrp": "$822.62",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fg012"
+    "description": "Air bags, Legacy.",
+    "sale_price": "$932.40",
+    "msrp": "$1,400.00",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251an00c"
   },
   {
     "brand": "Subaru",
@@ -649,156 +361,291 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98251SJ031",
+    "part_number": "98251AG15A",
+    "title": "Head Air Bag",
+    "description": "Wagon, without i, gt & XT. Legacy/Outback. Left. Wagon. 25i ltd, 25gt ltd. Wagon. 30r ltd, 30r ll-bean.",
+    "sale_price": "$357.07",
+    "msrp": "$533.73",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ag15a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251CA021",
+    "title": "Head Air Bag",
+    "description": "Air bags. BRZ. Right.",
+    "sale_price": "$556.59",
+    "msrp": "$835.72",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ca021"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251CA010",
+    "title": "Head Air Bag",
+    "description": "Air bags. BRZ. Left.",
+    "sale_price": "$520.88",
+    "msrp": "$778.60",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ca010"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AN03D",
     "title": "Curtain Air Bag",
-    "description": "Air bags. Forester. Left.",
-    "sale_price": "$725.62",
-    "msrp": "$1,089.52",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-curtain-air-bag-98251sj031"
+    "description": "Air bags. Outback.",
+    "sale_price": "$874.13",
+    "msrp": "$1,312.50",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-curtain-air-bag-98251an03d"
   },
   {
     "brand": "Subaru",
-    "part_number": "98251VC070",
+    "part_number": "98251FL01B",
     "title": "Head Air Bag",
-    "description": "Air bags. WRX. Left.",
-    "sale_price": "$615.06",
-    "msrp": "$923.52",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251vc070"
+    "description": "Impreza. Sedan. Left.",
+    "sale_price": "$630.72",
+    "msrp": "$947.03",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fl01b"
   },
   {
     "brand": "Subaru",
-    "part_number": "6218042100",
+    "part_number": "98251VA061",
     "title": "Head Air Bag",
-    "description": "Air bags. Solterra. Left.",
-    "sale_price": "$579.25",
-    "msrp": "$869.75",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-6218042100"
+    "description": "Air bags. WRX, WRX STI. Left.",
+    "sale_price": "$633.97",
+    "msrp": "$951.90",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251va061"
   },
   {
     "brand": "Subaru",
-    "part_number": "98301SJ021VH",
-    "title": "Knee Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$576.92",
-    "msrp": "$866.25",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-air-bag-98301sj021vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211FL030VH",
-    "title": "Driver Air Bag",
-    "description": "Forester. Without hybrid. Crosstrek.",
-    "sale_price": "$572.65",
-    "msrp": "$859.83",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211fl030vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FN010",
+    "part_number": "98251XA01B",
     "title": "Head Air Bag",
-    "description": "Impreza. Air bags, with base, premium. Crosstrek. Left. 2.0l.",
-    "sale_price": "$633.52",
-    "msrp": "$951.23",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fn010"
+    "description": "Tribeca. Left.",
+    "sale_price": "$357.07",
+    "msrp": "$533.73",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251xa01b"
   },
   {
     "brand": "Subaru",
-    "part_number": "98251FJ080",
+    "part_number": "98251AG13A",
     "title": "Head Air Bag",
-    "description": "Impreza. Without turbo. Wagon. Right. From 11/11/11. Crosstrek.",
-    "sale_price": "$521.64",
-    "msrp": "$779.73",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fj080"
+    "description": "Wagon, with i, gt & XT.",
+    "sale_price": "$357.07",
+    "msrp": "$533.73",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ag13a"
   },
   {
     "brand": "Subaru",
-    "part_number": "98251FJ090",
-    "title": "Head Air Bag",
-    "description": "Impreza. Without turbo. Wagon. Left. From 11/11/11. Crosstrek.",
-    "sale_price": "$521.64",
-    "msrp": "$779.73",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fj090"
+    "part_number": "98241AE35A",
+    "title": "Air Bag Harness",
+    "description": "Rear, without side air bag.",
+    "sale_price": "$59.09",
+    "msrp": "$86.38",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-air-bag-harness-98241ae35a"
   },
   {
     "brand": "Subaru",
-    "part_number": "98271SL000",
+    "part_number": "98271SA010ML",
     "title": "Passenger Air Bag",
-    "description": "Air bags. Forester.",
-    "sale_price": "$742.35",
-    "msrp": "$1,114.63",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271sl000"
+    "description": "Forester.",
+    "sale_price": "$1,317.91",
+    "msrp": "$1,978.85",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271sa010ml"
   },
   {
     "brand": "Subaru",
-    "part_number": "98251SL020",
+    "part_number": "98251FJ051",
     "title": "Head Air Bag",
-    "description": "Air bags. Forester. Right.",
-    "sale_price": "$497.23",
-    "msrp": "$743.25",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251sl020"
+    "description": "Impreza. Without turbo. From 11/11/11. Air bags. XV Crosstrek. Left.",
+    "sale_price": "$550.34",
+    "msrp": "$822.63",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fj051"
   },
   {
     "brand": "Subaru",
-    "part_number": "98301FN000VH",
+    "part_number": "98271AE05BML",
+    "title": "Passenger Air Bag",
+    "description": "Black. Legacy. Baja.",
+    "sale_price": "$592.47",
+    "msrp": "$889.60",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271ae05bml"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251FJ070",
+    "title": "Head Air Bag",
+    "description": "Impreza. Without turbo. Left. Air bags, sedan.",
+    "sale_price": "$550.34",
+    "msrp": "$822.63",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fj070"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251VA071",
+    "title": "Head Air Bag",
+    "description": "Air bags. WRX, WRX STI. Left.",
+    "sale_price": "$633.97",
+    "msrp": "$951.90",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251va071"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271FL030",
+    "title": "Passenger Air Bag",
+    "description": "Air bags. Crosstrek.",
+    "sale_price": "$708.65",
+    "msrp": "$1,064.03",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271fl030"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AJ06B",
+    "title": "Head Air Bag",
+    "description": "Legacy/Outback. Wagon. Right. With sunroof.",
+    "sale_price": "$369.51",
+    "msrp": "$552.33",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251aj06b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AG10A",
+    "title": "Head Air Bag",
+    "description": "Legacy/Outback. Right. Sedan. 25i, 25gt. Sedan, with Legacy i & gt.",
+    "sale_price": "$344.17",
+    "msrp": "$514.45",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ag10a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251FG032",
+    "title": "Head Air Bag",
+    "description": "Impreza. With turbo. Sedan. Left.",
+    "sale_price": "$550.33",
+    "msrp": "$822.62",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fg032"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98301FJ010VH",
     "title": "Knee Air Bag",
-    "description": "Impreza. Air bags, with base, premium. Crosstrek. Left. 2.0l.",
-    "sale_price": "$548.07",
-    "msrp": "$819.23",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-air-bag-98301fn000vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FN00A",
-    "title": "Head Air Bag",
-    "description": "Crosstrek. Right. 2.5l. Air bags, without base, premium.",
-    "sale_price": "$520.98",
-    "msrp": "$778.75",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fn00a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251AN02D",
-    "title": "Head Air Bag",
-    "description": "Outback. Right.",
+    "description": "Air Bag Module Knee. Air B MOD K LHD.\nBlack.\nAn Air Bag inflator Module mounted to the instrument panel.\nFits Crosstrek, Impreza, STI,...",
     "sale_price": "$526.84",
     "msrp": "$787.50",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251an02d"
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-air-bag-98301fj010vh"
   },
   {
     "brand": "Subaru",
-    "part_number": "6217042100",
+    "part_number": "98251SJ021",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. Forester. Right.",
+    "sale_price": "$725.62",
+    "msrp": "$1,089.52",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-curtain-air-bag-98251sj021"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AG14A",
     "title": "Head Air Bag",
-    "description": "Air bags. Solterra. Right.",
-    "sale_price": "$426.20",
-    "msrp": "$637.07",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-6217042100"
+    "description": "Wagon, with i, gt & XT. Legacy/Outback. Right. Wagon. 25i ltd, 25gt ltd. Wagon. 30r ltd, 30r ll-bean.",
+    "sale_price": "$357.07",
+    "msrp": "$533.73",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ag14a"
   },
   {
     "brand": "Subaru",
-    "part_number": "98201SL000",
-    "title": "Seat Air Bag",
-    "description": "AIR BAGS. seat back.",
-    "sale_price": "$397.79",
-    "msrp": "$594.60",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-seat-air-bag-98201sl000"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FN01A",
+    "part_number": "98251FN000",
     "title": "Head Air Bag",
-    "description": "Crosstrek. Left. 2.5l. Air bags, without base, premium.",
-    "sale_price": "$520.98",
-    "msrp": "$778.75",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fn01a"
+    "description": "Impreza. Air bags, with base, premium. Crosstrek. Right. 2.0l.",
+    "sale_price": "$633.52",
+    "msrp": "$951.23",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fn000"
   },
   {
     "brand": "Subaru",
-    "part_number": "98211FJ050VH",
+    "part_number": "98251CC030",
+    "title": "Head Air Bag",
+    "description": "Air bags. BRZ. Left.",
+    "sale_price": "$531.03",
+    "msrp": "$793.77",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251cc030"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271AE05BDG",
+    "title": "Passenger Air Bag",
+    "description": "Brown. Outback.",
+    "sale_price": "$592.47",
+    "msrp": "$889.60",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271ae05bdg"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AJ04B",
+    "title": "Head Air Bag",
+    "description": "Legacy/Outback. Wagon. Right. Without sunroof.",
+    "sale_price": "$369.50",
+    "msrp": "$552.32",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251aj04b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251CA031",
+    "title": "Head Air Bag",
+    "description": "Air bags. BRZ. Left.",
+    "sale_price": "$521.23",
+    "msrp": "$779.12",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ca031"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AN01B",
+    "title": "Head Air Bag",
+    "description": "Legacy. Left.",
+    "sale_price": "$652.68",
+    "msrp": "$980.00",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251an01b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251XA00B",
+    "title": "Head Air Bag",
+    "description": "Tribeca. Right.",
+    "sale_price": "$357.07",
+    "msrp": "$533.73",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251xa00b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211AN00AVH",
     "title": "Driver Air Bag",
-    "description": "Air bags. Impreza. Without turbo.",
-    "sale_price": "$713.82",
-    "msrp": "$1,071.80",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211fj050vh"
+    "description": "Air bags. Legacy, Outback.",
+    "sale_price": "$572.47",
+    "msrp": "$859.57",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211an00avh"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251SC002",
+    "title": "Head Air Bag",
+    "description": "Forester. Right.",
+    "sale_price": "$550.32",
+    "msrp": "$822.60",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251sc002"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271AG03B",
+    "title": "Passenger Air Bag",
+    "description": "Legacy/Outback.",
+    "sale_price": "$588.11",
+    "msrp": "$883.05",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271ag03b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211FN000VH",
+    "title": "Driver Air Bag",
+    "description": "Impreza. Air bags, with base, premium. Crosstrek. 2.0l.",
+    "sale_price": "$557.04",
+    "msrp": "$832.65",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-air-bag-98211fn000vh"
   },
   {
     "brand": "Subaru",
@@ -808,6 +655,186 @@
     "sale_price": "$630.70",
     "msrp": "$947.00",
     "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fl00b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251FL02B",
+    "title": "Head Air Bag",
+    "description": "Air bags, wagon. Impreza. Hatchback. Right.",
+    "sale_price": "$509.28",
+    "msrp": "$761.25",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fl02b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251SG030",
+    "title": "Head Air Bag",
+    "description": "Air bags. Forester. Left.",
+    "sale_price": "$702.72",
+    "msrp": "$1,055.13",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251sg030"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251XC00B",
+    "title": "Head Air Bag",
+    "description": "Air bags. Ascent. Right.",
+    "sale_price": "$569.82",
+    "msrp": "$855.58",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251xc00b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251FL03B",
+    "title": "Head Air Bag",
+    "description": "Air bags, wagon. Impreza. Hatchback. Left.",
+    "sale_price": "$509.28",
+    "msrp": "$761.25",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fl03b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98301SG010LL",
+    "title": "Knee Air Bag",
+    "description": "Air bags, gray.",
+    "sale_price": "$548.08",
+    "msrp": "$819.25",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-air-bag-98301sg010ll"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251FL091",
+    "title": "Head Air Bag",
+    "description": "Air Bag Module Curtain.\nThe Air Bag inflator Module mounted to the roof Line area of a vehicle.\nFits Crosstrek\nAir Bag Inflator...",
+    "sale_price": "$537.92",
+    "msrp": "$804.07",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fl091"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98301AN00BVH",
+    "title": "Knee Air Bag",
+    "description": "Air bags. Legacy, Outback.",
+    "sale_price": "$583.34",
+    "msrp": "$875.88",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-air-bag-98301an00bvh"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AG14A",
+    "title": "Head Air Bag",
+    "description": "Wagon, with i, gt & XT. Legacy/Outback. Right. Wagon. 25i ltd, 25gt ltd. Wagon. 30r ltd, 30r ll-bean.",
+    "sale_price": "$357.07",
+    "msrp": "$533.73",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ag14a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251FN000",
+    "title": "Head Air Bag",
+    "description": "Impreza. Air bags, with base, premium. Crosstrek. Right. 2.0l.",
+    "sale_price": "$633.52",
+    "msrp": "$951.23",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fn000"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251CC030",
+    "title": "Head Air Bag",
+    "description": "Air bags. BRZ. Left.",
+    "sale_price": "$531.03",
+    "msrp": "$793.77",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251cc030"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251FG032",
+    "title": "Head Air Bag",
+    "description": "Impreza. With turbo. Sedan. Left.",
+    "sale_price": "$550.33",
+    "msrp": "$822.62",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fg032"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251SJ021",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. Forester. Right.",
+    "sale_price": "$725.62",
+    "msrp": "$1,089.52",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-curtain-air-bag-98251sj021"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98301FJ010VH",
+    "title": "Knee Air Bag",
+    "description": "Air Bag Module Knee. Air B MOD K LHD.\nBlack.\nAn Air Bag inflator Module mounted to the instrument panel.\nFits Crosstrek, Impreza, STI,...",
+    "sale_price": "$526.84",
+    "msrp": "$787.50",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-air-bag-98301fj010vh"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271SA010ML",
+    "title": "Passenger Air Bag",
+    "description": "Forester.",
+    "sale_price": "$1,317.91",
+    "msrp": "$1,978.85",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271sa010ml"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251FJ051",
+    "title": "Head Air Bag",
+    "description": "Impreza. Without turbo. From 11/11/11. Air bags. XV Crosstrek. Left.",
+    "sale_price": "$550.34",
+    "msrp": "$822.63",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fj051"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271AE05BML",
+    "title": "Passenger Air Bag",
+    "description": "Black. Legacy. Baja.",
+    "sale_price": "$592.47",
+    "msrp": "$889.60",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-air-bag-98271ae05bml"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251FJ070",
+    "title": "Head Air Bag",
+    "description": "Impreza. Without turbo. Left. Air bags, sedan.",
+    "sale_price": "$550.34",
+    "msrp": "$822.63",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fj070"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251VA071",
+    "title": "Head Air Bag",
+    "description": "Air bags. WRX, WRX STI. Left.",
+    "sale_price": "$633.97",
+    "msrp": "$951.90",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251va071"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98301XC00EVH",
+    "title": "Knee Air Bag",
+    "description": "Air bags. Ascent.",
+    "sale_price": "$576.92",
+    "msrp": "$866.25",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-air-bag-98301xc00evh"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251FG022",
+    "title": "Head Air Bag",
+    "description": "Impreza. With turbo. Sedan. Right.",
+    "sale_price": "$550.33",
+    "msrp": "$822.62",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fg022"
   },
   {
     "brand": "Subaru",
@@ -847,42 +874,6 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98251AG14A",
-    "title": "Head Air Bag",
-    "description": "Wagon, with i, gt & XT. Legacy/Outback. Right. Wagon. 25i ltd, 25gt ltd. Wagon. 30r ltd, 30r ll-bean.",
-    "sale_price": "$357.07",
-    "msrp": "$533.73",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251ag14a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FN000",
-    "title": "Head Air Bag",
-    "description": "Impreza. Air bags, with base, premium. Crosstrek. Right. 2.0l.",
-    "sale_price": "$633.52",
-    "msrp": "$951.23",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251fn000"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251CC030",
-    "title": "Head Air Bag",
-    "description": "Air bags. BRZ. Left.",
-    "sale_price": "$531.03",
-    "msrp": "$793.77",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-head-air-bag-98251cc030"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98201FL050",
-    "title": "Ft Seat Air Bag",
-    "description": "Crosstrek. Left. With hybrid.",
-    "sale_price": "$363.52",
-    "msrp": "$543.38",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201fl050"
-  },
-  {
-    "brand": "Subaru",
     "part_number": "64145SC020",
     "title": "Side Air Bag Pad",
     "description": "Manual.",
@@ -901,30 +892,12 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98201AN01B",
+    "part_number": "98201FL050",
     "title": "Ft Seat Air Bag",
-    "description": "Air bags, seat back. Legacy, Outback. Left.",
-    "sale_price": "$347.76",
-    "msrp": "$519.82",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201an01b"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98201XC01A",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. Ascent. Left.",
-    "sale_price": "$347.80",
-    "msrp": "$519.88",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201xc01a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98201VA030",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. WRX, WRX STI. Left.",
-    "sale_price": "$363.36",
-    "msrp": "$543.13",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201va030"
+    "description": "Crosstrek. Left. With hybrid.",
+    "sale_price": "$363.52",
+    "msrp": "$543.38",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201fl050"
   },
   {
     "brand": "Subaru",
@@ -964,33 +937,6 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98201FN000",
-    "title": "Ft Seat Air Bag",
-    "description": "Impreza. Right. Air bags, seat back, with base, premium. Crosstrek. Seat back. 2.0l.",
-    "sale_price": "$350.01",
-    "msrp": "$523.18",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201fn000"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98201XC01A",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. Ascent. Left.",
-    "sale_price": "$347.80",
-    "msrp": "$519.88",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201xc01a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98201VA030",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. WRX, WRX STI. Left.",
-    "sale_price": "$363.36",
-    "msrp": "$543.13",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201va030"
-  },
-  {
-    "brand": "Subaru",
     "part_number": "64145SC030",
     "title": "Side Air Bag Pad",
     "description": "Manual.",
@@ -1027,12 +973,66 @@
   },
   {
     "brand": "Subaru",
+    "part_number": "98201FN000",
+    "title": "Ft Seat Air Bag",
+    "description": "Impreza. Right. Air bags, seat back, with base, premium. Crosstrek. Seat back. 2.0l.",
+    "sale_price": "$350.01",
+    "msrp": "$523.18",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201fn000"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98201SJ010",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. Forester. Left.",
+    "sale_price": "$363.36",
+    "msrp": "$543.13",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201sj010"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98201FL040",
+    "title": "Ft Seat Air Bag",
+    "description": "Crosstrek. Right. With hybrid.",
+    "sale_price": "$363.52",
+    "msrp": "$543.38",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201fl040"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98201AL03B",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags, seat back. Legacy, Outback. Left.",
+    "sale_price": "$347.68",
+    "msrp": "$519.70",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201al03b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98201AL02A",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags, seat back.",
+    "sale_price": "$347.72",
+    "msrp": "$519.77",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201al02a"
+  },
+  {
+    "brand": "Subaru",
     "part_number": "98201FL070",
     "title": "Ft Seat Air Bag",
     "description": "Crosstrek. Without hybrid. Air bags. Left.",
     "sale_price": "$363.45",
     "msrp": "$543.27",
     "url": "https://subaru.oempartsonline.com/oem-parts/subaru-ft-seat-air-bag-98201fl070"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "64145SC030",
+    "title": "Side Air Bag Pad",
+    "description": "Manual.",
+    "sale_price": "$19.56",
+    "msrp": "$25.27",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-air-bag-pad-64145sc030"
   },
   {
     "brand": "Subaru",
@@ -1126,33 +1126,6 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98211SG040VH",
-    "title": "Driver Inflator Module",
-    "description": "Air bags. Forester.",
-    "sale_price": "$651.53",
-    "msrp": "$978.27",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211sg040vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211AL03AVH",
-    "title": "Driver Inflator Module",
-    "description": "Air bags. Legacy, Outback.",
-    "sale_price": "$572.42",
-    "msrp": "$859.48",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211al03avh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211CA130VH",
-    "title": "Driver Inflator Module",
-    "description": "Air bags. BRZ.",
-    "sale_price": "$572.01",
-    "msrp": "$858.87",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211ca130vh"
-  },
-  {
-    "brand": "Subaru",
     "part_number": "98271SA030ML",
     "title": "Passenger Inflator Module",
     "description": "Forester.",
@@ -1162,57 +1135,12 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98271FE091OE",
-    "title": "Passenger Inflator Module",
-    "description": "Impreza. Ts, Outback, all.",
-    "sale_price": "$1,205.50",
-    "msrp": "$1,810.07",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271fe091oe"
-  },
-  {
-    "brand": "Subaru",
     "part_number": "98211FL00AVH",
     "title": "Driver Inflator Module",
     "description": "Air bags. Impreza.",
     "sale_price": "$578.33",
     "msrp": "$868.37",
     "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fl00avh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98271XA04C",
-    "title": "Passenger Inflator Module",
-    "description": "Tribeca. From 7/15/06.",
-    "sale_price": "$588.16",
-    "msrp": "$883.12",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271xa04c"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98271FE052OE",
-    "title": "Passenger Inflator Module",
-    "description": "Impreza. WRX.",
-    "sale_price": "$1,205.50",
-    "msrp": "$1,810.07",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271fe052oe"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211XA06AMW",
-    "title": "Driver Inflator Module",
-    "description": "Tribeca. From 8/10/05.",
-    "sale_price": "$553.02",
-    "msrp": "$826.63",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211xa06amw"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211SG090VH",
-    "title": "Driver Inflator Module",
-    "description": "Air bags. Forester.",
-    "sale_price": "$604.04",
-    "msrp": "$906.97",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211sg090vh"
   },
   {
     "brand": "Subaru",
@@ -1234,12 +1162,75 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98251AJ03B",
-    "title": "Inflator Curtain",
-    "description": "Legacy/Outback. Wagon. Left. Air bags, Legacy, with sunroof.",
-    "sale_price": "$369.53",
-    "msrp": "$552.37",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj03b"
+    "part_number": "98271FE052OE",
+    "title": "Passenger Inflator Module",
+    "description": "Impreza. WRX.",
+    "sale_price": "$1,205.50",
+    "msrp": "$1,810.07",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271fe052oe"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271XA04C",
+    "title": "Passenger Inflator Module",
+    "description": "Tribeca. From 7/15/06.",
+    "sale_price": "$588.16",
+    "msrp": "$883.12",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271xa04c"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211AL03AVH",
+    "title": "Driver Inflator Module",
+    "description": "Air bags. Legacy, Outback.",
+    "sale_price": "$572.42",
+    "msrp": "$859.48",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211al03avh"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211SG040VH",
+    "title": "Driver Inflator Module",
+    "description": "Air bags. Forester.",
+    "sale_price": "$651.53",
+    "msrp": "$978.27",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211sg040vh"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211FE050ML",
+    "title": "Driver Inflator Module",
+    "description": "Impreza. With WRX.",
+    "sale_price": "$964.46",
+    "msrp": "$1,448.13",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fe050ml"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211CA130VH",
+    "title": "Driver Inflator Module",
+    "description": "Air bags. BRZ.",
+    "sale_price": "$572.01",
+    "msrp": "$858.87",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211ca130vh"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211XA06AMW",
+    "title": "Driver Inflator Module",
+    "description": "Tribeca. From 8/10/05.",
+    "sale_price": "$553.02",
+    "msrp": "$826.63",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211xa06amw"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211SG090VH",
+    "title": "Driver Inflator Module",
+    "description": "Air bags. Forester.",
+    "sale_price": "$604.04",
+    "msrp": "$906.97",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211sg090vh"
   },
   {
     "brand": "Subaru",
@@ -1252,12 +1243,21 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "7392042080",
+    "part_number": "7391042080",
     "title": "Side Impact Inflator Module",
-    "description": "Air bags. Solterra. Left.",
+    "description": "Air bags. Solterra. Right.",
     "sale_price": "$276.66",
     "msrp": "$411.70",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-7392042080"
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-7391042080"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AJ02B",
+    "title": "Inflator Curtain",
+    "description": "Legacy/Outback. Wagon. Right. Air bags, Legacy, with sunroof.",
+    "sale_price": "$369.53",
+    "msrp": "$552.37",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj02b"
   },
   {
     "brand": "Subaru",
@@ -1279,21 +1279,75 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "7391042080",
-    "title": "Side Impact Inflator Module",
-    "description": "Air bags. Solterra. Right.",
-    "sale_price": "$276.66",
-    "msrp": "$411.70",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-7391042080"
+    "part_number": "98251AJ03B",
+    "title": "Inflator Curtain",
+    "description": "Legacy/Outback. Wagon. Left. Air bags, Legacy, with sunroof.",
+    "sale_price": "$369.53",
+    "msrp": "$552.37",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj03b"
   },
   {
     "brand": "Subaru",
-    "part_number": "98251AJ02B",
+    "part_number": "7392042080",
+    "title": "Side Impact Inflator Module",
+    "description": "Air bags. Solterra. Left.",
+    "sale_price": "$276.66",
+    "msrp": "$411.70",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-7392042080"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AJ19A",
     "title": "Inflator Curtain",
-    "description": "Legacy/Outback. Wagon. Right. Air bags, Legacy, with sunroof.",
-    "sale_price": "$369.53",
-    "msrp": "$552.37",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj02b"
+    "description": "Legacy/Outback. Sedan. Left. Air bags, Legacy, with sunroof.",
+    "sale_price": "$374.53",
+    "msrp": "$559.83",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj19a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AJ22A",
+    "title": "Inflator Curtain",
+    "description": "Legacy/Outback. Sedan. Right. Air bags, Legacy, with sunroof.",
+    "sale_price": "$374.53",
+    "msrp": "$559.83",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj22a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98201FL00A",
+    "title": "Side Impact Inflator Module",
+    "description": "Air bags. Impreza. Right.",
+    "sale_price": "$339.81",
+    "msrp": "$507.93",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201fl00a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AJ20A",
+    "title": "Inflator Curtain",
+    "description": "Legacy/Outback. Sedan. Right. Air bags, Legacy, without sunroof.",
+    "sale_price": "$374.54",
+    "msrp": "$559.85",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj20a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AJ25A",
+    "title": "Inflator Curtain",
+    "description": "Legacy/Outback. Wagon. Right. Air bags, Outback, without sunroof.",
+    "sale_price": "$374.53",
+    "msrp": "$559.83",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj25a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AJ27A",
+    "title": "Inflator Curtain",
+    "description": "Legacy/Outback. Wagon. Left. Air bags, Outback, with sunroof.",
+    "sale_price": "$374.51",
+    "msrp": "$559.80",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj27a"
   },
   {
     "brand": "Subaru",
@@ -1387,24 +1441,6 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98251AJ19A",
-    "title": "Inflator Curtain",
-    "description": "Legacy/Outback. Sedan. Left. Air bags, Legacy, with sunroof.",
-    "sale_price": "$374.53",
-    "msrp": "$559.83",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj19a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251AJ22A",
-    "title": "Inflator Curtain",
-    "description": "Legacy/Outback. Sedan. Right. Air bags, Legacy, with sunroof.",
-    "sale_price": "$374.53",
-    "msrp": "$559.83",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj22a"
-  },
-  {
-    "brand": "Subaru",
     "part_number": "98201XA03A",
     "title": "Side Impact Inflator Module",
     "description": "Tribeca. Left.",
@@ -1420,42 +1456,6 @@
     "sale_price": "$374.54",
     "msrp": "$559.85",
     "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj17a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98201FL00A",
-    "title": "Side Impact Inflator Module",
-    "description": "Air bags. Impreza. Right.",
-    "sale_price": "$339.81",
-    "msrp": "$507.93",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201fl00a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251AJ20A",
-    "title": "Inflator Curtain",
-    "description": "Legacy/Outback. Sedan. Right. Air bags, Legacy, without sunroof.",
-    "sale_price": "$374.54",
-    "msrp": "$559.85",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj20a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251AJ25A",
-    "title": "Inflator Curtain",
-    "description": "Legacy/Outback. Wagon. Right. Air bags, Outback, without sunroof.",
-    "sale_price": "$374.53",
-    "msrp": "$559.83",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj25a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251AJ27A",
-    "title": "Inflator Curtain",
-    "description": "Legacy/Outback. Wagon. Left. Air bags, Outback, with sunroof.",
-    "sale_price": "$374.51",
-    "msrp": "$559.80",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251aj27a"
   },
   {
     "brand": "Subaru",
@@ -1513,69 +1513,6 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98201CA020",
-    "title": "Side Impact Inflator Module",
-    "description": "Air bags. BRZ. Right.",
-    "sale_price": "$333.35",
-    "msrp": "$496.05",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201ca020"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98271AG04B",
-    "title": "Passenger Inflator Module",
-    "description": "Legacy/Outback.",
-    "sale_price": "$588.02",
-    "msrp": "$882.92",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271ag04b"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211XA05AMW",
-    "title": "Driver Inflator Module",
-    "description": "Tribeca. From 8/10/05.",
-    "sale_price": "$534.41",
-    "msrp": "$798.82",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211xa05amw"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211FL02AVH",
-    "title": "Driver Inflator Module",
-    "description": "Air bags. Impreza.",
-    "sale_price": "$578.42",
-    "msrp": "$868.50",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fl02avh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211FG070JC",
-    "title": "Driver Inflator Module",
-    "description": "Impreza. With turbo. Without sti.",
-    "sale_price": "$808.82",
-    "msrp": "$1,214.45",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fg070jc"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211FG080",
-    "title": "Driver Inflator Module",
-    "description": "Impreza. With turbo. With sti.",
-    "sale_price": "$808.82",
-    "msrp": "$1,214.45",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fg080"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211AJ01BVH",
-    "title": "Driver Inflator Module",
-    "description": "Legacy/Outback. Air bags.",
-    "sale_price": "$539.25",
-    "msrp": "$806.05",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211aj01bvh"
-  },
-  {
-    "brand": "Subaru",
     "part_number": "98301VC010VH",
     "title": "Knee Inflator Module",
     "description": "Air bags. WRX.",
@@ -1603,69 +1540,6 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98211FJ010VH",
-    "title": "Driver Inflator Module",
-    "description": "Impreza. Without turbo. Air bags. Crosstrek.",
-    "sale_price": "$809.77",
-    "msrp": "$1,215.87",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fj010vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211AC390ML",
-    "title": "Driver Inflator Module",
-    "description": "1995-97. Legacy.",
-    "sale_price": "$572.45",
-    "msrp": "$859.53",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211ac390ml"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211FG080",
-    "title": "Driver Inflator Module",
-    "description": "Impreza. With turbo. With sti.",
-    "sale_price": "$808.82",
-    "msrp": "$1,214.45",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fg080"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98301VC010VH",
-    "title": "Knee Inflator Module",
-    "description": "Air bags. WRX.",
-    "sale_price": "$576.92",
-    "msrp": "$866.25",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-inflator-module-98301vc010vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211FN00AVH",
-    "title": "Driver Inflator Module",
-    "description": "Crosstrek. 2.5l. Air bags, without base, premium.",
-    "sale_price": "$705.67",
-    "msrp": "$1,059.57",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fn00avh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98271FG02A",
-    "title": "Passenger Inflator Module",
-    "description": "Air bags. From 6/26/07. Impreza. From 6/25/07. With turbo. With sti model. To 6/25/07.",
-    "sale_price": "$797.77",
-    "msrp": "$1,197.85",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271fg02a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211FJ010VH",
-    "title": "Driver Inflator Module",
-    "description": "Impreza. Without turbo. Air bags. Crosstrek.",
-    "sale_price": "$809.77",
-    "msrp": "$1,215.87",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fj010vh"
-  },
-  {
-    "brand": "Subaru",
     "part_number": "98211AJ01BVH",
     "title": "Driver Inflator Module",
     "description": "Legacy/Outback. Air bags.",
@@ -1675,138 +1549,12 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98211AC390ML",
+    "part_number": "98211FJ010VH",
     "title": "Driver Inflator Module",
-    "description": "1995-97. Legacy.",
-    "sale_price": "$572.45",
-    "msrp": "$859.53",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211ac390ml"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "4513042380C0",
-    "title": "Driver Inflator Module",
-    "description": "Air bags. Solterra.",
-    "sale_price": "$638.53",
-    "msrp": "$958.75",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-4513042380c0"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211CA051VH",
-    "title": "Driver Inflator Module",
-    "description": "Air bags. BRZ.",
-    "sale_price": "$610.70",
-    "msrp": "$916.97",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211ca051vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98201CC020",
-    "title": "Side Impact Inflator Module",
-    "description": "Air bags. BRZ. Right.",
-    "sale_price": "$243.24",
-    "msrp": "$361.97",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201cc020"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98271CC000",
-    "title": "Passenger Inflator Module",
-    "description": "Air bags. BRZ.",
-    "sale_price": "$509.92",
-    "msrp": "$762.22",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271cc000"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211CC030VH",
-    "title": "Driver Inflator Module",
-    "description": "Air bags. BRZ.",
-    "sale_price": "$557.05",
-    "msrp": "$832.67",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211cc030vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211VC000VH",
-    "title": "Driver Inflator Module",
-    "description": "Air bags. WRX.",
-    "sale_price": "$575.92",
-    "msrp": "$864.75",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211vc000vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98301CC000VH",
-    "title": "Knee Inflator Module",
-    "description": "Air bags. BRZ.",
-    "sale_price": "$396.36",
-    "msrp": "$592.47",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-inflator-module-98301cc000vh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211FG011JC",
-    "title": "Driver Inflator Module",
-    "description": "Impreza. Without sti model. Off black. Without sti, all. Air bags, without sti. Without sti, black.",
-    "sale_price": "$863.71",
-    "msrp": "$1,296.87",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fg011jc"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211SC011JC",
-    "title": "Driver Inflator Module",
-    "description": "Black. Forester.",
-    "sale_price": "$808.82",
-    "msrp": "$1,214.45",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211sc011jc"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98271CA020",
-    "title": "Passenger Inflator Module",
-    "description": "Air bags. BRZ.",
-    "sale_price": "$628.79",
-    "msrp": "$944.13",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271ca020"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98201AJ01A",
-    "title": "Side Impact Inflator Module",
-    "description": "Air bags. Legacy/Outback. Left.",
-    "sale_price": "$241.54",
-    "msrp": "$359.43",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201aj01a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98201CC030",
-    "title": "Side Impact Inflator Module",
-    "description": "Air bags. BRZ. Left.",
-    "sale_price": "$243.24",
-    "msrp": "$361.97",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201cc030"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211XA00AMW",
-    "title": "Driver Inflator Module",
-    "description": "Tribeca. To 8/9/05.",
-    "sale_price": "$534.41",
-    "msrp": "$798.82",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211xa00amw"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98211FG011WK",
-    "title": "Driver Inflator Module",
-    "description": "Impreza. Without sti model. Ivory.",
-    "sale_price": "$972.87",
-    "msrp": "$1,460.77",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fg011wk"
+    "description": "Impreza. Without turbo. Air bags. Crosstrek.",
+    "sale_price": "$809.77",
+    "msrp": "$1,215.87",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fj010vh"
   },
   {
     "brand": "Subaru",
@@ -1816,6 +1564,24 @@
     "sale_price": "$572.52",
     "msrp": "$859.63",
     "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211al04avh"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271SG021",
+    "title": "Passenger Inflator Module",
+    "description": "Air bags. Forester.",
+    "sale_price": "$707.37",
+    "msrp": "$1,062.12",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271sg021"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271VC000",
+    "title": "Passenger Inflator Module",
+    "description": "Air bags. WRX.",
+    "sale_price": "$800.79",
+    "msrp": "$1,202.38",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271vc000"
   },
   {
     "brand": "Subaru",
@@ -1846,6 +1612,114 @@
   },
   {
     "brand": "Subaru",
+    "part_number": "98211AC390ML",
+    "title": "Driver Inflator Module",
+    "description": "1995-97. Legacy.",
+    "sale_price": "$572.45",
+    "msrp": "$859.53",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211ac390ml"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211AC390ML",
+    "title": "Driver Inflator Module",
+    "description": "1995-97. Legacy.",
+    "sale_price": "$572.45",
+    "msrp": "$859.53",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211ac390ml"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "4513042380C0",
+    "title": "Driver Inflator Module",
+    "description": "Air bags. Solterra.",
+    "sale_price": "$638.53",
+    "msrp": "$958.75",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-4513042380c0"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211FG011JC",
+    "title": "Driver Inflator Module",
+    "description": "Impreza. Without sti model. Off black. Without sti, all. Air bags, without sti. Without sti, black.",
+    "sale_price": "$863.71",
+    "msrp": "$1,296.87",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fg011jc"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271CA020",
+    "title": "Passenger Inflator Module",
+    "description": "Air bags. BRZ.",
+    "sale_price": "$628.79",
+    "msrp": "$944.13",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271ca020"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211SC011JC",
+    "title": "Driver Inflator Module",
+    "description": "Black. Forester.",
+    "sale_price": "$808.82",
+    "msrp": "$1,214.45",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211sc011jc"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98201AJ01A",
+    "title": "Side Impact Inflator Module",
+    "description": "Air bags. Legacy/Outback. Left.",
+    "sale_price": "$241.54",
+    "msrp": "$359.43",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201aj01a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98201SC031",
+    "title": "Side Impact Inflator Module",
+    "description": "Forester. Left.",
+    "sale_price": "$485.21",
+    "msrp": "$725.28",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201sc031"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211SC011LU",
+    "title": "Driver Inflator Module",
+    "description": "Gray. Forester.",
+    "sale_price": "$808.82",
+    "msrp": "$1,214.45",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211sc011lu"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98301CC000VH",
+    "title": "Knee Inflator Module",
+    "description": "Air bags. BRZ.",
+    "sale_price": "$396.36",
+    "msrp": "$592.47",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-inflator-module-98301cc000vh"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271FN00A",
+    "title": "Passenger Inflator Module",
+    "description": "Crosstrek. 2.5l. Air bags, without base, premium.",
+    "sale_price": "$746.51",
+    "msrp": "$1,120.88",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271fn00a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211AL04AVH",
+    "title": "Driver Inflator Module",
+    "description": "Air bags. Legacy, Outback.",
+    "sale_price": "$572.52",
+    "msrp": "$859.63",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211al04avh"
+  },
+  {
+    "brand": "Subaru",
     "part_number": "98271SG021",
     "title": "Passenger Inflator Module",
     "description": "Air bags. Forester.",
@@ -1864,12 +1738,228 @@
   },
   {
     "brand": "Subaru",
+    "part_number": "98201XA00A",
+    "title": "Side Impact Inflator Module",
+    "description": "Tribeca. Right.",
+    "sale_price": "$241.54",
+    "msrp": "$359.43",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201xa00a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98201SC021",
+    "title": "Side Impact Inflator Module",
+    "description": "Forester. Right.",
+    "sale_price": "$485.21",
+    "msrp": "$725.28",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201sc021"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271SC02A",
+    "title": "Passenger Inflator Module",
+    "description": "Forester.",
+    "sale_price": "$797.79",
+    "msrp": "$1,197.88",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271sc02a"
+  },
+  {
+    "brand": "Subaru",
     "part_number": "83196SJ000",
     "title": "Clock Spring",
     "description": "",
     "sale_price": "$209.34",
     "msrp": "$311.52",
     "url": "https://subaru.oempartsonline.com/oem-parts/subaru-clock-spring-83196sj000"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98201CA020",
+    "title": "Side Impact Inflator Module",
+    "description": "Air bags. BRZ. Right.",
+    "sale_price": "$333.35",
+    "msrp": "$496.05",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201ca020"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98201CC020",
+    "title": "Side Impact Inflator Module",
+    "description": "Air bags. BRZ. Right.",
+    "sale_price": "$243.24",
+    "msrp": "$361.97",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201cc020"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211CA051VH",
+    "title": "Driver Inflator Module",
+    "description": "Air bags. BRZ.",
+    "sale_price": "$610.70",
+    "msrp": "$916.97",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211ca051vh"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211SC011JC",
+    "title": "Driver Inflator Module",
+    "description": "Black. Forester.",
+    "sale_price": "$808.82",
+    "msrp": "$1,214.45",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211sc011jc"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98201AJ01A",
+    "title": "Side Impact Inflator Module",
+    "description": "Air bags. Legacy/Outback. Left.",
+    "sale_price": "$241.54",
+    "msrp": "$359.43",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201aj01a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98201SC031",
+    "title": "Side Impact Inflator Module",
+    "description": "Forester. Left.",
+    "sale_price": "$485.21",
+    "msrp": "$725.28",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201sc031"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211SC011LU",
+    "title": "Driver Inflator Module",
+    "description": "Gray. Forester.",
+    "sale_price": "$808.82",
+    "msrp": "$1,214.45",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211sc011lu"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98301CC000VH",
+    "title": "Knee Inflator Module",
+    "description": "Air bags. BRZ.",
+    "sale_price": "$396.36",
+    "msrp": "$592.47",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-inflator-module-98301cc000vh"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271FN00A",
+    "title": "Passenger Inflator Module",
+    "description": "Crosstrek. 2.5l. Air bags, without base, premium.",
+    "sale_price": "$746.51",
+    "msrp": "$1,120.88",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271fn00a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98211FG011JC",
+    "title": "Driver Inflator Module",
+    "description": "Impreza. Without sti model. Off black. Without sti, all. Air bags, without sti. Without sti, black.",
+    "sale_price": "$863.71",
+    "msrp": "$1,296.87",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-driver-inflator-module-98211fg011jc"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98271CA020",
+    "title": "Passenger Inflator Module",
+    "description": "Air bags. BRZ.",
+    "sale_price": "$628.79",
+    "msrp": "$944.13",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-passenger-inflator-module-98271ca020"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251FG062",
+    "title": "Inflator Curtain",
+    "description": "Impreza. Right. Air bags, with sunroof, sedan. With turbo.",
+    "sale_price": "$550.33",
+    "msrp": "$822.62",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251fg062"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251FG052",
+    "title": "Inflator Curtain",
+    "description": "Impreza. Left. Air bags, with sunroof, wagon. With turbo.",
+    "sale_price": "$550.33",
+    "msrp": "$822.62",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251fg052"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251VC000",
+    "title": "Inflator Curtain",
+    "description": "WRX. Right. Air bags.",
+    "sale_price": "$633.52",
+    "msrp": "$951.23",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251vc000"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AL08B",
+    "title": "Inflator Curtain",
+    "description": "Legacy, Outback. Sedan. Right. Air bags, Legacy.",
+    "sale_price": "$628.49",
+    "msrp": "$943.68",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251al08b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251FG072",
+    "title": "Inflator Curtain",
+    "description": "Impreza. Left. Air bags, with sunroof, sedan. With turbo.",
+    "sale_price": "$550.33",
+    "msrp": "$822.62",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251fg072"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AG25A",
+    "title": "Inflator Curtain",
+    "description": "Legacy/Outback. Left. Sedan. Legacy, with 2.5i.",
+    "sale_price": "$357.07",
+    "msrp": "$533.73",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251ag25a"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AL09B",
+    "title": "Inflator Curtain",
+    "description": "Legacy, Outback. Sedan. Left. Air bags, Legacy.",
+    "sale_price": "$628.49",
+    "msrp": "$943.68",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251al09b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98251AL11B",
+    "title": "Inflator Curtain",
+    "description": "Legacy, Outback. Wagon. Left. Air bags, Outback.",
+    "sale_price": "$660.81",
+    "msrp": "$992.20",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251al11b"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98201VC020",
+    "title": "Side Impact Inflator Module",
+    "description": "Air bags. WRX. Right.",
+    "sale_price": "$350.01",
+    "msrp": "$523.18",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201vc020"
+  },
+  {
+    "brand": "Subaru",
+    "part_number": "98301FN00AVH",
+    "title": "Knee Inflator Module",
+    "description": "Crosstrek. Left. 2.5l. Air bags, without base, premium.",
+    "sale_price": "$229.32",
+    "msrp": "$341.25",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-inflator-module-98301fn00avh"
   },
   {
     "brand": "Subaru",
@@ -1918,78 +2008,6 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98251AL08B",
-    "title": "Inflator Curtain",
-    "description": "Legacy, Outback. Sedan. Right. Air bags, Legacy.",
-    "sale_price": "$628.49",
-    "msrp": "$943.68",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251al08b"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FG072",
-    "title": "Inflator Curtain",
-    "description": "Impreza. Left. Air bags, with sunroof, sedan. With turbo.",
-    "sale_price": "$550.33",
-    "msrp": "$822.62",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251fg072"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251AG25A",
-    "title": "Inflator Curtain",
-    "description": "Legacy/Outback. Left. Sedan. Legacy, with 2.5i.",
-    "sale_price": "$357.07",
-    "msrp": "$533.73",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251ag25a"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251VC000",
-    "title": "Inflator Curtain",
-    "description": "WRX. Right. Air bags.",
-    "sale_price": "$633.52",
-    "msrp": "$951.23",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251vc000"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FG042",
-    "title": "Inflator Curtain",
-    "description": "Impreza. Right. Air bags, with sunroof, wagon. With turbo.",
-    "sale_price": "$550.33",
-    "msrp": "$822.62",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251fg042"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98201VC020",
-    "title": "Side Impact Inflator Module",
-    "description": "Air bags. WRX. Right.",
-    "sale_price": "$350.01",
-    "msrp": "$523.18",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201vc020"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98301FN00AVH",
-    "title": "Knee Inflator Module",
-    "description": "Crosstrek. Left. 2.5l. Air bags, without base, premium.",
-    "sale_price": "$229.32",
-    "msrp": "$341.25",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-knee-inflator-module-98301fn00avh"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251AL09B",
-    "title": "Inflator Curtain",
-    "description": "Legacy, Outback. Sedan. Left. Air bags, Legacy.",
-    "sale_price": "$628.49",
-    "msrp": "$943.68",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251al09b"
-  },
-  {
-    "brand": "Subaru",
     "part_number": "98201FN00A",
     "title": "Side Impact Inflator Module",
     "description": "Crosstrek. Right. Seat back. 2.5l. Air bags, seat back, without base, premium.",
@@ -2017,21 +2035,12 @@
   },
   {
     "brand": "Subaru",
-    "part_number": "98251FG062",
-    "title": "Inflator Curtain",
-    "description": "Impreza. Right. Air bags, with sunroof, sedan. With turbo.",
-    "sale_price": "$550.33",
-    "msrp": "$822.62",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251fg062"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98251FG052",
-    "title": "Inflator Curtain",
-    "description": "Impreza. Left. Air bags, with sunroof, wagon. With turbo.",
-    "sale_price": "$550.33",
-    "msrp": "$822.62",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-inflator-curtain-98251fg052"
+    "part_number": "98201FG001",
+    "title": "Side Impact Inflator Module",
+    "description": "Impreza. Right. Air bags. With turbo.",
+    "sale_price": "$485.86",
+    "msrp": "$726.25",
+    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201fg001"
   },
   {
     "brand": "Subaru",
@@ -2041,15 +2050,6 @@
     "sale_price": "$485.86",
     "msrp": "$726.25",
     "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201fg011"
-  },
-  {
-    "brand": "Subaru",
-    "part_number": "98201FG001",
-    "title": "Side Impact Inflator Module",
-    "description": "Impreza. Right. Air bags. With turbo.",
-    "sale_price": "$485.86",
-    "msrp": "$726.25",
-    "url": "https://subaru.oempartsonline.com/oem-parts/subaru-side-impact-inflator-module-98201fg001"
   },
   {
     "brand": "Subaru",
