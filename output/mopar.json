@@ -1,564 +1,6 @@
 [
   {
     "brand": "Mopar",
-    "part_number": "68327764AA",
-    "title": "Air Bag",
-    "description": "FRONT SEAT",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68327764aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "5YQ06LXHAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$574.74",
-    "msrp": "$859.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5yq06lxhaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68281984AH",
-    "title": "Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "$155.63",
-    "msrp": "$229.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68281984ah"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68267746AA",
-    "title": "Air Bag",
-    "description": "FRONT SEAT",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68267746aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "CSF8S155AA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$42.51",
-    "msrp": "$60.25",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-csf8s155aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "5SV37GTVAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$260.11",
-    "msrp": "$386.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5sv37gtvaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68649594AA",
-    "title": "Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68649594aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "CBA0G201",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$661.79",
-    "msrp": "$989.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-cba0g201"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68469858AC",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$344.84",
-    "msrp": "$516.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68469858ac"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "YH411L8AA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-yh411l8aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "5YQ06GTVAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$560.23",
-    "msrp": "$837.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5yq06gtvaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1FP10XDVAE",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1fp10xdvae"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68469859AC",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$344.84",
-    "msrp": "$516.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68469859ac"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68523269AA",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$137.46",
-    "msrp": "$202.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68523269aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6ND72JXWAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$492.27",
-    "msrp": "$747.70",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6nd72jxwaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68388857AA",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68388857aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1ZA61DX9AB",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$491.04",
-    "msrp": "$734.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1za61dx9ab"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68344149AA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68344149aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "CSF8S155AA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$42.51",
-    "msrp": "$60.25",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-csf8s155aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68649594AA",
-    "title": "Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68649594aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "CBA0G201",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$661.79",
-    "msrp": "$989.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-cba0g201"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1TV56HL9AF",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$427.43",
-    "msrp": "$639.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1tv56hl9af"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68469858AC",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$344.84",
-    "msrp": "$516.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68469858ac"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "YH411L8AA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-yh411l8aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1FP10XDVAE",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1fp10xdvae"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68469859AC",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$344.84",
-    "msrp": "$516.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68469859ac"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68523269AA",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$137.46",
-    "msrp": "$202.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68523269aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6ND72JXWAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$492.27",
-    "msrp": "$747.70",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6nd72jxwaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1ZA61DX9AB",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$491.04",
-    "msrp": "$734.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1za61dx9ab"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68344149AA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68344149aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68243457AF",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$204.93",
-    "msrp": "$304.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68243457af"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6VL14LAXAA",
-    "title": "Air Bag",
-    "description": "FRONT SEAT",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6vl14laxaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "5YQ06LXHAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$574.74",
-    "msrp": "$859.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5yq06lxhaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "5SV37GTVAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$260.11",
-    "msrp": "$386.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5sv37gtvaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1TW45HL9AE",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$297.26",
-    "msrp": "$440.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1tw45hl9ae"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "5YQ06GTVAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$560.23",
-    "msrp": "$837.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5yq06gtvaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "CSF8S155AA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$42.51",
-    "msrp": "$60.25",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-csf8s155aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "5SV37GTVAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$260.11",
-    "msrp": "$386.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5sv37gtvaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68649594AA",
-    "title": "Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68649594aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1TW45HL9AE",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$297.26",
-    "msrp": "$440.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1tw45hl9ae"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1TV56HL9AF",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$427.43",
-    "msrp": "$639.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1tv56hl9af"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68469858AC",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$344.84",
-    "msrp": "$516.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68469858ac"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "5YQ06GTVAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$560.23",
-    "msrp": "$837.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5yq06gtvaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1FP10XDVAE",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1fp10xdvae"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68469859AC",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$344.84",
-    "msrp": "$516.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68469859ac"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68523269AA",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$137.46",
-    "msrp": "$202.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68523269aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6ND72JXWAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$492.27",
-    "msrp": "$747.70",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6nd72jxwaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1ZA61DX9AB",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$491.04",
-    "msrp": "$734.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1za61dx9ab"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68344149AA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68344149aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68243457AF",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$204.93",
-    "msrp": "$304.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68243457af"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "CBA0G201",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$661.79",
-    "msrp": "$989.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-cba0g201"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "YH411L8AA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-yh411l8aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6ZE29LXHAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$177.91",
-    "msrp": "$264.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6ze29lxhaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6BY69LXHAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$256.73",
-    "msrp": "$381.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6by69lxhaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1JK43DK7AH",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1jk43dk7ah"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1ZV62DX9AB",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1zv62dx9ab"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1ZT79JXWAD",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$318.66",
-    "msrp": "$472.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1zt79jxwad"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6NL99DX9AA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6nl99dx9aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68297291AA",
-    "title": "Air Bag",
-    "description": "PASSENGER SIDE",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68297291aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6SN70U00AA",
-    "title": "Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6sn70u00aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68156079AD",
-    "title": "Air Bag",
-    "description": "SEAT",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68156079ad"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68243463AC",
-    "title": "Air Bag",
-    "description": "SEAT",
-    "sale_price": "$57.99",
-    "msrp": "$85.10",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68243463ac"
-  },
-  {
-    "brand": "Mopar",
     "part_number": "68303476AA",
     "title": "Air Bag",
     "description": "DRIVER  SIDE",
@@ -574,15 +16,6 @@
     "sale_price": "",
     "msrp": "",
     "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68340536ab"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68243456AF",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68243456af"
   },
   {
     "brand": "Mopar",
@@ -649,21 +82,435 @@
   },
   {
     "brand": "Mopar",
-    "part_number": "6SN70U00AA",
+    "part_number": "68170548AE",
     "title": "Air Bag",
     "description": "PASSENGER",
     "sale_price": "",
     "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6sn70u00aa"
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68170548ae"
   },
   {
     "brand": "Mopar",
-    "part_number": "68523270AA",
+    "part_number": "CBA0G202",
+    "title": "Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$774.50",
+    "msrp": "$1,160.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-cba0g202"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6SN69LXUAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$108.00",
+    "msrp": "$163.91",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6sn69lxuaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7DU01LAXAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$169.67",
+    "msrp": "$259.79",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-7du01laxaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6QW39DX9AA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6qw39dx9aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "CBLZP402AA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$8.72",
+    "msrp": "$11.70",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-cblzp402aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "XE29WL8AD",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-xe29wl8ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68243456AF",
+    "title": "Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$193.67",
+    "msrp": "$288.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68243456af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6QW39LC5AA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$700.85",
+    "msrp": "$1,050.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6qw39lc5aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "CSF8S155AA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$42.51",
+    "msrp": "$60.25",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-csf8s155aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68649594AA",
+    "title": "Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68649594aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "CBA0G201",
+    "title": "Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$661.79",
+    "msrp": "$989.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-cba0g201"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1TV56HL9AF",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$427.43",
+    "msrp": "$639.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1tv56hl9af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68469858AC",
+    "title": "Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68469858ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YH411L8AA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-yh411l8aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1FP10XDVAE",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1fp10xdvae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68469859AC",
+    "title": "Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68469859ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68523269AA",
     "title": "Air Bag",
     "description": "SIDE CURTAIN",
     "sale_price": "$137.46",
     "msrp": "$202.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68523270aa"
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68523269aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6ND72JXWAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$492.27",
+    "msrp": "$747.70",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6nd72jxwaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1ZA61DX9AB",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$491.04",
+    "msrp": "$734.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1za61dx9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68243457AF",
+    "title": "Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$204.93",
+    "msrp": "$304.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68243457af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6VL14LAXAA",
+    "title": "Air Bag",
+    "description": "FRONT SEAT",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6vl14laxaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5YQ06LXHAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$574.74",
+    "msrp": "$859.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5yq06lxhaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5SV37GTVAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$260.11",
+    "msrp": "$386.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5sv37gtvaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1TW45HL9AE",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$297.26",
+    "msrp": "$440.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1tw45hl9ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5YQ06GTVAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$560.23",
+    "msrp": "$837.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5yq06gtvaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6ZE29LXHAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$177.91",
+    "msrp": "$264.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6ze29lxhaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68171742AD",
+    "title": "Air Bag",
+    "description": "SEAT",
+    "sale_price": "$79.69",
+    "msrp": "$118.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68171742ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6SN68LXUAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$111.38",
+    "msrp": "$170.35",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6sn68lxuaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68263674AA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$337.95",
+    "msrp": "$526.09",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68263674aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6KU70DX9AJ",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$682.99",
+    "msrp": "$1,025.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6ku70dx9aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68263675AA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$340.37",
+    "msrp": "$529.86",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68263675aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "CAM0F400",
+    "title": "Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$28.04",
+    "msrp": "$37.50",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-cam0f400"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68243462AC",
+    "title": "Air Bag",
+    "description": "SEAT",
+    "sale_price": "$57.31",
+    "msrp": "$84.15",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68243462ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5JM25XDBAF",
+    "title": "Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5jm25xdbaf"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1TW45DX9AD",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$417.38",
+    "msrp": "$624.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1tw45dx9ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6TS23LXHAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$304.02",
+    "msrp": "$451.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6ts23lxhaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68171740AD",
+    "title": "Air Bag",
+    "description": "SEAT",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68171740ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1FP10BD1AE",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1fp10bd1ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68550449AA",
+    "title": "Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68550449aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6LE01U0DAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$656.21",
+    "msrp": "$980.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6le01u0daa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5VS90LAXAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5vs90laxaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "SL011QLAF",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-sl011qlaf"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YH401QLAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-yh401qlaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1TP76DX9AG",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$175.66",
+    "msrp": "$260.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1tp76dx9ag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68336077AA",
+    "title": "Air Bag",
+    "description": "PASSENGER SIDE",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68336077aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68550448AA",
+    "title": "Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68550448aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1EM32XDHAE",
+    "title": "Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1em32xdhae"
   },
   {
     "brand": "Mopar",
@@ -685,12 +532,165 @@
   },
   {
     "brand": "Mopar",
+    "part_number": "5108546AD",
+    "title": "Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$444.17",
+    "msrp": "$665.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5108546ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68523270AA",
+    "title": "Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$137.46",
+    "msrp": "$202.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68523270aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68156079AD",
+    "title": "Air Bag",
+    "description": "SEAT",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68156079ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68309854AE",
+    "title": "Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$523.40",
+    "msrp": "$782.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68309854ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "52029447AH",
+    "title": "Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-52029447ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6VH38LXHAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$87.13",
+    "msrp": "$130.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6vh38lxhaa"
+  },
+  {
+    "brand": "Mopar",
     "part_number": "68243463AC",
     "title": "Air Bag",
     "description": "SEAT",
     "sale_price": "$57.99",
     "msrp": "$85.10",
     "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68243463ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1RV70HL9AA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$446.40",
+    "msrp": "$667.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1rv70hl9aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68263666AA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$336.90",
+    "msrp": "$524.46",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68263666aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1JK43DK7AH",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1jk43dk7ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1ZV62DX9AB",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1zv62dx9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1ZT79JXWAD",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$318.66",
+    "msrp": "$472.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1zt79jxwad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6NL99DX9AA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6nl99dx9aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68550449AA",
+    "title": "Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68550449aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6LE01U0DAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$656.21",
+    "msrp": "$980.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6le01u0daa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5VS90LAXAA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-5vs90laxaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "SL011QLAF",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-sl011qlaf"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "CAM0F400",
+    "title": "Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$28.04",
+    "msrp": "$37.50",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-cam0f400"
   },
   {
     "brand": "Mopar",
@@ -703,66 +703,21 @@
   },
   {
     "brand": "Mopar",
+    "part_number": "1TP76DX9AG",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$175.66",
+    "msrp": "$260.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1tp76dx9ag"
+  },
+  {
+    "brand": "Mopar",
     "part_number": "68170549AF",
     "title": "Air Bag",
     "description": "PASSENGER",
     "sale_price": "",
     "msrp": "",
     "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68170549af"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68263667AA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$339.15",
-    "msrp": "$527.97",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68263667aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68105539AC",
-    "title": "Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "$1,389.42",
-    "msrp": "$2,075.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68105539ac"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68246983AA",
-    "title": "Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "$362.70",
-    "msrp": "$542.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68246983aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68255478AA",
-    "title": "Air Bag",
-    "description": "SIDE CURTAIN",
-    "sale_price": "$309.65",
-    "msrp": "$460.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68255478aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68156074AH",
-    "title": "Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68156074ah"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68252946AA",
-    "title": "Air Bag",
-    "description": "DRIVER  SIDE",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68252946aa"
   },
   {
     "brand": "Mopar",
@@ -784,6 +739,15 @@
   },
   {
     "brand": "Mopar",
+    "part_number": "68263667AA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$339.15",
+    "msrp": "$527.97",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68263667aa"
+  },
+  {
+    "brand": "Mopar",
     "part_number": "6ZK78LAXAA",
     "title": "Air Bag",
     "description": "DRIVER",
@@ -802,12 +766,48 @@
   },
   {
     "brand": "Mopar",
+    "part_number": "68105539AC",
+    "title": "Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$1,389.42",
+    "msrp": "$2,075.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68105539ac"
+  },
+  {
+    "brand": "Mopar",
     "part_number": "1JK43ZJ8AH",
     "title": "Air Bag",
     "description": "DRIVER",
     "sale_price": "",
     "msrp": "",
     "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1jk43zj8ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6QW39LU5AA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$182.41",
+    "msrp": "$270.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6qw39lu5aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68246983AA",
+    "title": "Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$362.70",
+    "msrp": "$542.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68246983aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68303401AA",
+    "title": "Air Bag",
+    "description": "DRIVER  SIDE",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68303401aa"
   },
   {
     "brand": "Mopar",
@@ -973,6 +973,42 @@
   },
   {
     "brand": "Mopar",
+    "part_number": "6DZ87DX9AH",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$169.26",
+    "msrp": "$249.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6dz87dx9ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6QW39LU5AA",
+    "title": "Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$182.41",
+    "msrp": "$270.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6qw39lu5aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68246983AA",
+    "title": "Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$362.70",
+    "msrp": "$542.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68246983aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68303401AA",
+    "title": "Air Bag",
+    "description": "DRIVER  SIDE",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68303401aa"
+  },
+  {
+    "brand": "Mopar",
     "part_number": "6UD09TX7AE",
     "title": "Air Bag",
     "description": "DRIVER",
@@ -1018,15 +1054,6 @@
   },
   {
     "brand": "Mopar",
-    "part_number": "55314704AC",
-    "title": "Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-55314704ac"
-  },
-  {
-    "brand": "Mopar",
     "part_number": "68156074AH",
     "title": "Air Bag",
     "description": "PASSENGER",
@@ -1036,39 +1063,12 @@
   },
   {
     "brand": "Mopar",
-    "part_number": "1YP42LAXAC",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1yp42laxac"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6JN29U7JAA",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-6jn29u7jaa"
-  },
-  {
-    "brand": "Mopar",
     "part_number": "68252946AA",
     "title": "Air Bag",
     "description": "DRIVER  SIDE",
     "sale_price": "",
     "msrp": "",
     "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-68252946aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1ZA61HL9AC",
-    "title": "Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-1za61hl9ac"
   },
   {
     "brand": "Mopar",
@@ -1090,30 +1090,858 @@
   },
   {
     "brand": "Mopar",
-    "part_number": "YS901DVAK",
+    "part_number": "6QQ61LXHAA",
     "title": "Driver Air Bag",
-    "description": "Driver.",
+    "description": "",
     "sale_price": "",
     "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-ys901dvak"
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6qq61lxhaa"
   },
   {
     "brand": "Mopar",
-    "part_number": "1QK22HL9AI",
+    "part_number": "1WC78DX9AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$869.36",
+    "msrp": "$1,305.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1wc78dx9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6JX10DX9AD",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$1,074.71",
+    "msrp": "$1,605.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6jx10dx9ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6CZ362KXAB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$583.67",
+    "msrp": "$872.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6cz362kxab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68290612AA",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$638.35",
+    "msrp": "$954.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68290612aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68462716AE",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$661.79",
+    "msrp": "$990.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68462716ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68083483AI",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$869.36",
+    "msrp": "$1,305.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68083483ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "04649118AJ",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-4649118aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6MG521X9AD",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$735.44",
+    "msrp": "$1,105.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6mg521x9ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6KU862X7AI",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$374.98",
+    "msrp": "$560.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ku862x7ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1ZZ44DX9AH",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "$1,074.71",
+    "msrp": "$1,605.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1zz44dx9ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68709680AA",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$700.85",
+    "msrp": "$1,050.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68709680aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6BM591X9AE",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6bm591x9ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6NV32DX9AD",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$800.17",
+    "msrp": "$1,200.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6nv32dx9ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1VH80JXWAG",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$816.91",
+    "msrp": "$1,225.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1vh80jxwag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68086537AE",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$1,074.71",
+    "msrp": "$1,605.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68086537ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YS931J8AF",
+    "title": "Air Bag Module",
+    "description": "Driver.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-ys931j8af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68102344AJ",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$520.06",
+    "msrp": "$777.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68102344aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6NL99LC5AE",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6nl99lc5ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5UQ82DX9AF",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$975.38",
+    "msrp": "$1,465.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5uq82dx9af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6KE771X9AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ke771x9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "ZE64BDAAE",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-ze64bdaae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6MJ395X7AH",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$714.24",
+    "msrp": "$1,070.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6mj395x7ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6YA051X7AB",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ya051x7ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68605844AE",
+    "title": "Seat Air Bag",
+    "description": "Right.",
+    "sale_price": "$217.32",
+    "msrp": "$322.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-68605844ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5ZL92GTVAA",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$382.79",
+    "msrp": "$573.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5zl92gtvaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7NA00JXWAA",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-7na00jxwaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "0ZK29ZJ8AE",
+    "title": "Passenger Air Bag",
+    "description": "AIR BAG MODULE",
+    "sale_price": "$2,382.66",
+    "msrp": "$3,560.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-zk29zj8ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "UW72ZP7AF",
+    "title": "Air Bag Module",
+    "description": "Driver.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-uw72zp7af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108734AB",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5108734ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6TS24LXHAA",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$949.72",
+    "msrp": "$1,420.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ts24lxhaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108053AE",
+    "title": "Passenger Air Bag",
+    "description": "Air bag Cover Serviced with Instrument Panel Cover Upper.",
+    "sale_price": "$819.14",
+    "msrp": "$1,230.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5108053ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6NL99TX7AC",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6nl99tx7ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1EM89XDHAD",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-1em89xdhad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68638110AA",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$296.14",
+    "msrp": "$440.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68638110aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6VM95LXHAA",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6vm95lxhaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6JU47LV5AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ju47lv5ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6NL99LC5AC",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6nl99lc5ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7JY67TX7AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$174.53",
+    "msrp": "$260.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-7jy67tx7ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68521557AB",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$661.79",
+    "msrp": "$990.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68521557ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68572883AE",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$170.40",
+    "msrp": "$250.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68572883ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5UQ82GTVAF",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$958.64",
+    "msrp": "$1,440.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5uq82gtvaf"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1GS311L9AI",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$839.23",
+    "msrp": "$1,260.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1gs311l9ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68242369AE",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$531.22",
+    "msrp": "$794.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68242369ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6NL991DMAF",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$148.82",
+    "msrp": "$219.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6nl991dmaf"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "CBRZP401AA",
+    "title": "Air Bag Kit",
+    "description": "DRIVER",
+    "sale_price": "$8.72",
+    "msrp": "$11.70",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-kit-cbrzp401aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "52029340AJ",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$958.64",
+    "msrp": "$1,440.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-52029340aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68435746AF",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$661.79",
+    "msrp": "$990.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68435746af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6BM591U5AA",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$979.85",
+    "msrp": "$1,475.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6bm591u5aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68309757AE",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$757.76",
+    "msrp": "$1,135.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68309757ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108053AD",
+    "title": "Passenger Air Bag",
+    "description": "Air bag Cover Serviced with Instrument Panel Cover Upper.",
+    "sale_price": "$766.69",
+    "msrp": "$1,145.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5108053ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68462716AE",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$661.79",
+    "msrp": "$990.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68462716ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68083483AI",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$869.36",
+    "msrp": "$1,305.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68083483ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "04649118AJ",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-4649118aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6MG521X9AD",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$735.44",
+    "msrp": "$1,105.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6mg521x9ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6KU862X7AI",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$374.98",
+    "msrp": "$560.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ku862x7ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1ZZ44DX9AH",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "$1,074.71",
+    "msrp": "$1,605.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1zz44dx9ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68709680AA",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$700.85",
+    "msrp": "$1,050.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68709680aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6BM591X9AE",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6bm591x9ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6RS511X9AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6rs511x9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YS921DVAF",
+    "title": "Air Bag Module",
+    "description": "Driver.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-ys921dvaf"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5057795AA",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$941.90",
+    "msrp": "$1,410.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5057795aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1ZP27JXWAD",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$795.71",
+    "msrp": "$1,195.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-1zp27jxwad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6BK151C1AH",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$714.24",
+    "msrp": "$1,070.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6bk151c1ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68195937AA",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$928.51",
+    "msrp": "$1,390.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68195937aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1WC55HL9AD",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1wc55hl9ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "XE29ZJ8AD",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-xe29zj8ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1ZT80JXWAB",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$884.99",
+    "msrp": "$1,330.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1zt80jxwab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68477499AC",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$194.80",
+    "msrp": "$290.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68477499ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6KU851X7AI",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$193.67",
+    "msrp": "$288.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ku851x7ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68174016AF",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68174016af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5VP651X9AF",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$1,015.56",
+    "msrp": "$1,520.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5vp651x9af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4649116AB",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-4649116ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68081248AD",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$584.78",
+    "msrp": "$875.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68081248ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5QX40XDVAA",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "$961.99",
+    "msrp": "$1,445.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5qx40xdvaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5XJ121C5AK",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$377.21",
+    "msrp": "$564.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5xj121c5ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6SY921X9AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6sy921x9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68314214AA",
+    "title": "Seat Air Bag",
+    "description": "",
+    "sale_price": "$723.17",
+    "msrp": "$1,085.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-68314214aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1YB06DX9AA",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-1yb06dx9aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7JE752X7AC",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$191.42",
+    "msrp": "$285.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-7je752x7ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6JU191X9AC",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ju191x9ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5XJ121C5AG",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5xj121c5ag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108019AE",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$812.45",
+    "msrp": "$1,220.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5108019ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6KE78DX9AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ke78dx9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108048AC",
+    "title": "Passenger Air Bag",
+    "description": "[cgw,cg3]. Up to 05/28/07.",
+    "sale_price": "$572.51",
+    "msrp": "$855.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5108048ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68573514AC",
+    "title": "Seat Air Bag",
+    "description": "Right.",
+    "sale_price": "$44.75",
+    "msrp": "$63.45",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-68573514ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6BK151XLAH",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$727.63",
+    "msrp": "$1,090.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6bk151xlah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68195938AA",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$928.51",
+    "msrp": "$1,390.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68195938aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68148430AE",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$678.53",
+    "msrp": "$1,015.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68148430ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6KU861A6AI",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$714.24",
+    "msrp": "$1,070.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ku861a6ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1QK22DX9AI",
     "title": "Driver Air Bag",
     "description": "DRIVER",
     "sale_price": "$988.78",
     "msrp": "$1,485.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1qk22hl9ai"
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1qk22dx9ai"
   },
   {
     "brand": "Mopar",
-    "part_number": "6JU47LR9AB",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
+    "part_number": "68174016AF",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
     "sale_price": "",
     "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ju47lr9ab"
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68174016af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5VP651X9AF",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$1,015.56",
+    "msrp": "$1,520.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5vp651x9af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "05108873AJ",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$1,450.80",
+    "msrp": "$2,175.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5108873aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4649116AA",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-4649116aa"
   },
   {
     "brand": "Mopar",
@@ -1126,6 +1954,15 @@
   },
   {
     "brand": "Mopar",
+    "part_number": "5PP65DX9AE",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "$1,074.71",
+    "msrp": "$1,605.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5pp65dx9ae"
+  },
+  {
+    "brand": "Mopar",
     "part_number": "1EM89ZJ8AC",
     "title": "Passenger Air Bag",
     "description": "",
@@ -1135,165 +1972,156 @@
   },
   {
     "brand": "Mopar",
-    "part_number": "SX271TMAF",
-    "title": "Driver Air Bag",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-sx271tmaf"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6MJ394X7AH",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$714.24",
-    "msrp": "$1,070.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6mj394x7ah"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68242369AE",
-    "title": "Passenger Air Bag",
-    "description": "",
-    "sale_price": "$835.88",
-    "msrp": "$1,250.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68242369ae"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68367452AG",
-    "title": "Passenger Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "$639.47",
-    "msrp": "$956.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68367452ag"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "4645998AC",
-    "title": "Seat Air Bag",
-    "description": "SEAT",
-    "sale_price": "$352.66",
-    "msrp": "$528.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-4645998ac"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1GS291TWAG",
-    "title": "Driver Air Bag",
-    "description": "",
-    "sale_price": "$743.26",
-    "msrp": "$1,110.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1gs291twag"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "5XJ122X9AK",
+    "part_number": "1SR37XDVAK",
     "title": "Driver Air Bag",
     "description": "DRIVER",
     "sale_price": "",
     "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5xj122x9ak"
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1sr37xdvak"
   },
   {
     "brand": "Mopar",
-    "part_number": "1RV69DX9AD",
-    "title": "Driver Air Bag",
-    "description": "Includes Proper Logo.",
-    "sale_price": "$818.03",
-    "msrp": "$1,225.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1rv69dx9ad"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6CY482KXAC",
-    "title": "Driver Air Bag",
-    "description": "Includes Proper Logo.",
-    "sale_price": "$234.21",
-    "msrp": "$347.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6cy482kxac"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6NL99RN8AC",
+    "part_number": "1RU53JXWAK",
     "title": "Driver Air Bag",
     "description": "DRIVER",
     "sale_price": "$747.72",
     "msrp": "$1,120.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6nl99rn8ac"
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1ru53jxwak"
   },
   {
     "brand": "Mopar",
-    "part_number": "UW72XDVAG",
+    "part_number": "1EF19BD3AJ",
     "title": "Driver Air Bag",
-    "description": "Driver. Includes Proper Logo.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-uw72xdvag"
+    "description": "DRIVER",
+    "sale_price": "$1,024.49",
+    "msrp": "$1,535.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1ef19bd3aj"
   },
   {
     "brand": "Mopar",
-    "part_number": "UW72ZJ8AG",
-    "title": "Driver Air Bag",
-    "description": "Includes Proper Logo.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-uw72zj8ag"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68314216AA",
+    "part_number": "68369387AC",
     "title": "Seat Air Bag",
-    "description": "",
-    "sale_price": "$882.76",
-    "msrp": "$1,325.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-68314216aa"
+    "description": "Left.",
+    "sale_price": "$347.08",
+    "msrp": "$519.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-68369387ac"
   },
   {
     "brand": "Mopar",
-    "part_number": "YT70XDHAB",
-    "title": "Air Bag Module Cover",
-    "description": "Slate gray. D5. Next gen multistage.",
-    "sale_price": "$57.60",
-    "msrp": "$84.50",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-yt70xdhab"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "5VP651TVAF",
+    "part_number": "1UE78JXWAJ",
     "title": "Driver Air Bag",
-    "description": "",
-    "sale_price": "$747.72",
-    "msrp": "$1,120.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5vp651tvaf"
+    "description": "DRIVER",
+    "sale_price": "$636.12",
+    "msrp": "$950.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1ue78jxwaj"
   },
   {
     "brand": "Mopar",
-    "part_number": "6DZ70DX9AH",
+    "part_number": "1UG14DK7AF",
     "title": "Driver Air Bag",
     "description": "DRIVER",
     "sale_price": "",
     "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6dz70dx9ah"
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1ug14dk7af"
   },
   {
     "brand": "Mopar",
-    "part_number": "68225407AA",
+    "part_number": "1VH87DX9AH",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$965.34",
+    "msrp": "$1,450.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1vh87dx9ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6QW37LC5AA",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$613.80",
+    "msrp": "$917.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6qw37lc5aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YS901J8AK",
+    "title": "Driver Air Bag",
+    "description": "Driver.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-ys901j8ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68087083AD",
+    "title": "Passenger Air Bag",
+    "description": "Up to 01/28/08.",
+    "sale_price": "$246.59",
+    "msrp": "$366.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68087083ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1UG14XDVAE",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$689.69",
+    "msrp": "$1,030.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1ug14xdvae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6UZ871X9AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6uz871x9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6MK181X9AD",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6mk181x9ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68275517AD",
     "title": "Passenger Air Bag",
     "description": "PASSENGER",
-    "sale_price": "$451.98",
-    "msrp": "$675.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68225407aa"
+    "sale_price": "$757.76",
+    "msrp": "$1,135.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68275517ad"
   },
   {
     "brand": "Mopar",
-    "part_number": "6QE71LC5AA",
+    "part_number": "68045027AI",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$542.38",
+    "msrp": "$811.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68045027ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6KU841X7AI",
     "title": "Driver Air Bag",
-    "description": "",
-    "sale_price": "$301.77",
-    "msrp": "$447.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6qe71lc5aa"
+    "description": "DRIVER",
+    "sale_price": "$193.67",
+    "msrp": "$288.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ku841x7ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1RU53JW4AK",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$697.50",
+    "msrp": "$1,045.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1ru53jw4ak"
   },
   {
     "brand": "Mopar",
@@ -1441,30 +2269,237 @@
   },
   {
     "brand": "Mopar",
-    "part_number": "68573514AC",
+    "part_number": "1QK22HL9AI",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$988.78",
+    "msrp": "$1,485.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1qk22hl9ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6QW37LU5AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$204.93",
+    "msrp": "$304.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6qw37lu5ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6JU47LR9AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ju47lr9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5PP65DX9AE",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "$1,074.71",
+    "msrp": "$1,605.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5pp65dx9ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68369387AC",
     "title": "Seat Air Bag",
-    "description": "Right.",
-    "sale_price": "$44.75",
-    "msrp": "$63.45",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-68573514ac"
+    "description": "Left.",
+    "sale_price": "$347.08",
+    "msrp": "$519.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-68369387ac"
   },
   {
     "brand": "Mopar",
-    "part_number": "6BK151XLAH",
+    "part_number": "1UG14DK7AF",
     "title": "Driver Air Bag",
     "description": "DRIVER",
-    "sale_price": "$727.63",
-    "msrp": "$1,090.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6bk151xlah"
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1ug14dk7af"
   },
   {
     "brand": "Mopar",
-    "part_number": "5RV90JW4AD",
+    "part_number": "1VH87DX9AH",
     "title": "Driver Air Bag",
     "description": "DRIVER",
-    "sale_price": "$212.81",
-    "msrp": "$315.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5rv90jw4ad"
+    "sale_price": "$965.34",
+    "msrp": "$1,450.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1vh87dx9ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6QW37LC5AA",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$613.80",
+    "msrp": "$917.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6qw37lc5aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YS901J8AK",
+    "title": "Driver Air Bag",
+    "description": "Driver.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-ys901j8ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68087083AD",
+    "title": "Passenger Air Bag",
+    "description": "Up to 01/28/08.",
+    "sale_price": "$246.59",
+    "msrp": "$366.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68087083ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6UZ871X9AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6uz871x9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6MK181X9AD",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6mk181x9ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68275517AD",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$757.76",
+    "msrp": "$1,135.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68275517ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68045027AI",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$542.38",
+    "msrp": "$811.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68045027ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5QX401X9AA",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "$951.95",
+    "msrp": "$1,425.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5qx401x9aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68656391AA",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$302.89",
+    "msrp": "$449.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68656391aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68314211AA",
+    "title": "Passenger Air Bag",
+    "description": "Instrument Panel.",
+    "sale_price": "$868.25",
+    "msrp": "$1,300.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68314211aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6RS491X9AB",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "$270.24",
+    "msrp": "$400.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6rs491x9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108093AF",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$988.78",
+    "msrp": "$1,485.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5108093af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1GS311XLAI",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$948.60",
+    "msrp": "$1,425.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1gs311xlai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6JU47DX9AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ju47dx9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5PP71DX9AE",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "$1,009.98",
+    "msrp": "$1,515.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5pp71dx9ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5057495AC",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$1,227.60",
+    "msrp": "$1,840.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5057495ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6NL99RN8AF",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$714.24",
+    "msrp": "$1,070.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6nl99rn8af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68368968AF",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$647.28",
+    "msrp": "$968.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68368968af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5XR10JXWAA",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5xr10jxwaa"
   },
   {
     "brand": "Mopar",
@@ -1477,12 +2512,30 @@
   },
   {
     "brand": "Mopar",
-    "part_number": "5UQ82GTVAF",
+    "part_number": "5PP65LC5AE",
     "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$958.64",
-    "msrp": "$1,440.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5uq82gtvaf"
+    "description": "Includes Proper Logo.",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5pp65lc5ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6LD52U0DAA",
+    "title": "Driver Air Bag",
+    "description": "Includes FIAT Logo. Used Up To 11/01/2017.",
+    "sale_price": "$1,272.24",
+    "msrp": "$1,905.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ld52u0daa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68285284AA",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$602.64",
+    "msrp": "$901.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68285284aa"
   },
   {
     "brand": "Mopar",
@@ -1495,290 +2548,2918 @@
   },
   {
     "brand": "Mopar",
-    "part_number": "CBRZP401AA",
-    "title": "Air Bag Kit",
-    "description": "DRIVER",
-    "sale_price": "$8.72",
-    "msrp": "$11.70",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-kit-cbrzp401aa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68309757AE",
-    "title": "Passenger Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "$757.76",
-    "msrp": "$1,135.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68309757ae"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "7JY67TX7AB",
+    "part_number": "UW72XDVAG",
     "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$174.53",
-    "msrp": "$260.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-7jy67tx7ab"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "04649118AJ",
-    "title": "Passenger Air Bag",
-    "description": "PASSENGER",
+    "description": "Driver. Includes Proper Logo.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-4649118aj"
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-uw72xdvag"
   },
   {
     "brand": "Mopar",
-    "part_number": "1ZZ44DX9AH",
+    "part_number": "5RV90JW4AD",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$212.81",
+    "msrp": "$315.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5rv90jw4ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5UQ82GTVAF",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$958.64",
+    "msrp": "$1,440.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5uq82gtvaf"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "SX271QLAF",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-sx271qlaf"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68242369AE",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$531.22",
+    "msrp": "$794.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68242369ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5JD13WL5AD",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5jd13wl5ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5XU982X9AB",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$632.77",
+    "msrp": "$945.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5xu982x9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5RR84JW4AC",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5rr84jw4ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5LH34DX9AH",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$593.71",
+    "msrp": "$887.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5lh34dx9ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6RS491VXAB",
     "title": "Driver Air Bag",
     "description": "Includes Proper Logo.",
-    "sale_price": "$1,074.71",
-    "msrp": "$1,605.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1zz44dx9ah"
+    "sale_price": "$879.41",
+    "msrp": "$1,320.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6rs491vxab"
   },
   {
     "brand": "Mopar",
-    "part_number": "68709680AA",
+    "part_number": "6YS861X9AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$762.23",
+    "msrp": "$1,145.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ys861x9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "0ZM10BD5AK",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-zm10bd5ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5KC81XDVAH",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$935.21",
+    "msrp": "$1,400.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5kc81xdvah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1UE78JXWAJ",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$636.12",
+    "msrp": "$950.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1ue78jxwaj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68605845AE",
+    "title": "Seat Air Bag",
+    "description": "Left.",
+    "sale_price": "$217.32",
+    "msrp": "$322.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-68605845ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "CBXZR262AC",
+    "title": "Air Bag Kit",
+    "description": "PASSENGER",
+    "sale_price": "$3.36",
+    "msrp": "$4.50",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-kit-cbxzr262ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68446213AD",
     "title": "Passenger Air Bag",
     "description": "PASSENGER",
-    "sale_price": "$700.85",
-    "msrp": "$1,050.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68709680aa"
+    "sale_price": "$678.53",
+    "msrp": "$1,015.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68446213ad"
   },
   {
     "brand": "Mopar",
-    "part_number": "68521557AB",
-    "title": "Passenger Air Bag",
-    "description": "",
-    "sale_price": "$661.79",
-    "msrp": "$990.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68521557ab"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6NV32DX9AD",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$800.17",
-    "msrp": "$1,200.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6nv32dx9ad"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1VH80JXWAG",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$816.91",
-    "msrp": "$1,225.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1vh80jxwag"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68572883AE",
-    "title": "Passenger Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "$170.40",
-    "msrp": "$250.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68572883ae"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "7RS271X7AB",
-    "title": "Driver Air Bag",
-    "description": "",
-    "sale_price": "$260.11",
-    "msrp": "$386.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-7rs271x7ab"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6UD08TX7AE",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$801.29",
-    "msrp": "$1,200.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ud08tx7ae"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1EM89XDHAD",
-    "title": "Passenger Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-1em89xdhad"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6NL99LC5AC",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$747.72",
-    "msrp": "$1,120.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6nl99lc5ac"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6NV32DX9AD",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$800.17",
-    "msrp": "$1,200.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6nv32dx9ad"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "1VH80JXWAG",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$816.91",
-    "msrp": "$1,225.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1vh80jxwag"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68086537AE",
-    "title": "Passenger Air Bag",
-    "description": "",
-    "sale_price": "$1,074.71",
-    "msrp": "$1,605.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68086537ae"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "YS931J8AF",
-    "title": "Air Bag Module",
-    "description": "Driver.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-ys931j8af"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68102344AJ",
-    "title": "Passenger Air Bag",
-    "description": "PASSENGER",
-    "sale_price": "$520.06",
-    "msrp": "$777.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68102344aj"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6NL99LC5AE",
-    "title": "Driver Air Bag",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6nl99lc5ae"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "5UQ82DX9AF",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$975.38",
-    "msrp": "$1,465.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5uq82dx9af"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6KE771X9AB",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ke771x9ab"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "ZE64BDAAE",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-ze64bdaae"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6MJ395X7AH",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$714.24",
-    "msrp": "$1,070.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6mj395x7ah"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "6YA051X7AB",
-    "title": "Driver Air Bag",
-    "description": "",
-    "sale_price": "$747.72",
-    "msrp": "$1,120.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ya051x7ab"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "68605844AE",
+    "part_number": "68369386AC",
     "title": "Seat Air Bag",
     "description": "Right.",
     "sale_price": "$217.32",
     "msrp": "$322.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-68605844ae"
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-68369386ac"
   },
   {
     "brand": "Mopar",
-    "part_number": "7FB711DMAC",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$199.30",
-    "msrp": "$295.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-7fb711dmac"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "5ZL92GTVAA",
-    "title": "Driver Air Bag",
-    "description": "DRIVER",
-    "sale_price": "$382.79",
-    "msrp": "$573.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5zl92gtvaa"
-  },
-  {
-    "brand": "Mopar",
-    "part_number": "7NA00JXWAA",
+    "part_number": "1EF19DX9AJ",
     "title": "Driver Air Bag",
     "description": "",
-    "sale_price": "$747.72",
-    "msrp": "$1,120.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-7na00jxwaa"
+    "sale_price": "$1,104.84",
+    "msrp": "$1,655.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1ef19dx9aj"
   },
   {
     "brand": "Mopar",
-    "part_number": "0ZK29ZJ8AE",
-    "title": "Passenger Air Bag",
-    "description": "AIR BAG MODULE",
-    "sale_price": "$2,382.66",
-    "msrp": "$3,560.00",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-zk29zj8ae"
+    "part_number": "1TV57DX9AD",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$939.67",
+    "msrp": "$1,405.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1tv57dx9ad"
   },
   {
     "brand": "Mopar",
-    "part_number": "UW72ZP7AF",
+    "part_number": "YS921J8AF",
     "title": "Air Bag Module",
     "description": "Driver.",
     "sale_price": "",
     "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-uw72zp7af"
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-ys921j8af"
   },
   {
     "brand": "Mopar",
-    "part_number": "5108734AB",
+    "part_number": "YS911DVAI",
+    "title": "Driver Air Bag",
+    "description": "Driver.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-ys911dvai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7SB86LXHAA",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-7sb86lxhaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68656391AA",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$302.89",
+    "msrp": "$449.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68656391aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68314211AA",
+    "title": "Passenger Air Bag",
+    "description": "Instrument Panel.",
+    "sale_price": "$868.25",
+    "msrp": "$1,300.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68314211aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6RS491X9AB",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "$270.24",
+    "msrp": "$400.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6rs491x9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5JD13WL5AD",
     "title": "Passenger Air Bag",
     "description": "",
     "sale_price": "",
     "msrp": "",
-    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5108734ab"
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5jd13wl5ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5XU982X9AB",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$632.77",
+    "msrp": "$945.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5xu982x9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5RR84JW4AC",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5rr84jw4ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5LH34DX9AH",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$593.71",
+    "msrp": "$887.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5lh34dx9ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6RS491VXAB",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "$879.41",
+    "msrp": "$1,320.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6rs491vxab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "52029371AI",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$541.26",
+    "msrp": "$809.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-52029371ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6YS861X9AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$762.23",
+    "msrp": "$1,145.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ys861x9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7FJ83XDVAB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-7fj83xdvab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68284792AA",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-68284792aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1EM32XDVAD",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$918.47",
+    "msrp": "$1,375.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-1em32xdvad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1EM89ZJ8AC",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$2,153.88",
+    "msrp": "$3,225.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-1em89zj8ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68548467AC",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$191.42",
+    "msrp": "$285.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68548467ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1SR37XDVAK",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1sr37xdvak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1RU53JXWAK",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1ru53jxwak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1EF19BD3AJ",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$1,024.49",
+    "msrp": "$1,535.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1ef19bd3aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68137707AD",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$410.69",
+    "msrp": "$615.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68137707ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YS911J8AI",
+    "title": "Driver Air Bag",
+    "description": "Driver.",
+    "sale_price": "$499.97",
+    "msrp": "$747.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-ys911j8ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6BK151N8AH",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$556.88",
+    "msrp": "$833.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6bk151n8ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "WG26XDVAC",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-wg26xdvac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1EF19XDVAJ",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$1,055.74",
+    "msrp": "$1,580.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1ef19xdvaj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6KU861X7AI",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$693.04",
+    "msrp": "$1,045.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ku861x7ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55314816",
+    "title": "Air Bag Module",
+    "description": "PASSENGER SIDE",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-55314816"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1QK22DX9AI",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$988.78",
+    "msrp": "$1,485.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1qk22dx9ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68477499AC",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$194.80",
+    "msrp": "$290.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68477499ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6KU851X7AI",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$193.67",
+    "msrp": "$288.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6ku851x7ai"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6BM591C5AE",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6bm591c5ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68360029AA",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$646.16",
+    "msrp": "$965.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68360029aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68276462AA",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$661.79",
+    "msrp": "$990.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68276462aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YS931DVAF",
+    "title": "Air Bag Module",
+    "description": "Driver.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-ys931dvaf"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6DR651Z7AB",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6dr651z7ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "MF50XTMBC",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-mf50xtmbc"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68174016AF",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68174016af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5VP651X9AF",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$1,015.56",
+    "msrp": "$1,520.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5vp651x9af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "05108873AJ",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$1,450.80",
+    "msrp": "$2,175.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5108873aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4649116AA",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-4649116aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1RV70DX9AC",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "$932.98",
+    "msrp": "$1,395.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1rv70dx9ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1ZT78JXWAB",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$1,074.71",
+    "msrp": "$1,605.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1zt78jxwab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4649116AB",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-4649116ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68483877AA",
+    "title": "Passenger Air Bag",
+    "description": "US and Canada Only.",
+    "sale_price": "$661.79",
+    "msrp": "$990.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68483877aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5MZ091XMAB",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5mz091xmab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68081248AD",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$584.78",
+    "msrp": "$875.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68081248ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6RS511X9AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6rs511x9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5QX40XDVAA",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "$961.99",
+    "msrp": "$1,445.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5qx40xdvaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68573515AC",
+    "title": "Seat Air Bag",
+    "description": "Left.",
+    "sale_price": "$44.75",
+    "msrp": "$63.45",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-68573515ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5XJ121C5AK",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$377.21",
+    "msrp": "$564.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-5xj121c5ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YS921DVAF",
+    "title": "Air Bag Module",
+    "description": "Driver.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-ys921dvaf"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6SY921X9AB",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6sy921x9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5057795AA",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$941.90",
+    "msrp": "$1,410.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-5057795aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1ZP27JXWAD",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$795.71",
+    "msrp": "$1,195.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-1zp27jxwad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6BK151C1AH",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$714.24",
+    "msrp": "$1,070.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6bk151c1ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68195937AA",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "$928.51",
+    "msrp": "$1,390.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68195937aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7FD60LXHAA",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$747.72",
+    "msrp": "$1,120.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-7fd60lxhaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1WC55HL9AD",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1wc55hl9ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "XE29ZJ8AD",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-xe29zj8ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1ZT80JXWAB",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "$884.99",
+    "msrp": "$1,330.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1zt80jxwab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "XE29XDHAD",
+    "title": "Driver Air Bag",
+    "description": "D5.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-xe29xdhad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1VQ64HL9AB",
+    "title": "Driver Air Bag",
+    "description": "Includes Proper Logo.",
+    "sale_price": "$532.33",
+    "msrp": "$797.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1vq64hl9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6MJ382X7AH",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$80.83",
+    "msrp": "$119.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-6mj382x7ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7FB711X7AC",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "$207.18",
+    "msrp": "$307.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-7fb711x7ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1EF19GTVAJ",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1ef19gtvaj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68105539AH",
+    "title": "Passenger Air Bag",
+    "description": "PASSENGER",
+    "sale_price": "$1,908.36",
+    "msrp": "$2,850.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-68105539ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4645990AA",
+    "title": "Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$381.67",
+    "msrp": "$570.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-4645990aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YW781B6AH",
+    "title": "Air Bag Module Cover",
+    "description": "AIR BAG MODULE",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-yw781b6ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68366489AC",
+    "title": "Seat Air Bag, Left",
+    "description": "Left.",
+    "sale_price": "$345.96",
+    "msrp": "$518.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68366489ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "52029420AC",
+    "title": "Seat Air Bag, Right",
+    "description": "RIGHT SIDE",
+    "sale_price": "$336.67",
+    "msrp": "$499.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-52029420ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68239855AB",
+    "title": "Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$637.24",
+    "msrp": "$953.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68239855ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YW781FFAG",
+    "title": "Air Bag Module Cover",
+    "description": "AIR BAG MODULE",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-yw781ffag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5057816AE",
+    "title": "Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$217.32",
+    "msrp": "$322.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-5057816ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4649109AC",
+    "title": "Left Side Air Bag",
+    "description": "LEFT SIDE",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-left-side-air-bag-4649109ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "52029335AD",
+    "title": "Seat Air Bag, Left",
+    "description": "AIR BAG",
+    "sale_price": "$624.96",
+    "msrp": "$934.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-52029335ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68477643AB",
+    "title": "Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$44.75",
+    "msrp": "$63.45",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68477643ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68243593AB",
+    "title": "Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$637.24",
+    "msrp": "$953.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68243593ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6CC05SD7AD",
+    "title": "Passenger Air Bag Door",
+    "description": "INSTRUMENT PANEL",
+    "sale_price": "$212.81",
+    "msrp": "$316.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-6cc05sd7ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4645997AE",
+    "title": "Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$391.72",
+    "msrp": "$585.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-4645997ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68683292AA",
+    "title": "Side Curtain Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$182.41",
+    "msrp": "$270.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-68683292aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6AC261R3AD",
+    "title": "Passenger Air Bag Door",
+    "description": "",
+    "sale_price": "$267.99",
+    "msrp": "$398.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-6ac261r3ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68359022AB",
+    "title": "Seat Air Bag, Right",
+    "description": "SEAT",
+    "sale_price": "$637.24",
+    "msrp": "$953.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-68359022ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68359020AB",
+    "title": "Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$639.47",
+    "msrp": "$956.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-68359020ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YW781PKAG",
+    "title": "Air Bag Module Cover",
+    "description": "AIR BAG MODULE",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-yw781pkag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68154567AB",
+    "title": "Seat Air Bag, Left",
+    "description": "SEAT",
+    "sale_price": "$69.41",
+    "msrp": "$103.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68154567ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "52029421AC",
+    "title": "Seat Air Bag, Left",
+    "description": "LEFT SIDE",
+    "sale_price": "$263.48",
+    "msrp": "$391.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-52029421ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68573512AB",
+    "title": "Side Curtain Air Bag",
+    "description": "Right.",
+    "sale_price": "$147.68",
+    "msrp": "$217.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-68573512ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6AC261K5AD",
+    "title": "Passenger Air Bag Door",
+    "description": "",
+    "sale_price": "$256.73",
+    "msrp": "$381.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-6ac261k5ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68156078AC",
+    "title": "Seat Air Bag, Right",
+    "description": "Front.",
+    "sale_price": "$351.54",
+    "msrp": "$526.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-68156078ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68334997AB",
+    "title": "Seat Air Bag, Left",
+    "description": "Front Seat.",
+    "sale_price": "$345.96",
+    "msrp": "$518.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68334997ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68359021AB",
+    "title": "Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$639.47",
+    "msrp": "$956.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68359021ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1QF95DX9AE",
+    "title": "Passenger Air Bag Door",
+    "description": "PASSENGER AIR BAG",
+    "sale_price": "$164.72",
+    "msrp": "$243.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-1qf95dx9ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108016AH",
+    "title": "Right Side Air Bag",
+    "description": "RIGHT SIDE",
+    "sale_price": "$679.64",
+    "msrp": "$1,015.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-right-side-air-bag-5108016ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5057817AE",
+    "title": "Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$217.32",
+    "msrp": "$322.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-5057817ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4645992AE",
+    "title": "Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$316.41",
+    "msrp": "$469.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-4645992ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68359023AB",
+    "title": "Seat Air Bag, Left",
+    "description": "SEAT",
+    "sale_price": "$340.38",
+    "msrp": "$509.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68359023ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68670528AA",
+    "title": "Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$49.45",
+    "msrp": "$70.10",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-68670528aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68373919AB",
+    "title": "Seat Air Bag, Left",
+    "description": "SEAT",
+    "sale_price": "$319.78",
+    "msrp": "$474.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68373919ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68573513AB",
+    "title": "Side Curtain Air Bag",
+    "description": "Left.",
+    "sale_price": "$147.68",
+    "msrp": "$217.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-68573513ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6AD55WAZAD",
+    "title": "Passenger Air Bag Door",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-6ad55wazad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "RN531RVAE",
+    "title": "Air Bag Module Cover",
+    "description": "See note. 1.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-rn531rvae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68243592AB",
+    "title": "Seat Air Bag, Right",
+    "description": "SEAT",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-68243592ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1PS85DX9AE",
+    "title": "Passenger Air Bag Door",
+    "description": "",
+    "sale_price": "$674.06",
+    "msrp": "$1,010.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-1ps85dx9ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68670529AA",
+    "title": "Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$50.39",
+    "msrp": "$71.45",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68670529aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68146240AB",
+    "title": "Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$335.55",
+    "msrp": "$498.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-68146240ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5057855AF",
+    "title": "Seat Air Bag, Left",
+    "description": "SEAT",
+    "sale_price": "$493.27",
+    "msrp": "$738.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-5057855af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6ab27sd5ad",
+    "title": "Passenger Air Bag Door",
+    "description": "Bring back the original look and functionality of your Jeep's instrument panel with the Mopar 6AB27SD5AD Passenger Air Bag Door. This...",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-6ab27sd5ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5ZC97LDMAA",
+    "title": "Air Bag Module Cover",
+    "description": "",
+    "sale_price": "$2.24",
+    "msrp": "$3.05",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-5zc97ldmaa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68100764AC",
+    "title": "Seat Air Bag, Right",
+    "description": "Front.",
+    "sale_price": "$217.32",
+    "msrp": "$322.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-68100764ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68455955AF",
+    "title": "Side Curtain Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$443.05",
+    "msrp": "$663.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-68455955af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68421745AG",
+    "title": "Side Curtain Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$377.21",
+    "msrp": "$565.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-68421745ag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5kf39xdvag",
+    "title": "Passenger Air Bag Door",
+    "description": "If you're in search of a durable and reliable replacement for your 2007 Jeep's passenger air bag door, look no further than the Mopar...",
+    "sale_price": "$164.72",
+    "msrp": "$243.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-5kf39xdvag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68656789AA",
+    "title": "Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$309.65",
+    "msrp": "$459.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68656789aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YD46DK5AB",
+    "title": "Air Bag Module Cover",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-yd46dk5ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68421744AF",
+    "title": "Side Curtain Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-68421744af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68607118AA",
+    "title": "Front Seat Air Bag",
+    "description": "",
+    "sale_price": "$251.10",
+    "msrp": "$373.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-68607118aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68366488AC",
+    "title": "Seat Air Bag, Right",
+    "description": "Right.",
+    "sale_price": "$345.96",
+    "msrp": "$518.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-68366488ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68455954AF",
+    "title": "Side Curtain Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$443.05",
+    "msrp": "$663.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-68455954af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68656390AA",
+    "title": "Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$309.65",
+    "msrp": "$459.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-68656390aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7DZ72LW2AA",
+    "title": "Passenger Air Bag Door",
+    "description": "",
+    "sale_price": "$260.11",
+    "msrp": "$386.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-7dz72lw2aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68146235AB",
+    "title": "Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$341.50",
+    "msrp": "$511.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68146235ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6AB28WAZAD",
+    "title": "Passenger Air Bag Door",
+    "description": "",
+    "sale_price": "$220.70",
+    "msrp": "$327.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-6ab28wazad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YT70XDVAB",
+    "title": "Air Bag Module Cover",
+    "description": "Dk. Slate gray.",
+    "sale_price": "$386.14",
+    "msrp": "$578.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-yt70xdvab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6AC261A3AD",
+    "title": "Passenger Air Bag Door",
+    "description": "PASSENGER AIR BAG",
+    "sale_price": "$332.17",
+    "msrp": "$492.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-6ac261a3ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4645990AA",
+    "title": "Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$381.67",
+    "msrp": "$570.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-4645990aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YW781B6AH",
+    "title": "Air Bag Module Cover",
+    "description": "AIR BAG MODULE",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-yw781b6ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68366489AC",
+    "title": "Seat Air Bag, Left",
+    "description": "Left.",
+    "sale_price": "$345.96",
+    "msrp": "$518.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68366489ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68243593AB",
+    "title": "Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$637.24",
+    "msrp": "$953.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68243593ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YD46DK5AB",
+    "title": "Air Bag Module Cover",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-yd46dk5ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68421744AF",
+    "title": "Side Curtain Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-68421744af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68607118AA",
+    "title": "Front Seat Air Bag",
+    "description": "",
+    "sale_price": "$251.10",
+    "msrp": "$373.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-68607118aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68366488AC",
+    "title": "Seat Air Bag, Right",
+    "description": "Right.",
+    "sale_price": "$345.96",
+    "msrp": "$518.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-68366488ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5QZ89DX9AB",
+    "title": "Passenger Air Bag Door",
+    "description": "From the trusted brand of Mopar, this genuine OEM Passenger Air Bag Door (Part# 5QZ89DX9AB) is a high-quality, durable, and reliable...",
+    "sale_price": "$159.04",
+    "msrp": "$234.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-5qz89dx9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68455954AF",
+    "title": "Side Curtain Air Bag",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$443.05",
+    "msrp": "$663.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-68455954af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68656390AA",
+    "title": "Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$309.65",
+    "msrp": "$459.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-68656390aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7DZ72LW2AA",
+    "title": "Passenger Air Bag Door",
+    "description": "",
+    "sale_price": "$260.11",
+    "msrp": "$386.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-7dz72lw2aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68146235AB",
+    "title": "Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$341.50",
+    "msrp": "$511.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68146235ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108017AH",
+    "title": "Left Side Air Bag",
+    "description": "RIGHT SIDE",
+    "sale_price": "$661.79",
+    "msrp": "$990.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-left-side-air-bag-5108017ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6AB28WAZAD",
+    "title": "Passenger Air Bag Door",
+    "description": "",
+    "sale_price": "$220.70",
+    "msrp": "$327.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-6ab28wazad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YT70XDVAB",
+    "title": "Air Bag Module Cover",
+    "description": "Dk. Slate gray.",
+    "sale_price": "$386.14",
+    "msrp": "$578.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-yt70xdvab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6AC261A3AD",
+    "title": "Passenger Air Bag Door",
+    "description": "PASSENGER AIR BAG",
+    "sale_price": "$332.17",
+    "msrp": "$492.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-6ac261a3ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108036AB",
+    "title": "Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$388.37",
+    "msrp": "$580.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-5108036ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108033AB",
+    "title": "Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$374.98",
+    "msrp": "$560.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-5108033ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68359023AB",
+    "title": "Seat Air Bag, Left",
+    "description": "SEAT",
+    "sale_price": "$340.38",
+    "msrp": "$509.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68359023ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68373919AB",
+    "title": "Seat Air Bag, Left",
+    "description": "SEAT",
+    "sale_price": "$319.78",
+    "msrp": "$474.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-68373919ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108016AH",
+    "title": "Right Side Air Bag",
+    "description": "RIGHT SIDE",
+    "sale_price": "$679.64",
+    "msrp": "$1,015.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-right-side-air-bag-5108016ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "6AD55WAZAD",
+    "title": "Passenger Air Bag Door",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-6ad55wazad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5057817AE",
+    "title": "Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$217.32",
+    "msrp": "$322.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-left-5057817ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "RN531RVAE",
+    "title": "Air Bag Module Cover",
+    "description": "See note. 1.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-rn531rvae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4645992AE",
+    "title": "Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$316.41",
+    "msrp": "$469.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-4645992ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68670528AA",
+    "title": "Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$49.45",
+    "msrp": "$70.10",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-68670528aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68243592AB",
+    "title": "Seat Air Bag, Right",
+    "description": "SEAT",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-seat-air-bag-right-68243592ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68573513AB",
+    "title": "Side Curtain Air Bag",
+    "description": "Left.",
+    "sale_price": "$147.68",
+    "msrp": "$217.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-68573513ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68243434AC",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$510.01",
+    "msrp": "$762.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68243434ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68297948AD",
+    "title": "Front Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$462.02",
+    "msrp": "$691.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-right-68297948ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68351558AD",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$406.22",
+    "msrp": "$607.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68351558ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7HW20TX7AF",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$331.04",
+    "msrp": "$491.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-7hw20tx7af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55351259AK",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$422.96",
+    "msrp": "$632.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-55351259ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55351260AJ",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE AIR BAG",
+    "sale_price": "$896.15",
+    "msrp": "$1,345.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-55351260aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55351291AQ",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$676.30",
+    "msrp": "$1,010.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-55351291aq"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55351258AK",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$499.97",
+    "msrp": "$748.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-55351258ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68161579AK",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68161579ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68297949AD",
+    "title": "Front Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$462.02",
+    "msrp": "$691.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-left-68297949ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108028AG",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$781.20",
+    "msrp": "$1,175.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-5108028ag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68371577AD",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68371577ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68240098AE",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68240098ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68240099AE",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68240099ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68213592AF",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$558.00",
+    "msrp": "$834.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68213592af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68285161AA",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$350.42",
+    "msrp": "$524.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68285161aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68184327AJ",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "Left.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68184327aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68102475AD",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$611.57",
+    "msrp": "$914.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68102475ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68156188AC",
+    "title": "Rear Seat Air Bag, Right",
+    "description": "REAR SEAT",
+    "sale_price": "$446.40",
+    "msrp": "$668.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-rear-seat-air-bag-right-68156188ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68305513AB",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68305513ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68280930AD",
+    "title": "Front Seat Air Bag, Right",
+    "description": "FRONT SEAT",
+    "sale_price": "$496.62",
+    "msrp": "$742.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-right-68280930ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68477645AC",
+    "title": "Rear Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$44.75",
+    "msrp": "$63.45",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-rear-seat-air-bag-left-68477645ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68656788AA",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$237.59",
+    "msrp": "$352.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68656788aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "52029410AG",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "After 08/31/09.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-52029410ag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68102476AB",
+    "title": "Front Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$616.03",
+    "msrp": "$921.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-right-68102476ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68444249AA",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68444249aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68156189AC",
+    "title": "Rear Seat Air Bag, Left",
+    "description": "REAR SEAT",
+    "sale_price": "$446.40",
+    "msrp": "$668.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-rear-seat-air-bag-left-68156189ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68161580AK",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$611.57",
+    "msrp": "$914.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68161580ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68311112AH",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68311112ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68607123AA",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68607123aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68285144AA",
+    "title": "Front Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$562.46",
+    "msrp": "$840.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-right-68285144aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55351259AJ",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$440.82",
+    "msrp": "$659.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-55351259aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68398971AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68398971af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68448475AE",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68448475ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68222743AG",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$331.04",
+    "msrp": "$491.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68222743ag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68102477AB",
+    "title": "Front Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$478.76",
+    "msrp": "$715.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-left-68102477ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68265347AA",
+    "title": "Front Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$761.11",
+    "msrp": "$1,145.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-left-68265347aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68265342AA",
+    "title": "Front Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$761.11",
+    "msrp": "$1,145.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-right-68265342aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68172523AE",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68172523ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68250178AG",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$337.80",
+    "msrp": "$502.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68250178ag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68202229AA",
+    "title": "Front Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$200.43",
+    "msrp": "$297.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-right-68202229aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68222742AH",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$629.42",
+    "msrp": "$941.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68222742ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55365011AD",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$556.88",
+    "msrp": "$832.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-55365011ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55365010AD",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$660.67",
+    "msrp": "$989.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-55365010ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68213593AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$558.00",
+    "msrp": "$834.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68213593af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7KJ37TX7AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$211.69",
+    "msrp": "$314.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-7kj37tx7af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4680588AK",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "Up to 09/18/08.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-4680588ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55351259AK",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$422.96",
+    "msrp": "$632.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-55351259ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55351260AJ",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE AIR BAG",
+    "sale_price": "$896.15",
+    "msrp": "$1,345.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-55351260aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68184327AJ",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "Left.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68184327aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68102475AD",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$611.57",
+    "msrp": "$914.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68102475ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55351291AQ",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$676.30",
+    "msrp": "$1,010.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-55351291aq"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55351258AK",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$499.97",
+    "msrp": "$748.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-55351258ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68297949AD",
+    "title": "Front Seat Air Bag, Left",
+    "description": "",
+    "sale_price": "$462.02",
+    "msrp": "$691.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-left-68297949ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108028AG",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$781.20",
+    "msrp": "$1,175.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-5108028ag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68156188AC",
+    "title": "Rear Seat Air Bag, Right",
+    "description": "REAR SEAT",
+    "sale_price": "$446.40",
+    "msrp": "$668.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-rear-seat-air-bag-right-68156188ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68371577AD",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68371577ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68240098AE",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68240098ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68240099AE",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68240099ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68213592AF",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$558.00",
+    "msrp": "$834.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68213592af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68285161AA",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$350.42",
+    "msrp": "$524.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68285161aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68161579AK",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68161579ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "52029411AG",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$667.37",
+    "msrp": "$997.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-52029411ag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68250174AH",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$975.38",
+    "msrp": "$1,465.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68250174ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68161581AK",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$611.57",
+    "msrp": "$914.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68161581ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68243435AC",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$455.33",
+    "msrp": "$681.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68243435ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7HW24TX7AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$331.04",
+    "msrp": "$491.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-7hw24tx7af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68320196AC",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$584.78",
+    "msrp": "$875.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68320196ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68311110AJ",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68311110aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68486964AA",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$395.06",
+    "msrp": "$590.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68486964aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55365011AD",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$556.88",
+    "msrp": "$832.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-55365011ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55365010AD",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$660.67",
+    "msrp": "$989.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-55365010ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4680588AK",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "Up to 09/18/08.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-4680588ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108009AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$684.11",
+    "msrp": "$1,025.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-5108009af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5057815AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$420.73",
+    "msrp": "$629.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-5057815af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108049AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-5108049af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108050AF",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-5108050af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4727705AD",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-4727705ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68337856AA",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$679.64",
+    "msrp": "$1,015.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68337856aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5057853AD",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$412.92",
+    "msrp": "$617.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-5057853ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68213593AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$558.00",
+    "msrp": "$834.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68213593af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68477650AB",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$171.15",
+    "msrp": "$254.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68477650ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68311111AJ",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68311111aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68161578AK",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$835.88",
+    "msrp": "$1,250.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68161578ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7KJ37TX7AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$211.69",
+    "msrp": "$314.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-7kj37tx7af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55351291AP",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$806.87",
+    "msrp": "$1,205.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-55351291ap"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68243435AC",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$455.33",
+    "msrp": "$681.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68243435ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7HW24TX7AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$331.04",
+    "msrp": "$491.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-7hw24tx7af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68320196AC",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$584.78",
+    "msrp": "$875.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68320196ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68311110AJ",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68311110aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68486964AA",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$395.06",
+    "msrp": "$590.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68486964aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55365011AD",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$556.88",
+    "msrp": "$832.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-55365011ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55365010AD",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$660.67",
+    "msrp": "$989.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-55365010ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4680588AK",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "Up to 09/18/08.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-4680588ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108009AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$684.11",
+    "msrp": "$1,025.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-5108009af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5057815AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$420.73",
+    "msrp": "$629.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-5057815af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108049AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-5108049af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108050AF",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-5108050af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4727705AD",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-4727705ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68337856AA",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$679.64",
+    "msrp": "$1,015.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68337856aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5057853AD",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$412.92",
+    "msrp": "$617.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-5057853ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68172523AE",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68172523ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68285144AA",
+    "title": "Front Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$562.46",
+    "msrp": "$840.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-right-68285144aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68250178AG",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$337.80",
+    "msrp": "$502.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68250178ag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55351259AJ",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$440.82",
+    "msrp": "$659.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-55351259aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68202229AA",
+    "title": "Front Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$200.43",
+    "msrp": "$297.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-right-68202229aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68222742AH",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$629.42",
+    "msrp": "$941.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68222742ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68398971AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68398971af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68448475AE",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68448475ae"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68213593AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$558.00",
+    "msrp": "$834.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68213593af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7KJ37TX7AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$211.69",
+    "msrp": "$314.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-7kj37tx7af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68311111AJ",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68311111aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68607124AA",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68607124aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7HW24TX7AF",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$331.04",
+    "msrp": "$491.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-7hw24tx7af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68311110AJ",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68311110aj"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55365011AD",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$556.88",
+    "msrp": "$832.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-55365011ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55365010AD",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$660.67",
+    "msrp": "$989.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-55365010ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4680588AK",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "Up to 09/18/08.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-4680588ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55351291AP",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$806.87",
+    "msrp": "$1,205.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-55351291ap"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4680532AC",
+    "title": "Side Air Bag Curtain, Right",
+    "description": "After 07/01/04.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-air-bag-curtain-right-4680532ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68280931AD",
+    "title": "Front Seat Air Bag, Left",
+    "description": "FRONT SEAT",
+    "sale_price": "$496.62",
+    "msrp": "$742.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-front-seat-air-bag-left-68280931ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68250175AH",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68250175ah"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55351256AD",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "",
+    "sale_price": "$373.86",
+    "msrp": "$560.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-55351256ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68477651AB",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$171.15",
+    "msrp": "$254.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68477651ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5108029AG",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$700.85",
+    "msrp": "$1,050.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-5108029ag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68656389AA",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "$237.59",
+    "msrp": "$352.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68656389aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68226093AC",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "Door Mounted.",
+    "sale_price": "$456.44",
+    "msrp": "$683.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68226093ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68466843AA",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "Before 11/23/2018.",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68466843aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68224526AK",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "$344.84",
+    "msrp": "$516.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-68224526ak"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68477644AC",
+    "title": "Rear Seat Air Bag, Right",
+    "description": "",
+    "sale_price": "$44.75",
+    "msrp": "$63.45",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-rear-seat-air-bag-right-68477644ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "68320197AC",
+    "title": "Side Curtain Air Bag, Left",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-left-68320197ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5QZ90DX9AB",
+    "title": "Passenger Air Bag Door, Right Hand Drive",
+    "description": "PASSENGER AIR BAG",
+    "sale_price": "$131.78",
+    "msrp": "$195.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-right-hand-drive-5qz90dx9ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5028319AG",
+    "title": "Side Air Bag Counter Measure, Left Front",
+    "description": "Left. After 03/03/03.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-air-bag-counter-measure-left-front-5028319ag"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5028318AF",
+    "title": "Side Air Bag Counter Measure, Right Front",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-air-bag-counter-measure-right-front-5028318af"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "KK61TAZ",
+    "title": "A/Bag & Deploy Dr As",
+    "description": "I/PNL PASS",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-a-bag-and-deploy-dr-as-kk61taz"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "KK61TKB",
+    "title": "A/Bag & Deploy Dr As",
+    "description": "I/PNL PASS",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-a-bag-and-deploy-dr-as-kk61tkb"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7KJ38TX7AD",
+    "title": "Sport Bar Molding, Right",
+    "description": "SPORT BAR",
+    "sale_price": "$337.03",
+    "msrp": "$504.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-sport-bar-molding-right-7kj38tx7ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "7KJ39TX7AD",
+    "title": "Sport Bar Molding, Left",
+    "description": "SPORT BAR",
+    "sale_price": "$337.03",
+    "msrp": "$504.00",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-sport-bar-molding-left-7kj39tx7ad"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "5104261AA",
+    "title": "Passenger Air Bag Door",
+    "description": "Passenger Side.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-5104261aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55197375AB",
+    "title": "Passenger Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-55197375ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1PC90BD3AA",
+    "title": "Air Bag Module Cover",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-1pc90bd3aa"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1GK69XDVAF",
+    "title": "Driver Air Bag",
+    "description": "DRIVER",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-1gk69xdvaf"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "MF52DX9CB",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-mf52dx9cb"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YD59XDVAF",
+    "title": "Driver Air Bag",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-driver-air-bag-yd59xdvaf"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "1AF32XDVAB",
+    "title": "Air Bag Module Cover",
+    "description": "Includes Proper Logo. Driver.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-1af32xdvab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "ZE70XDHAB",
+    "title": "Passenger Air Bag Door",
+    "description": "Air Outlet Included (Heat Staked).",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-passenger-air-bag-door-ze70xdhab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YT70ZJ8AB",
+    "title": "Air Bag Module Cover",
+    "description": "Dk. Khaki. J1.",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-yt70zj8ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "YF36DK7AB",
+    "title": "Air Bag Module Cover",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-air-bag-module-cover-yf36dk7ab"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "4649092AC",
+    "title": "Clock Spring",
+    "description": "",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-clock-spring-4649092ac"
+  },
+  {
+    "brand": "Mopar",
+    "part_number": "55116436AH",
+    "title": "Side Curtain Air Bag, Right",
+    "description": "SIDE CURTAIN",
+    "sale_price": "",
+    "msrp": "",
+    "url": "https://mopar.oempartsonline.com/oem-parts/mopar-side-curtain-air-bag-right-55116436ah"
   }
 ]
