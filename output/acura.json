@@ -118,84 +118,39 @@
   },
   {
     "brand": "Acura",
-    "part_number": "78870-TL0-G91",
+    "part_number": "78870-SZN-A83",
     "title": "Curtain Air Bag",
-    "description": "Sedan. TSX. Right.",
-    "sale_price": "$963.04",
-    "msrp": "$1,422.93",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tl0g91"
+    "description": "ZDX. Right.",
+    "sale_price": "$992.89",
+    "msrp": "$1,467.03",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870szna83"
   },
   {
     "brand": "Acura",
-    "part_number": "78875-TY2-A81",
+    "part_number": "78875-TJB-A82",
     "title": "Curtain Air Bag",
-    "description": "Air bags. RLX. Left.",
-    "sale_price": "$916.95",
-    "msrp": "$1,354.83",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875ty2a81"
+    "description": "Air bags. RDX. Left.",
+    "sale_price": "$952.36",
+    "msrp": "$1,407.15",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875tjba82"
   },
   {
     "brand": "Acura",
-    "part_number": "78875-SEP-A92",
-    "title": "Curtain Air Bag",
-    "description": "TL. Left.",
-    "sale_price": "$831.83",
-    "msrp": "$1,229.07",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875sepa92"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78850-SEC-A91",
+    "part_number": "78850-SEC-A71",
     "title": "Curtain Air Bag",
     "description": "TSX. Left.",
     "sale_price": "$981.60",
     "msrp": "$1,450.35",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78850seca91"
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78850seca71"
   },
   {
     "brand": "Acura",
-    "part_number": "78875-3W0-A83",
+    "part_number": "78875-STK-A80",
     "title": "Curtain Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$696.10",
-    "msrp": "$1,028.52",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-788753w0a83"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78800-SEC-A71",
-    "title": "Curtain Air Bag",
-    "description": "TSX. Right.",
-    "sale_price": "$981.60",
-    "msrp": "$1,450.35",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78800seca71"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78875-STX-A93",
-    "title": "Curtain Air Bag",
-    "description": "MDX. Left.",
-    "sale_price": "$857.22",
-    "msrp": "$1,266.58",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875stxa93"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SZ5-A80ZB",
-    "title": "Driver Air Bag",
-    "description": "3.2L, taupe. 3.2tl.",
-    "sale_price": "$1,072.73",
-    "msrp": "$1,585.00",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sz5a80zb"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "86513103",
-    "title": "Seat Air Bag",
-    "description": "Air bags. ZDX. Left.",
-    "sale_price": "$656.23",
-    "msrp": "$969.60",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-seat-air-bag-86513103"
+    "description": "RDX. Left.",
+    "sale_price": "$1,294.08",
+    "msrp": "$1,912.05",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875stka80"
   },
   {
     "brand": "Acura",
@@ -205,6 +160,78 @@
     "sale_price": "$243.16",
     "msrp": "$349.97",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-seat-air-bag-78050stk000"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78870-TZ3-A81",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. TLX. Right.",
+    "sale_price": "$1,014.50",
+    "msrp": "$1,498.97",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tz3a81"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78050-SJA-A90",
+    "title": "Side Air Bag",
+    "description": "RL. Right.",
+    "sale_price": "$541.57",
+    "msrp": "$786.25",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-78050sjaa90"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06783-SEP-A91",
+    "title": "Side Air Bag",
+    "description": "TL. Right.",
+    "sale_price": "$413.73",
+    "msrp": "$600.65",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-6783sepa91"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78870-TX6-A82",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. ILX, ILX Hybrid. Right.",
+    "sale_price": "$797.69",
+    "msrp": "$1,178.62",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tx6a82"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78870-TJB-A82",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. RDX. Right.",
+    "sale_price": "$940.13",
+    "msrp": "$1,389.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tjba82"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78870-TX6-A91",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. ILX, ILX Hybrid. Right.",
+    "sale_price": "$803.77",
+    "msrp": "$1,187.60",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tx6a91"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78875-TK4-A81",
+    "title": "Curtain Air Bag",
+    "description": "TL. Left.",
+    "sale_price": "$910.94",
+    "msrp": "$1,345.95",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875tk4a81"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78870-3S5-A80",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. Integra. Right.",
+    "sale_price": "$504.43",
+    "msrp": "$732.33",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-788703s5a80"
   },
   {
     "brand": "Acura",
@@ -298,6 +325,69 @@
   },
   {
     "brand": "Acura",
+    "part_number": "78875-TGV-A84",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. TLX. Left.",
+    "sale_price": "$893.49",
+    "msrp": "$1,320.17",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875tgva84"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78870-TZ3-A70",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. TLX. Right.",
+    "sale_price": "$1,297.99",
+    "msrp": "$1,917.83",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tz3a70"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06788-S84-A81",
+    "title": "Side Air Bag",
+    "description": "3.2tl. Left. CL.",
+    "sale_price": "$436.76",
+    "msrp": "$634.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-6788s84a81"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78875-TL0-G91",
+    "title": "Curtain Air Bag",
+    "description": "Sedan. TSX. Left.",
+    "sale_price": "$963.04",
+    "msrp": "$1,422.93",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875tl0g91"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06783-S84-A81",
+    "title": "Side Air Bag",
+    "description": "3.2tl. Right. CL.",
+    "sale_price": "$436.76",
+    "msrp": "$634.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-6783s84a81"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78875-SZN-A83",
+    "title": "Curtain Air Bag",
+    "description": "ZDX. Left.",
+    "sale_price": "$865.40",
+    "msrp": "$1,278.67",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875szna83"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SW5-A81ZA",
+    "title": "Driver Air Bag",
+    "description": "2.5L, gray. 2.5tl.",
+    "sale_price": "$839.97",
+    "msrp": "$1,241.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sw5a81za"
+  },
+  {
+    "brand": "Acura",
     "part_number": "06788-SEP-A91",
     "title": "Side Air Bag",
     "description": "TL. Left.",
@@ -325,165 +415,183 @@
   },
   {
     "brand": "Acura",
-    "part_number": "06783-S6M-A80ZB",
-    "title": "Side Air Bag",
-    "description": "Titanium.",
-    "sale_price": "$541.57",
-    "msrp": "$786.25",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-6783s6ma80zb"
+    "part_number": "06770-SY8-A80ZB",
+    "title": "Driver Air Bag",
+    "description": "Quartz gray.",
+    "sale_price": "$641.32",
+    "msrp": "$947.58",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sy8a80zb"
   },
   {
     "brand": "Acura",
-    "part_number": "06783-SDC-A80",
-    "title": "Side Air Bag",
-    "description": "TSX. Right.",
-    "sale_price": "$541.57",
-    "msrp": "$786.25",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-6783sdca80"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78800-SEC-A71",
+    "part_number": "78870-TGV-A84",
     "title": "Curtain Air Bag",
-    "description": "TSX. Right.",
+    "description": "Air bags. TLX. Right.",
+    "sale_price": "$893.04",
+    "msrp": "$1,319.50",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tgva84"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78870-TL0-G91",
+    "title": "Curtain Air Bag",
+    "description": "Sedan. TSX. Right.",
+    "sale_price": "$963.04",
+    "msrp": "$1,422.93",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tl0g91"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78875-TY2-A81",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. RLX. Left.",
+    "sale_price": "$916.95",
+    "msrp": "$1,354.83",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875ty2a81"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78875-SEP-A92",
+    "title": "Curtain Air Bag",
+    "description": "TL. Left.",
+    "sale_price": "$831.83",
+    "msrp": "$1,229.07",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875sepa92"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78850-SEC-A91",
+    "title": "Curtain Air Bag",
+    "description": "TSX. Left.",
     "sale_price": "$981.60",
     "msrp": "$1,450.35",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78800seca71"
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78850seca91"
   },
   {
     "brand": "Acura",
-    "part_number": "78875-STX-A93",
-    "title": "Curtain Air Bag",
-    "description": "MDX. Left.",
-    "sale_price": "$857.22",
-    "msrp": "$1,266.58",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875stxa93"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SZ5-A80ZB",
-    "title": "Driver Air Bag",
-    "description": "3.2L, taupe. 3.2tl.",
-    "sale_price": "$1,072.73",
-    "msrp": "$1,585.00",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sz5a80zb"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "86513103",
-    "title": "Seat Air Bag",
-    "description": "Air bags. ZDX. Left.",
-    "sale_price": "$656.23",
-    "msrp": "$969.60",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-seat-air-bag-86513103"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78050-STK-000",
-    "title": "Seat Air Bag",
-    "description": "",
-    "sale_price": "$243.16",
-    "msrp": "$349.97",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-seat-air-bag-78050stk000"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78870-3W0-A83",
+    "part_number": "78875-3W0-A83",
     "title": "Curtain Air Bag",
     "description": "Air bags.",
     "sale_price": "$696.10",
     "msrp": "$1,028.52",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-788703w0a83"
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-788753w0a83"
   },
   {
     "brand": "Acura",
-    "part_number": "78875-TZ3-A70",
+    "part_number": "78800-SEC-A91",
     "title": "Curtain Air Bag",
-    "description": "Air bags. TLX. Left.",
-    "sale_price": "$1,033.80",
-    "msrp": "$1,527.48",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875tz3a70"
+    "description": "TSX. Right.",
+    "sale_price": "$981.60",
+    "msrp": "$1,450.35",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78800seca91"
   },
   {
     "brand": "Acura",
-    "part_number": "78055-SJA-A81",
+    "part_number": "78875-3S5-A80",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. Integra. Left.",
+    "sale_price": "$504.43",
+    "msrp": "$732.33",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-788753s5a80"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06783-SZ3-A81",
     "title": "Side Air Bag",
-    "description": "RL. Left.",
+    "description": "1999-04.",
     "sale_price": "$541.57",
     "msrp": "$786.25",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-78055sjaa81"
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-6783sz3a81"
   },
   {
     "brand": "Acura",
-    "part_number": "78875-TYA-A91",
+    "part_number": "06788-S6M-A80ZB",
+    "title": "Side Air Bag",
+    "description": "Titanium.",
+    "sale_price": "$541.57",
+    "msrp": "$786.25",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-6788s6ma80zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78875-TX4-A80",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. RDX. Left.",
+    "sale_price": "$1,036.26",
+    "msrp": "$1,531.12",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875tx4a80"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78870-TZ5-A87",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. MDX. Right.",
+    "sale_price": "$989.01",
+    "msrp": "$1,461.30",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tz5a87"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78875-TZ5-A84",
     "title": "Curtain Air Bag",
     "description": "Air bags. MDX. Left.",
-    "sale_price": "$867.39",
-    "msrp": "$1,281.60",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875tyaa91"
+    "sale_price": "$1,015.25",
+    "msrp": "$1,500.07",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875tz5a84"
   },
   {
     "brand": "Acura",
-    "part_number": "78870-TZ3-A81",
+    "part_number": "8-97153-149-0",
+    "title": "Driver Air Bag",
+    "description": "SLX. Driver side.",
+    "sale_price": "$580.84",
+    "msrp": "$792.20",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-8971531490"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78850-SJA-A82",
     "title": "Curtain Air Bag",
-    "description": "Air bags. TLX. Right.",
-    "sale_price": "$1,014.50",
-    "msrp": "$1,498.97",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tz3a81"
+    "description": "RL. Left.",
+    "sale_price": "$963.04",
+    "msrp": "$1,422.93",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78850sjaa82"
   },
   {
     "brand": "Acura",
-    "part_number": "04801-STK-305",
-    "title": "Seat Air Bag",
-    "description": "",
-    "sale_price": "$294.27",
-    "msrp": "$423.53",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-seat-air-bag-4801stk305"
+    "part_number": "78870-TY2-A81",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. RLX. Right.",
+    "sale_price": "$930.92",
+    "msrp": "$1,375.47",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870ty2a81"
   },
   {
     "brand": "Acura",
-    "part_number": "78050-SJA-A90",
-    "title": "Side Air Bag",
-    "description": "RL. Right.",
-    "sale_price": "$541.57",
-    "msrp": "$786.25",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-78050sjaa90"
+    "part_number": "78870-STX-A93",
+    "title": "Curtain Air Bag",
+    "description": "MDX. Right.",
+    "sale_price": "$857.22",
+    "msrp": "$1,266.58",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870stxa93"
   },
   {
     "brand": "Acura",
-    "part_number": "06783-SEP-A91",
-    "title": "Side Air Bag",
+    "part_number": "78870-TK4-A81",
+    "title": "Curtain Air Bag",
     "description": "TL. Right.",
-    "sale_price": "$413.73",
-    "msrp": "$600.65",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-6783sepa91"
+    "sale_price": "$913.27",
+    "msrp": "$1,349.40",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tk4a81"
   },
   {
     "brand": "Acura",
-    "part_number": "78870-TX6-A82",
-    "title": "Curtain Air Bag",
-    "description": "Air bags. ILX, ILX Hybrid. Right.",
-    "sale_price": "$797.69",
-    "msrp": "$1,178.62",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tx6a82"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78870-TJB-A82",
-    "title": "Curtain Air Bag",
-    "description": "Air bags. RDX. Right.",
-    "sale_price": "$940.13",
-    "msrp": "$1,389.08",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tjba82"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78870-TX6-A91",
-    "title": "Curtain Air Bag",
-    "description": "Air bags. ILX, ILX Hybrid. Right.",
-    "sale_price": "$803.77",
-    "msrp": "$1,187.60",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tx6a91"
+    "part_number": "86513104",
+    "title": "Seat Air Bag",
+    "description": "Air bags. ZDX. Right.",
+    "sale_price": "$656.23",
+    "msrp": "$969.60",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-seat-air-bag-86513104"
   },
   {
     "brand": "Acura",
@@ -541,6 +649,24 @@
   },
   {
     "brand": "Acura",
+    "part_number": "78875-TZ3-A81",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. TLX. Left.",
+    "sale_price": "$1,117.43",
+    "msrp": "$1,651.05",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875tz3a81"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78875-TGV-A83",
+    "title": "Curtain Air Bag",
+    "description": "Air bags. TLX. Left.",
+    "sale_price": "$893.49",
+    "msrp": "$1,320.17",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875tgva83"
+  },
+  {
+    "brand": "Acura",
     "part_number": "86308282",
     "title": "Curtain Air Bag",
     "description": "Air bags. ZDX. Right.",
@@ -550,165 +676,642 @@
   },
   {
     "brand": "Acura",
-    "part_number": "06780-SY8-A81ZC",
-    "title": "Passenger Air Bag",
-    "description": "Beige.",
-    "sale_price": "$919.51",
-    "msrp": "$1,358.62",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-air-bag-6780sy8a81zc"
+    "part_number": "06770-S6M-A80ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "RSX. Graphite.",
+    "sale_price": "$1,222.77",
+    "msrp": "$1,806.70",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770s6ma80za"
   },
   {
     "brand": "Acura",
-    "part_number": "78870-TYA-A91",
-    "title": "Curtain Air Bag",
-    "description": "Air bags. MDX. Right.",
-    "sale_price": "$867.39",
-    "msrp": "$1,281.60",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870tyaa91"
+    "part_number": "39050-SEC-A02ZC",
+    "title": "Instrument Panel Air Bag",
+    "description": "Center module assembly without navigation system. without wood.",
+    "sale_price": "$4,946.96",
+    "msrp": "$7,309.33",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050seca02zc"
   },
   {
     "brand": "Acura",
-    "part_number": "78870-SZN-A83",
-    "title": "Curtain Air Bag",
-    "description": "ZDX. Right.",
-    "sale_price": "$992.89",
-    "msrp": "$1,467.03",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78870szna83"
+    "part_number": "77962-TK5-A00",
+    "title": "Air Bag Wiring Harness",
+    "description": "3.7L.",
+    "sale_price": "$208.78",
+    "msrp": "$300.48",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tk5a00"
   },
   {
     "brand": "Acura",
-    "part_number": "78875-TJB-A82",
-    "title": "Curtain Air Bag",
-    "description": "Air bags. RDX. Left.",
-    "sale_price": "$952.36",
-    "msrp": "$1,407.15",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875tjba82"
+    "part_number": "06770-S3V-L30ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "MDX. Black.",
+    "sale_price": "$1,043.68",
+    "msrp": "$1,542.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770s3vl30za"
   },
   {
     "brand": "Acura",
-    "part_number": "78850-SEC-A71",
-    "title": "Curtain Air Bag",
-    "description": "TSX. Left.",
-    "sale_price": "$981.60",
-    "msrp": "$1,450.35",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78850seca71"
+    "part_number": "77962-TY2-A10",
+    "title": "Air Bag Wiring Harness",
+    "description": "Modules & sensors, without hybrid, with collision mitigation, without hybrid, with collision mitigation.",
+    "sale_price": "$523.47",
+    "msrp": "$759.97",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a10"
   },
   {
     "brand": "Acura",
-    "part_number": "78875-STK-A80",
-    "title": "Curtain Air Bag",
-    "description": "RDX. Left.",
-    "sale_price": "$1,294.08",
-    "msrp": "$1,912.05",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-78875stka80"
+    "part_number": "77962-TK4-A01",
+    "title": "Air Bag Wiring Harness",
+    "description": "3.5L.",
+    "sale_price": "$208.60",
+    "msrp": "$300.24",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tk4a01"
   },
   {
     "brand": "Acura",
-    "part_number": "06788-SZ3-A82",
-    "title": "Side Air Bag",
-    "description": "1999-04.",
-    "sale_price": "$541.57",
-    "msrp": "$786.25",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-6788sz3a82"
+    "part_number": "35251-SHJ-A61",
+    "title": "Air Bag Clock Spring",
+    "description": "",
+    "sale_price": "$104.83",
+    "msrp": "$147.07",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-clock-spring-35251shja61"
   },
   {
     "brand": "Acura",
-    "part_number": "06770-SZ5-A80ZB",
-    "title": "Driver Air Bag",
-    "description": "3.2L, taupe. 3.2tl.",
-    "sale_price": "$1,072.73",
-    "msrp": "$1,585.00",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sz5a80zb"
+    "part_number": "06770-S3V-L30ZB",
+    "title": "Steering Wheel Air Bag",
+    "description": "Saddle.",
+    "sale_price": "$1,043.68",
+    "msrp": "$1,542.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770s3vl30zb"
   },
   {
     "brand": "Acura",
-    "part_number": "06783-S6M-A80ZB",
-    "title": "Side Air Bag",
-    "description": "Titanium.",
-    "sale_price": "$541.57",
-    "msrp": "$786.25",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-6783s6ma80zb"
+    "part_number": "77810-TK4-A20ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "TL. ZDX.",
+    "sale_price": "$2,136.56",
+    "msrp": "$3,156.85",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tk4a20za"
   },
   {
     "brand": "Acura",
-    "part_number": "86513103",
-    "title": "Seat Air Bag",
-    "description": "Air bags. ZDX. Left.",
-    "sale_price": "$656.23",
-    "msrp": "$969.60",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-seat-air-bag-86513103"
+    "part_number": "77961-SL0-A86",
+    "title": "Air Bag Wiring Harness",
+    "description": "",
+    "sale_price": "$1,040.44",
+    "msrp": "$1,537.30",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961sl0a86"
   },
   {
     "brand": "Acura",
-    "part_number": "06783-SDC-A80",
-    "title": "Side Air Bag",
-    "description": "TSX. Right.",
-    "sale_price": "$541.57",
-    "msrp": "$786.25",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-6783sdca80"
+    "part_number": "77810-TGV-A91ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "Air bags. TLX.",
+    "sale_price": "$879.23",
+    "msrp": "$1,299.10",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tgva91za"
   },
   {
     "brand": "Acura",
-    "part_number": "78875-3S5-A80",
-    "title": "Curtain Air Bag",
-    "description": "Air bags. Integra. Left.",
-    "sale_price": "$504.43",
-    "msrp": "$732.33",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-curtain-air-bag-788753s5a80"
+    "part_number": "77820-TGV-A87",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags. TLX.",
+    "sale_price": "$923.12",
+    "msrp": "$1,363.95",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820tgva87"
   },
   {
     "brand": "Acura",
-    "part_number": "06783-SZ3-A81",
-    "title": "Side Air Bag",
-    "description": "1999-04.",
-    "sale_price": "$541.57",
-    "msrp": "$786.25",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-6783sz3a81"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06788-S6M-A80ZB",
-    "title": "Side Air Bag",
-    "description": "Titanium.",
-    "sale_price": "$541.57",
-    "msrp": "$786.25",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-air-bag-6788s6ma80zb"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78050-TYA-A21",
+    "part_number": "78055-STK-A11",
     "title": "Ft Seat Air Bag",
-    "description": "AIR BAGS. without Type S Advance. MDX. Technology package. Right.",
-    "sale_price": "$744.18",
-    "msrp": "$1,099.55",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tyaa21"
+    "description": "RDX. Left.",
+    "sale_price": "$436.76",
+    "msrp": "$634.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055stka11"
   },
   {
     "brand": "Acura",
-    "part_number": "8-97154-034-3",
-    "title": "Instrument Panel Air Bag",
-    "description": "SLX. Passenger side.",
-    "sale_price": "$752.97",
-    "msrp": "$1,112.55",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-8971540343"
+    "part_number": "78050-STX-L01",
+    "title": "Ft Seat Air Bag",
+    "description": "MDX. Right.",
+    "sale_price": "$810.95",
+    "msrp": "$1,198.22",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050stxl01"
   },
   {
     "brand": "Acura",
-    "part_number": "06780-ST7-A70ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "1996-01, graphite. Integra.",
-    "sale_price": "$2,276.73",
-    "msrp": "$3,363.97",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780st7a70za"
+    "part_number": "78050-TX6-A02",
+    "title": "Ft Seat Air Bag",
+    "description": "ILX. Right. AIR BAGS. with memory pkg. AIR BAGS. with pwr driver seat.",
+    "sale_price": "$590.33",
+    "msrp": "$872.23",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tx6a02"
   },
   {
     "brand": "Acura",
-    "part_number": "06780-S0K-A80ZB",
+    "part_number": "77810-TL2-A82ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "TSX.",
+    "sale_price": "$1,345.39",
+    "msrp": "$1,987.87",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tl2a82za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78050-TK4-A82",
+    "title": "Ft Seat Air Bag",
+    "description": "TL. Right.",
+    "sale_price": "$436.76",
+    "msrp": "$634.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tk4a82"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77820-SEC-A90",
     "title": "Instrument Panel Air Bag",
-    "description": "Black. 3.2tl.",
+    "description": "TSX.",
+    "sale_price": "$1,844.05",
+    "msrp": "$2,724.67",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820seca90"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77810-SEC-A90ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "TSX.",
+    "sale_price": "$1,222.77",
+    "msrp": "$1,806.70",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810seca90za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77810-SJA-A20ZD",
+    "title": "Steering Wheel Air Bag",
+    "description": "Ivory.",
+    "sale_price": "$1,428.05",
+    "msrp": "$2,110.00",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810sjaa20zd"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-SL0-A71ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "",
+    "sale_price": "$2,602.07",
+    "msrp": "$3,844.67",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sl0a71za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-S0K-L30ZB",
+    "title": "Steering Wheel Air Bag",
+    "description": "Taupe.",
+    "sale_price": "$948.07",
+    "msrp": "$1,400.82",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770s0kl30zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77820-TX4-A41",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags. RDX.",
+    "sale_price": "$923.12",
+    "msrp": "$1,363.95",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820tx4a41"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78050-TJB-A22",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. RDX. Right.",
+    "sale_price": "$487.83",
+    "msrp": "$708.23",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tjba22"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "81166-SDB-L00",
+    "title": "Air Bag Wiring Harness",
+    "description": "",
+    "sale_price": "$40.98",
+    "msrp": "$56.53",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-81166sdbl00"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78960-T20-A80ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags. Integra. Right.",
+    "sale_price": "$185.62",
+    "msrp": "$267.16",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-78960t20a80za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TX4-A11",
+    "title": "Air Bag Wiring Harness",
+    "description": "Modules & sensors, advance.",
+    "sale_price": "$246.63",
+    "msrp": "$354.97",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a11"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "81166-SDA-A00",
+    "title": "Air Bag Wiring Harness",
+    "description": "",
+    "sale_price": "$16.52",
+    "msrp": "$21.88",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-81166sdaa00"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TK4-A00",
+    "title": "Air Bag Wiring Harness",
+    "description": "3.5L.",
+    "sale_price": "$211.46",
+    "msrp": "$304.36",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tk4a00"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77810-TX4-A40ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "Air bags. RDX.",
+    "sale_price": "$959.05",
+    "msrp": "$1,417.03",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tx4a40za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TY3-A01",
+    "title": "Air Bag Wiring Harness",
+    "description": "Modules & sensors, with hybrid, with technology pkg.",
+    "sale_price": "$536.49",
+    "msrp": "$778.88",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty3a01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-S6M-A80ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "RSX. Graphite.",
+    "sale_price": "$1,222.77",
+    "msrp": "$1,806.70",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770s6ma80za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "39050-SEC-A02ZC",
+    "title": "Instrument Panel Air Bag",
+    "description": "Center module assembly without navigation system. without wood.",
+    "sale_price": "$4,946.96",
+    "msrp": "$7,309.33",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050seca02zc"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78050-TL2-A00",
+    "title": "Ft Seat Air Bag",
+    "description": "TSX. Right.",
+    "sale_price": "$628.59",
+    "msrp": "$928.77",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tl2a00"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-S0K-A81ZC",
+    "title": "Instrument Panel Air Bag",
+    "description": "Taupe.",
+    "sale_price": "$934.72",
+    "msrp": "$1,381.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s0ka81zc"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TX4-A01",
+    "title": "Air Bag Wiring Harness",
+    "description": "Modules & sensors, technology.",
+    "sale_price": "$219.45",
+    "msrp": "$315.85",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77810-TJB-A81ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "Air bags. RDX.",
+    "sale_price": "$955.09",
+    "msrp": "$1,411.18",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tjba81za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-S0K-A80ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "Dark fern.",
     "sale_price": "$902.24",
     "msrp": "$1,333.10",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s0ka80zb"
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s0ka80za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78050-STX-A10",
+    "title": "Ft Seat Air Bag",
+    "description": "MDX. Right.",
+    "sale_price": "$810.95",
+    "msrp": "$1,198.22",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050stxa10"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-SEP-A91",
+    "title": "Instrument Panel Air Bag",
+    "description": "TL.",
+    "sale_price": "$2,122.91",
+    "msrp": "$3,136.68",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sepa91"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78910-TZ3-A91",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags. TLX.",
+    "sale_price": "$437.25",
+    "msrp": "$634.80",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-78910tz3a91"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "85644485",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags. ZDX. Right.",
+    "sale_price": "$667.36",
+    "msrp": "$986.05",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-85644485"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TK5-A01",
+    "title": "Air Bag Wiring Harness",
+    "description": "3.7L auto trans.",
+    "sale_price": "$206.12",
+    "msrp": "$296.67",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tk5a01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77820-STX-A80",
+    "title": "Instrument Panel Air Bag",
+    "description": "MDX.",
+    "sale_price": "$1,343.93",
+    "msrp": "$1,985.72",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820stxa80"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77810-STX-A81ZB",
+    "title": "Steering Wheel Air Bag",
+    "description": "MDX. Medium gray.",
+    "sale_price": "$1,101.40",
+    "msrp": "$1,627.37",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810stxa81zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78055-TZ3-A00",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. TLX. Left.",
+    "sale_price": "$443.69",
+    "msrp": "$644.15",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tz3a00"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-SZ3-A10ZB",
+    "title": "Instrument Panel Air Bag",
+    "description": "1999-04, gray.",
+    "sale_price": "$2,602.07",
+    "msrp": "$3,844.67",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sz3a10zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78050-TGV-A23",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. TLX. Right.",
+    "sale_price": "$462.95",
+    "msrp": "$672.12",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tgva23"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "85686181",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags. ZDX.",
+    "sale_price": "$657.50",
+    "msrp": "$971.48",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-85686181"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-SZ3-A10ZC",
+    "title": "Instrument Panel Air Bag",
+    "description": "1999-04, taupe.",
+    "sale_price": "$2,602.07",
+    "msrp": "$3,844.67",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sz3a10zc"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "39050-SEC-A52ZE",
+    "title": "Instrument Panel Air Bag",
+    "description": "Center module assembly with navigation system. without wood.",
+    "sale_price": "$9,876.32",
+    "msrp": "$14,592.67",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050seca52ze"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77820-TY2-A20",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags. RLX.",
+    "sale_price": "$1,814.13",
+    "msrp": "$2,680.45",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820ty2a20"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78055-T20-A72",
+    "title": "Ft Seat Air Bag",
+    "description": "AIR BAGS. without Tech pkg. Integra. Front. Left.",
+    "sale_price": "$363.39",
+    "msrp": "$527.57",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055t20a72"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77820-TZ5-A84",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags. MDX.",
+    "sale_price": "$1,451.88",
+    "msrp": "$2,145.22",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820tz5a84"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78055-TYB-A81",
+    "title": "Ft Seat Air Bag",
+    "description": "AIR BAGS. with Type S Advance. MDX. Advance package. Left.",
+    "sale_price": "$581.07",
+    "msrp": "$858.55",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tyba81"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78960-3W0-A80ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags.",
+    "sale_price": "$347.51",
+    "msrp": "$504.52",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-789603w0a80za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77820-TX4-A20",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags. RDX.",
+    "sale_price": "$923.12",
+    "msrp": "$1,363.95",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820tx4a20"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78050-T20-A80",
+    "title": "Ft Seat Air Bag",
+    "description": "AIR BAGS. without Tech pkg. Integra. Front. Right. Without tech package.",
+    "sale_price": "$274.97",
+    "msrp": "$395.75",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050t20a80"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77810-STX-A80ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "Black. MDX.",
+    "sale_price": "$1,027.28",
+    "msrp": "$1,517.85",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810stxa80za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77810-3BH-A80ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "Air bags.",
+    "sale_price": "$590.34",
+    "msrp": "$872.25",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-778103bha80za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78960-TGV-A81",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags. TLX. Right.",
+    "sale_price": "$740.53",
+    "msrp": "$1,094.17",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-78960tgva81"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78055-TYA-A21",
+    "title": "Ft Seat Air Bag",
+    "description": "AIR BAGS. without Type S Advance. MDX. A-spec package. Left.",
+    "sale_price": "$744.18",
+    "msrp": "$1,099.55",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tyaa21"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77820-TX6-A20",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags.",
+    "sale_price": "$923.12",
+    "msrp": "$1,363.95",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820tx6a20"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78965-TGV-A82",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags. TLX. Left.",
+    "sale_price": "$282.95",
+    "msrp": "$407.23",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-78965tgva82"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78050-TL2-A00",
+    "title": "Ft Seat Air Bag",
+    "description": "TSX. Right.",
+    "sale_price": "$628.59",
+    "msrp": "$928.77",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tl2a00"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-S0K-A81ZC",
+    "title": "Instrument Panel Air Bag",
+    "description": "Taupe.",
+    "sale_price": "$934.72",
+    "msrp": "$1,381.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s0ka81zc"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TX4-A01",
+    "title": "Air Bag Wiring Harness",
+    "description": "Modules & sensors, technology.",
+    "sale_price": "$219.45",
+    "msrp": "$315.85",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77810-TJB-A81ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "Air bags. RDX.",
+    "sale_price": "$955.09",
+    "msrp": "$1,411.18",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tjba81za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-S0K-A80ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "Dark fern.",
+    "sale_price": "$902.24",
+    "msrp": "$1,333.10",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s0ka80za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TX4-A21",
+    "title": "Air Bag Wiring Harness",
+    "description": "Modules & sensors, base.",
+    "sale_price": "$219.20",
+    "msrp": "$315.48",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a21"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TX4-A00",
+    "title": "Air Bag Wiring Harness",
+    "description": "Modules & sensors.",
+    "sale_price": "$219.45",
+    "msrp": "$315.85",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a00"
   },
   {
     "brand": "Acura",
@@ -718,6 +1321,96 @@
     "sale_price": "$1,844.05",
     "msrp": "$2,724.67",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s6ma80za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-ST7-A70ZB",
+    "title": "Steering Wheel Air Bag",
+    "description": "1996-01. taupe.",
+    "sale_price": "$1,215.45",
+    "msrp": "$1,795.88",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770st7a70zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-SEP-A01",
+    "title": "Air Bag Wiring Harness",
+    "description": "",
+    "sale_price": "$106.92",
+    "msrp": "$149.99",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962sepa01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TY2-A02",
+    "title": "Air Bag Wiring Harness",
+    "description": "Modules & sensors, without hybrid, without collision mitigation, without hybrid, without collision mitigation.",
+    "sale_price": "$567.66",
+    "msrp": "$824.13",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a02"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SEP-A90",
+    "title": "Steering Wheel Air Bag",
+    "description": "TL.",
+    "sale_price": "$948.07",
+    "msrp": "$1,400.82",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sepa90"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77306-T20-A01ZA",
+    "title": "Knee Air Bag Cap",
+    "description": "Air bags.",
+    "sale_price": "$4.03",
+    "msrp": "$5.34",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-knee-air-bag-cap-77306t20a01za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "85739874",
+    "title": "Steering Wheel Air Bag",
+    "description": "Air bags. ZDX.",
+    "sale_price": "$651.62",
+    "msrp": "$962.80",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-85739874"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-S3V-A21ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "Black. MDX.",
+    "sale_price": "$933.83",
+    "msrp": "$1,379.77",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s3va21za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-ST7-A70ZB",
+    "title": "Instrument Panel Air Bag",
+    "description": "1996-01, taupe.",
+    "sale_price": "$2,276.73",
+    "msrp": "$3,363.97",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780st7a70zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TY3-A00",
+    "title": "Air Bag Wiring Harness",
+    "description": "Modules & sensors, with hybrid, with technology pkg.",
+    "sale_price": "$504.43",
+    "msrp": "$732.33",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty3a00"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78050-TYA-A21",
+    "title": "Ft Seat Air Bag",
+    "description": "AIR BAGS. without Type S Advance. MDX. Technology package. Right.",
+    "sale_price": "$744.18",
+    "msrp": "$1,099.55",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tyaa21"
   },
   {
     "brand": "Acura",
@@ -748,15 +1441,6 @@
   },
   {
     "brand": "Acura",
-    "part_number": "06770-ST7-A70ZB",
-    "title": "Steering Wheel Air Bag",
-    "description": "1996-01. taupe.",
-    "sale_price": "$1,215.45",
-    "msrp": "$1,795.88",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770st7a70zb"
-  },
-  {
-    "brand": "Acura",
     "part_number": "78910-3W0-A81ZA",
     "title": "Instrument Panel Air Bag",
     "description": "Air bags.",
@@ -775,471 +1459,66 @@
   },
   {
     "brand": "Acura",
-    "part_number": "78050-TX4-A71",
-    "title": "Ft Seat Air Bag",
-    "description": "AIR BAGS. without Technology pkg. RDX. Right. Without advance package. Without tech package.",
-    "sale_price": "$501.55",
-    "msrp": "$728.15",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tx4a71"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77810-STX-A81ZD",
-    "title": "Steering Wheel Air Bag",
-    "description": "MDX. Black.",
-    "sale_price": "$1,084.36",
-    "msrp": "$1,602.18",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810stxa81zd"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77820-TX6-A72",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. ILX, ILX Hybrid.",
-    "sale_price": "$923.12",
-    "msrp": "$1,363.95",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820tx6a72"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SEP-A90",
-    "title": "Steering Wheel Air Bag",
-    "description": "TL.",
-    "sale_price": "$948.07",
-    "msrp": "$1,400.82",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sepa90"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78050-TX4-A71",
-    "title": "Ft Seat Air Bag",
-    "description": "AIR BAGS. without Technology pkg. RDX. Right. Without advance package. Without tech package.",
-    "sale_price": "$501.55",
-    "msrp": "$728.15",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tx4a71"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77810-STX-A81ZD",
-    "title": "Steering Wheel Air Bag",
-    "description": "MDX. Black.",
-    "sale_price": "$1,084.36",
-    "msrp": "$1,602.18",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810stxa81zd"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77820-TX6-A72",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. ILX, ILX Hybrid.",
-    "sale_price": "$923.12",
-    "msrp": "$1,363.95",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820tx6a72"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TK5-A10",
+    "part_number": "77962-TY3-A11",
     "title": "Air Bag Wiring Harness",
-    "description": "3.7L manual trans.",
-    "sale_price": "$167.47",
-    "msrp": "$241.03",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tk5a10"
+    "description": "Modules & sensors, with hybrid, with advance pkg.",
+    "sale_price": "$536.49",
+    "msrp": "$778.88",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty3a11"
   },
   {
     "brand": "Acura",
-    "part_number": "78055-TL2-A00",
-    "title": "Ft Seat Air Bag",
-    "description": "TSX. Left.",
-    "sale_price": "$628.59",
-    "msrp": "$928.77",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tl2a00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78055-TGV-A24",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. TLX. Left.",
-    "sale_price": "$461.98",
-    "msrp": "$670.70",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tgva24"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78050-TR6-A71",
-    "title": "Ft Seat Air Bag",
-    "description": "Right. AIR BAGS. with pwr driver seat. ILX Hybrid.",
-    "sale_price": "$668.09",
-    "msrp": "$987.13",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tr6a71"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78055-STX-L01",
-    "title": "Ft Seat Air Bag",
-    "description": "MDX. Left.",
-    "sale_price": "$810.95",
-    "msrp": "$1,198.22",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055stxl01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78910-TJB-A81",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. RDX. Left.",
-    "sale_price": "$698.06",
-    "msrp": "$1,031.42",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-78910tjba81"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77820-TY2-A41",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. RLX hybrid.",
-    "sale_price": "$1,757.78",
-    "msrp": "$2,597.20",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820ty2a41"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77810-SJA-A20ZF",
-    "title": "Steering Wheel Air Bag",
-    "description": "RL. Beige.",
-    "sale_price": "$1,400.27",
-    "msrp": "$2,068.95",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810sjaa20zf"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78050-TK4-L11",
-    "title": "Ft Seat Air Bag",
-    "description": "With advance pkg. TL. Right.",
-    "sale_price": "$439.08",
-    "msrp": "$637.45",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tk4l11"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77961-ST7-A91",
+    "part_number": "77964-S3V-A10",
     "title": "Air Bag Wiring Harness",
-    "description": "1996-01. Integra.",
-    "sale_price": "$353.04",
-    "msrp": "$512.55",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961st7a91"
+    "description": "Side.",
+    "sale_price": "$116.15",
+    "msrp": "$167.16",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77964s3va10"
   },
   {
     "brand": "Acura",
-    "part_number": "78055-TR6-A81",
-    "title": "Ft Seat Air Bag",
-    "description": "AIR BAGS. without pwr driver seat. Left. Base. ILX.",
-    "sale_price": "$565.60",
-    "msrp": "$835.70",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tr6a81"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TY3-A00",
-    "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, with hybrid, with technology pkg.",
-    "sale_price": "$504.43",
-    "msrp": "$732.33",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty3a00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TX4-A21",
-    "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, base.",
-    "sale_price": "$219.20",
-    "msrp": "$315.48",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a21"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77306-T20-A01ZA",
-    "title": "Knee Air Bag Cap",
-    "description": "Air bags.",
-    "sale_price": "$4.03",
-    "msrp": "$5.34",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-knee-air-bag-cap-77306t20a01za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TY2-A20",
-    "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, without hybrid, with collision mitigation, without hybrid, with collision mitigation.",
-    "sale_price": "$567.64",
-    "msrp": "$824.10",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a20"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TY2-A02",
+    "part_number": "77962-TY2-A01",
     "title": "Air Bag Wiring Harness",
     "description": "Modules & sensors, without hybrid, without collision mitigation, without hybrid, without collision mitigation.",
-    "sale_price": "$567.66",
-    "msrp": "$824.13",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a02"
+    "sale_price": "$564.52",
+    "msrp": "$819.57",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a01"
   },
   {
     "brand": "Acura",
-    "part_number": "77306-T20-A01ZA",
-    "title": "Knee Air Bag Cap",
-    "description": "Air bags.",
-    "sale_price": "$4.03",
-    "msrp": "$5.34",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-knee-air-bag-cap-77306t20a01za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TY3-A00",
+    "part_number": "77962-TY2-A11",
     "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, with hybrid, with technology pkg.",
-    "sale_price": "$504.43",
-    "msrp": "$732.33",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty3a00"
+    "description": "Modules & sensors, without hybrid, with collision mitigation, without hybrid, with collision mitigation.",
+    "sale_price": "$523.47",
+    "msrp": "$759.97",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a11"
   },
   {
     "brand": "Acura",
-    "part_number": "77810-TZ3-A81ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "Air bags. TLX.",
-    "sale_price": "$940.72",
-    "msrp": "$1,389.95",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tz3a81za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78910-TY2-A80",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. RLX.",
-    "sale_price": "$431.77",
-    "msrp": "$626.85",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-78910ty2a80"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SEC-A81ZB",
-    "title": "Steering Wheel Air Bag",
-    "description": "TSX.",
-    "sale_price": "$1,222.77",
-    "msrp": "$1,806.70",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770seca81zb"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-S0K-A81ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "Dark fern.",
-    "sale_price": "$937.37",
-    "msrp": "$1,385.00",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s0ka81za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77810-TX6-A50ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "Air bags. ILX, ILX Hybrid.",
-    "sale_price": "$1,640.09",
-    "msrp": "$2,423.30",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tx6a50za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "85644484",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. ZDX. Left.",
-    "sale_price": "$667.36",
-    "msrp": "$986.05",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-85644484"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-S0K-A90",
+    "part_number": "77962-TY3-A20",
     "title": "Air Bag Wiring Harness",
-    "description": "3.2tl. Floor harness.",
-    "sale_price": "$110.09",
-    "msrp": "$154.45",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962s0ka90"
+    "description": "Modules & sensors, with hybrid, all.",
+    "sale_price": "$395.47",
+    "msrp": "$574.15",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty3a20"
   },
   {
     "brand": "Acura",
-    "part_number": "77810-SJA-A20ZC",
-    "title": "Steering Wheel Air Bag",
-    "description": "Medium gray. RL.",
-    "sale_price": "$1,400.27",
-    "msrp": "$2,068.95",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810sjaa20zc"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SEP-A80ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "TL.",
-    "sale_price": "$948.07",
-    "msrp": "$1,400.82",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sepa80za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77851-SZN-A30",
-    "title": "Instrument Panel Air Bag",
-    "description": "ZDX.",
-    "sale_price": "$923.12",
-    "msrp": "$1,363.95",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77851szna30"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78050-TZ5-A00",
-    "title": "Ft Seat Air Bag",
-    "description": "MDX. Right. 3.5l. Air bags.",
-    "sale_price": "$744.18",
-    "msrp": "$1,099.55",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tz5a00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78055-TK4-A82",
-    "title": "Ft Seat Air Bag",
-    "description": "Without advance pkg. TL. Left. Without advance package.",
-    "sale_price": "$436.76",
-    "msrp": "$634.08",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tk4a82"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SL0-A60ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "",
-    "sale_price": "$1,756.84",
-    "msrp": "$2,595.80",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sl0a60za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78050-TZ3-A00",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. TLX. Right.",
-    "sale_price": "$443.69",
-    "msrp": "$644.15",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tz3a00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77810-STK-A30ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "RDX.",
-    "sale_price": "$2,214.84",
-    "msrp": "$3,272.52",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810stka30za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78055-TGV-A24",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. TLX. Left.",
-    "sale_price": "$461.98",
-    "msrp": "$670.70",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tgva24"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78050-TR6-A71",
-    "title": "Ft Seat Air Bag",
-    "description": "Right. AIR BAGS. with pwr driver seat. ILX Hybrid.",
-    "sale_price": "$668.09",
-    "msrp": "$987.13",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tr6a71"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78055-STX-L01",
-    "title": "Ft Seat Air Bag",
-    "description": "MDX. Left.",
-    "sale_price": "$810.95",
-    "msrp": "$1,198.22",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055stxl01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78910-TJB-A81",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. RDX. Left.",
-    "sale_price": "$698.06",
-    "msrp": "$1,031.42",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-78910tjba81"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77820-TY2-A41",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. RLX hybrid.",
-    "sale_price": "$1,757.78",
-    "msrp": "$2,597.20",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820ty2a41"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77810-SJA-A20ZF",
-    "title": "Steering Wheel Air Bag",
-    "description": "RL. Beige.",
-    "sale_price": "$1,400.27",
-    "msrp": "$2,068.95",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810sjaa20zf"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78050-TK4-L11",
-    "title": "Ft Seat Air Bag",
-    "description": "With advance pkg. TL. Right.",
-    "sale_price": "$439.08",
-    "msrp": "$637.45",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tk4l11"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77961-ST7-A91",
+    "part_number": "77962-TY2-A30",
     "title": "Air Bag Wiring Harness",
-    "description": "1996-01. Integra.",
-    "sale_price": "$353.04",
-    "msrp": "$512.55",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961st7a91"
+    "description": "Modules & sensors, without hybrid, with collision mitigation, without hybrid, with collision mitigation.",
+    "sale_price": "$366.88",
+    "msrp": "$532.64",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a30"
   },
   {
     "brand": "Acura",
-    "part_number": "78055-TR6-A81",
-    "title": "Ft Seat Air Bag",
-    "description": "AIR BAGS. without pwr driver seat. Left. Base. ILX.",
-    "sale_price": "$565.60",
-    "msrp": "$835.70",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tr6a81"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TY3-A00",
+    "part_number": "77962-TY3-A10",
     "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, with hybrid, with technology pkg.",
-    "sale_price": "$504.43",
-    "msrp": "$732.33",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty3a00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TX4-A21",
-    "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, base.",
-    "sale_price": "$219.20",
-    "msrp": "$315.48",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a21"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77306-T20-A01ZA",
-    "title": "Knee Air Bag Cap",
-    "description": "Air bags.",
-    "sale_price": "$4.03",
-    "msrp": "$5.34",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-knee-air-bag-cap-77306t20a01za"
+    "description": "Modules & sensors, with hybrid, with advance pkg.",
+    "sale_price": "$499.79",
+    "msrp": "$725.60",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty3a10"
   },
   {
     "brand": "Acura",
@@ -1249,6 +1528,42 @@
     "sale_price": "$567.64",
     "msrp": "$824.10",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a20"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "8-97154-034-3",
+    "title": "Instrument Panel Air Bag",
+    "description": "SLX. Passenger side.",
+    "sale_price": "$752.97",
+    "msrp": "$1,112.55",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-8971540343"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-ST7-A70ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "1996-01, graphite. Integra.",
+    "sale_price": "$2,276.73",
+    "msrp": "$3,363.97",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780st7a70za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-S0K-A80ZB",
+    "title": "Instrument Panel Air Bag",
+    "description": "Black. 3.2tl.",
+    "sale_price": "$902.24",
+    "msrp": "$1,333.10",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s0ka80zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TX4-A21",
+    "title": "Air Bag Wiring Harness",
+    "description": "Modules & sensors, base.",
+    "sale_price": "$219.20",
+    "msrp": "$315.48",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a21"
   },
   {
     "brand": "Acura",
@@ -1258,6 +1573,24 @@
     "sale_price": "$219.45",
     "msrp": "$315.85",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a00"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-S6M-A80ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "Graphite. RSX.",
+    "sale_price": "$1,844.05",
+    "msrp": "$2,724.67",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s6ma80za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-ST7-A70ZB",
+    "title": "Steering Wheel Air Bag",
+    "description": "1996-01. taupe.",
+    "sale_price": "$1,215.45",
+    "msrp": "$1,795.88",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770st7a70zb"
   },
   {
     "brand": "Acura",
@@ -1279,48 +1612,12 @@
   },
   {
     "brand": "Acura",
-    "part_number": "06770-S6M-A80ZA",
+    "part_number": "06770-SEP-A90",
     "title": "Steering Wheel Air Bag",
-    "description": "RSX. Graphite.",
-    "sale_price": "$1,222.77",
-    "msrp": "$1,806.70",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770s6ma80za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "39050-SEC-A02ZC",
-    "title": "Instrument Panel Air Bag",
-    "description": "Center module assembly without navigation system. without wood.",
-    "sale_price": "$4,946.96",
-    "msrp": "$7,309.33",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050seca02zc"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TY3-A10",
-    "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, with hybrid, with advance pkg.",
-    "sale_price": "$499.79",
-    "msrp": "$725.60",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty3a10"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TY2-A01",
-    "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, without hybrid, without collision mitigation, without hybrid, without collision mitigation.",
-    "sale_price": "$564.52",
-    "msrp": "$819.57",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TY2-A11",
-    "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, without hybrid, with collision mitigation, without hybrid, with collision mitigation.",
-    "sale_price": "$523.47",
-    "msrp": "$759.97",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a11"
+    "description": "TL.",
+    "sale_price": "$948.07",
+    "msrp": "$1,400.82",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sepa90"
   },
   {
     "brand": "Acura",
@@ -1459,93 +1756,93 @@
   },
   {
     "brand": "Acura",
-    "part_number": "78055-TX4-A01",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. RDX. Left.",
-    "sale_price": "$461.45",
-    "msrp": "$669.93",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tx4a01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78960-TYA-A81",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. MDX. Right.",
-    "sale_price": "$785.09",
-    "msrp": "$1,160.00",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-78960tyaa81"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SL0-A82ZB",
+    "part_number": "77810-TL2-A82ZA",
     "title": "Steering Wheel Air Bag",
-    "description": "Ns-x.",
-    "sale_price": "$1,756.84",
-    "msrp": "$2,595.80",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sl0a82zb"
+    "description": "TSX.",
+    "sale_price": "$1,345.39",
+    "msrp": "$1,987.87",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tl2a82za"
   },
   {
     "brand": "Acura",
-    "part_number": "78050-TYB-A81",
+    "part_number": "78050-TK4-A82",
     "title": "Ft Seat Air Bag",
-    "description": "MDX. Advance package. Right. Type s.",
-    "sale_price": "$572.23",
-    "msrp": "$830.77",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tyba81"
+    "description": "TL. Right.",
+    "sale_price": "$436.76",
+    "msrp": "$634.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tk4a82"
   },
   {
     "brand": "Acura",
-    "part_number": "85644485",
+    "part_number": "77820-SEC-A90",
     "title": "Instrument Panel Air Bag",
-    "description": "Air bags. ZDX. Right.",
-    "sale_price": "$667.36",
-    "msrp": "$986.05",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-85644485"
+    "description": "TSX.",
+    "sale_price": "$1,844.05",
+    "msrp": "$2,724.67",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820seca90"
   },
   {
     "brand": "Acura",
-    "part_number": "85686181",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. ZDX.",
-    "sale_price": "$657.50",
-    "msrp": "$971.48",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-85686181"
+    "part_number": "78055-TR6-A81",
+    "title": "Ft Seat Air Bag",
+    "description": "AIR BAGS. without pwr driver seat. Left. Base. ILX.",
+    "sale_price": "$565.60",
+    "msrp": "$835.70",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tr6a81"
   },
   {
     "brand": "Acura",
-    "part_number": "77962-TX4-A01",
+    "part_number": "77962-TY2-A20",
     "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, technology.",
+    "description": "Modules & sensors, without hybrid, with collision mitigation, without hybrid, with collision mitigation.",
+    "sale_price": "$567.64",
+    "msrp": "$824.10",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a20"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TX4-A21",
+    "title": "Air Bag Wiring Harness",
+    "description": "Modules & sensors, base.",
+    "sale_price": "$219.20",
+    "msrp": "$315.48",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a21"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TX4-A00",
+    "title": "Air Bag Wiring Harness",
+    "description": "Modules & sensors.",
     "sale_price": "$219.45",
     "msrp": "$315.85",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a01"
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a00"
   },
   {
     "brand": "Acura",
-    "part_number": "77962-TK5-A01",
+    "part_number": "77962-SEP-A01",
     "title": "Air Bag Wiring Harness",
-    "description": "3.7L auto trans.",
-    "sale_price": "$206.12",
-    "msrp": "$296.67",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tk5a01"
+    "description": "",
+    "sale_price": "$106.92",
+    "msrp": "$149.99",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962sepa01"
   },
   {
     "brand": "Acura",
-    "part_number": "77965-S3V-A10",
+    "part_number": "77962-TY2-A02",
     "title": "Air Bag Wiring Harness",
-    "description": "Side.",
-    "sale_price": "$118.41",
-    "msrp": "$166.12",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77965s3va10"
+    "description": "Modules & sensors, without hybrid, without collision mitigation, without hybrid, without collision mitigation.",
+    "sale_price": "$567.66",
+    "msrp": "$824.13",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a02"
   },
   {
     "brand": "Acura",
-    "part_number": "77964-S3V-A02",
-    "title": "Air Bag Wiring Harness",
-    "description": "Side.",
-    "sale_price": "$62.11",
-    "msrp": "$87.13",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77964s3va02"
+    "part_number": "77306-T20-A01ZA",
+    "title": "Knee Air Bag Cap",
+    "description": "Air bags.",
+    "sale_price": "$4.03",
+    "msrp": "$5.34",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-knee-air-bag-cap-77306t20a01za"
   },
   {
     "brand": "Acura",
@@ -1621,165 +1918,39 @@
   },
   {
     "brand": "Acura",
-    "part_number": "77810-SEC-A90ZA",
+    "part_number": "06770-SEP-A80ZA",
     "title": "Steering Wheel Air Bag",
-    "description": "TSX.",
-    "sale_price": "$1,222.77",
-    "msrp": "$1,806.70",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810seca90za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77810-SJA-A20ZD",
-    "title": "Steering Wheel Air Bag",
-    "description": "Ivory.",
-    "sale_price": "$1,428.05",
-    "msrp": "$2,110.00",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810sjaa20zd"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-SL0-A71ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "",
-    "sale_price": "$2,602.07",
-    "msrp": "$3,844.67",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sl0a71za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-S0K-L30ZB",
-    "title": "Steering Wheel Air Bag",
-    "description": "Taupe.",
+    "description": "TL.",
     "sale_price": "$948.07",
     "msrp": "$1,400.82",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770s0kl30zb"
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sepa80za"
   },
   {
     "brand": "Acura",
-    "part_number": "77820-TX4-A41",
+    "part_number": "77851-SZN-A30",
     "title": "Instrument Panel Air Bag",
-    "description": "Air bags. RDX.",
+    "description": "ZDX.",
     "sale_price": "$923.12",
     "msrp": "$1,363.95",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820tx4a41"
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77851szna30"
   },
   {
     "brand": "Acura",
-    "part_number": "77810-TX4-A40ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "Air bags. RDX.",
-    "sale_price": "$959.05",
-    "msrp": "$1,417.03",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tx4a40za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78050-TJB-A22",
+    "part_number": "78050-TZ5-A00",
     "title": "Ft Seat Air Bag",
-    "description": "Air bags. RDX. Right.",
-    "sale_price": "$487.83",
-    "msrp": "$708.23",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tjba22"
+    "description": "MDX. Right. 3.5l. Air bags.",
+    "sale_price": "$744.18",
+    "msrp": "$1,099.55",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tz5a00"
   },
   {
     "brand": "Acura",
-    "part_number": "81166-SDB-L00",
-    "title": "Air Bag Wiring Harness",
-    "description": "",
-    "sale_price": "$40.98",
-    "msrp": "$56.53",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-81166sdbl00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78960-T20-A80ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. Integra. Right.",
-    "sale_price": "$185.62",
-    "msrp": "$267.16",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-78960t20a80za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TX4-A11",
-    "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, advance.",
-    "sale_price": "$246.63",
-    "msrp": "$354.97",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a11"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "81166-SDA-A00",
-    "title": "Air Bag Wiring Harness",
-    "description": "",
-    "sale_price": "$16.52",
-    "msrp": "$21.88",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-81166sdaa00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TK4-A00",
-    "title": "Air Bag Wiring Harness",
-    "description": "3.5L.",
-    "sale_price": "$211.46",
-    "msrp": "$304.36",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tk4a00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TY3-A01",
-    "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, with hybrid, with technology pkg.",
-    "sale_price": "$536.49",
-    "msrp": "$778.88",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty3a01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-S3V-L30ZB",
-    "title": "Steering Wheel Air Bag",
-    "description": "Saddle.",
-    "sale_price": "$1,043.68",
-    "msrp": "$1,542.08",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770s3vl30zb"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77810-TK4-A20ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "TL. ZDX.",
-    "sale_price": "$2,136.56",
-    "msrp": "$3,156.85",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tk4a20za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77961-SL0-A86",
-    "title": "Air Bag Wiring Harness",
-    "description": "",
-    "sale_price": "$1,040.44",
-    "msrp": "$1,537.30",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961sl0a86"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77810-TGV-A91ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "Air bags. TLX.",
-    "sale_price": "$879.23",
-    "msrp": "$1,299.10",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tgva91za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77820-TGV-A87",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. TLX.",
-    "sale_price": "$923.12",
-    "msrp": "$1,363.95",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820tgva87"
+    "part_number": "78055-TYB-A81",
+    "title": "Ft Seat Air Bag",
+    "description": "AIR BAGS. with Type S Advance. MDX. Advance package. Left.",
+    "sale_price": "$581.07",
+    "msrp": "$858.55",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tyba81"
   },
   {
     "brand": "Acura",
@@ -1873,39 +2044,111 @@
   },
   {
     "brand": "Acura",
-    "part_number": "35251-SHJ-A61",
-    "title": "Air Bag Clock Spring",
-    "description": "",
-    "sale_price": "$104.83",
-    "msrp": "$147.07",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-clock-spring-35251shja61"
+    "part_number": "78050-TYA-A21",
+    "title": "Ft Seat Air Bag",
+    "description": "AIR BAGS. without Type S Advance. MDX. Technology package. Right.",
+    "sale_price": "$744.18",
+    "msrp": "$1,099.55",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tyaa21"
   },
   {
     "brand": "Acura",
-    "part_number": "77962-TK5-A00",
-    "title": "Air Bag Wiring Harness",
-    "description": "3.7L.",
-    "sale_price": "$208.78",
-    "msrp": "$300.48",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tk5a00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TY2-A10",
+    "part_number": "77962-TY2-A20",
     "title": "Air Bag Wiring Harness",
     "description": "Modules & sensors, without hybrid, with collision mitigation, without hybrid, with collision mitigation.",
-    "sale_price": "$523.47",
-    "msrp": "$759.97",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a10"
+    "sale_price": "$567.64",
+    "msrp": "$824.10",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty2a20"
   },
   {
     "brand": "Acura",
-    "part_number": "77962-TK4-A01",
+    "part_number": "8-97154-034-3",
+    "title": "Instrument Panel Air Bag",
+    "description": "SLX. Passenger side.",
+    "sale_price": "$752.97",
+    "msrp": "$1,112.55",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-8971540343"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-ST7-A70ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "1996-01, graphite. Integra.",
+    "sale_price": "$2,276.73",
+    "msrp": "$3,363.97",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780st7a70za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-S0K-A80ZB",
+    "title": "Instrument Panel Air Bag",
+    "description": "Black. 3.2tl.",
+    "sale_price": "$902.24",
+    "msrp": "$1,333.10",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s0ka80zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TX4-A21",
     "title": "Air Bag Wiring Harness",
-    "description": "3.5L.",
-    "sale_price": "$208.60",
-    "msrp": "$300.24",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tk4a01"
+    "description": "Modules & sensors, base.",
+    "sale_price": "$219.20",
+    "msrp": "$315.48",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a21"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-TX4-A00",
+    "title": "Air Bag Wiring Harness",
+    "description": "Modules & sensors.",
+    "sale_price": "$219.45",
+    "msrp": "$315.85",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a00"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78050-T20-A60",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. with tech pkg. Integra. Front. Right. With tech package.",
+    "sale_price": "$274.97",
+    "msrp": "$395.75",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050t20a60"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77810-STX-A81ZC",
+    "title": "Steering Wheel Air Bag",
+    "description": "Beige. MDX.",
+    "sale_price": "$1,084.36",
+    "msrp": "$1,602.18",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810stxa81zc"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77820-TJB-A92",
+    "title": "Instrument Panel Air Bag",
+    "description": "Air bags. RDX.",
+    "sale_price": "$923.12",
+    "msrp": "$1,363.95",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820tjba92"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SL0-A91ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "",
+    "sale_price": "$1,756.84",
+    "msrp": "$2,595.80",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sl0a91za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-S3V-L40ZB",
+    "title": "Steering Wheel Air Bag",
+    "description": "Saddle.",
+    "sale_price": "$1,043.68",
+    "msrp": "$1,542.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770s3vl40zb"
   },
   {
     "brand": "Acura",
@@ -1945,291 +2188,84 @@
   },
   {
     "brand": "Acura",
-    "part_number": "77810-SEC-A90ZA",
+    "part_number": "77810-TX6-A50ZA",
     "title": "Steering Wheel Air Bag",
-    "description": "TSX.",
-    "sale_price": "$1,222.77",
-    "msrp": "$1,806.70",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810seca90za"
+    "description": "Air bags. ILX, ILX Hybrid.",
+    "sale_price": "$1,640.09",
+    "msrp": "$2,423.30",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tx6a50za"
   },
   {
     "brand": "Acura",
-    "part_number": "77810-SJA-A20ZD",
-    "title": "Steering Wheel Air Bag",
-    "description": "Ivory.",
-    "sale_price": "$1,428.05",
-    "msrp": "$2,110.00",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810sjaa20zd"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-SL0-A71ZA",
+    "part_number": "85644484",
     "title": "Instrument Panel Air Bag",
-    "description": "",
-    "sale_price": "$2,602.07",
-    "msrp": "$3,844.67",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sl0a71za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-S0K-L30ZB",
-    "title": "Steering Wheel Air Bag",
-    "description": "Taupe.",
-    "sale_price": "$948.07",
-    "msrp": "$1,400.82",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770s0kl30zb"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77820-TX4-A41",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. RDX.",
-    "sale_price": "$923.12",
-    "msrp": "$1,363.95",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820tx4a41"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78050-TJB-A22",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. RDX. Right.",
-    "sale_price": "$487.83",
-    "msrp": "$708.23",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tjba22"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "81166-SDB-L00",
-    "title": "Air Bag Wiring Harness",
-    "description": "",
-    "sale_price": "$40.98",
-    "msrp": "$56.53",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-81166sdbl00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78960-T20-A80ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. Integra. Right.",
-    "sale_price": "$185.62",
-    "msrp": "$267.16",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-78960t20a80za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TX4-A11",
-    "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, advance.",
-    "sale_price": "$246.63",
-    "msrp": "$354.97",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a11"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "81166-SDA-A00",
-    "title": "Air Bag Wiring Harness",
-    "description": "",
-    "sale_price": "$16.52",
-    "msrp": "$21.88",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-81166sdaa00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TK4-A00",
-    "title": "Air Bag Wiring Harness",
-    "description": "3.5L.",
-    "sale_price": "$211.46",
-    "msrp": "$304.36",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tk4a00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77810-TX4-A40ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "Air bags. RDX.",
-    "sale_price": "$959.05",
-    "msrp": "$1,417.03",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tx4a40za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TY3-A01",
-    "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, with hybrid, with technology pkg.",
-    "sale_price": "$536.49",
-    "msrp": "$778.88",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962ty3a01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-S3V-L30ZB",
-    "title": "Steering Wheel Air Bag",
-    "description": "Saddle.",
-    "sale_price": "$1,043.68",
-    "msrp": "$1,542.08",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770s3vl30zb"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77810-TK4-A20ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "TL. ZDX.",
-    "sale_price": "$2,136.56",
-    "msrp": "$3,156.85",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tk4a20za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77961-SL0-A86",
-    "title": "Air Bag Wiring Harness",
-    "description": "",
-    "sale_price": "$1,040.44",
-    "msrp": "$1,537.30",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961sl0a86"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77810-TGV-A91ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "Air bags. TLX.",
-    "sale_price": "$879.23",
-    "msrp": "$1,299.10",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tgva91za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77820-TGV-A87",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. TLX.",
-    "sale_price": "$923.12",
-    "msrp": "$1,363.95",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820tgva87"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-STK-A00",
-    "title": "Air Bag Wiring Harness",
-    "description": "",
-    "sale_price": "$311.80",
-    "msrp": "$448.76",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962stka00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78055-TJB-A22",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. RDX. Left.",
-    "sale_price": "$691.00",
-    "msrp": "$1,020.98",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tjba22"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-S0K-A81ZC",
-    "title": "Instrument Panel Air Bag",
-    "description": "Taupe.",
-    "sale_price": "$934.72",
-    "msrp": "$1,381.08",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s0ka81zc"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77810-TJB-A81ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "Air bags. RDX.",
-    "sale_price": "$955.09",
-    "msrp": "$1,411.18",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810tjba81za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-S0K-A80ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "Dark fern.",
-    "sale_price": "$902.24",
-    "msrp": "$1,333.10",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s0ka80za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78050-STX-A10",
-    "title": "Ft Seat Air Bag",
-    "description": "MDX. Right.",
-    "sale_price": "$810.95",
-    "msrp": "$1,198.22",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050stxa10"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-SEP-A91",
-    "title": "Instrument Panel Air Bag",
-    "description": "TL.",
-    "sale_price": "$2,122.91",
-    "msrp": "$3,136.68",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sepa91"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78910-TZ3-A91",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. TLX.",
-    "sale_price": "$437.25",
-    "msrp": "$634.80",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-78910tz3a91"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "85644485",
-    "title": "Instrument Panel Air Bag",
-    "description": "Air bags. ZDX. Right.",
+    "description": "Air bags. ZDX. Left.",
     "sale_price": "$667.36",
     "msrp": "$986.05",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-85644485"
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-85644484"
   },
   {
     "brand": "Acura",
-    "part_number": "77820-STX-A80",
-    "title": "Instrument Panel Air Bag",
-    "description": "MDX.",
-    "sale_price": "$1,343.93",
-    "msrp": "$1,985.72",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820stxa80"
+    "part_number": "77962-S0K-A90",
+    "title": "Air Bag Wiring Harness",
+    "description": "3.2tl. Floor harness.",
+    "sale_price": "$110.09",
+    "msrp": "$154.45",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962s0ka90"
   },
   {
     "brand": "Acura",
-    "part_number": "77810-STX-A81ZB",
+    "part_number": "77810-SJA-A20ZC",
     "title": "Steering Wheel Air Bag",
-    "description": "MDX. Medium gray.",
-    "sale_price": "$1,101.40",
-    "msrp": "$1,627.37",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810stxa81zb"
+    "description": "Medium gray. RL.",
+    "sale_price": "$1,400.27",
+    "msrp": "$2,068.95",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-77810sjaa20zc"
   },
   {
     "brand": "Acura",
-    "part_number": "78055-TZ3-A00",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. TLX. Left.",
-    "sale_price": "$443.69",
-    "msrp": "$644.15",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tz3a00"
+    "part_number": "06770-SEP-A80ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "TL.",
+    "sale_price": "$948.07",
+    "msrp": "$1,400.82",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sepa80za"
   },
   {
     "brand": "Acura",
-    "part_number": "06780-SZ3-A10ZB",
+    "part_number": "77851-SZN-A30",
     "title": "Instrument Panel Air Bag",
-    "description": "1999-04, gray.",
-    "sale_price": "$2,602.07",
-    "msrp": "$3,844.67",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sz3a10zb"
+    "description": "ZDX.",
+    "sale_price": "$923.12",
+    "msrp": "$1,363.95",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77851szna30"
   },
   {
     "brand": "Acura",
-    "part_number": "78050-TGV-A23",
+    "part_number": "78050-TZ5-A00",
     "title": "Ft Seat Air Bag",
-    "description": "Air bags. TLX. Right.",
-    "sale_price": "$462.95",
-    "msrp": "$672.12",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tgva23"
+    "description": "MDX. Right. 3.5l. Air bags.",
+    "sale_price": "$744.18",
+    "msrp": "$1,099.55",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78050tz5a00"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78055-TK4-A82",
+    "title": "Ft Seat Air Bag",
+    "description": "Without advance pkg. TL. Left. Without advance package.",
+    "sale_price": "$436.76",
+    "msrp": "$634.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-ft-seat-air-bag-78055tk4a82"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SL0-A60ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "",
+    "sale_price": "$1,756.84",
+    "msrp": "$2,595.80",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sl0a60za"
   },
   {
     "brand": "Acura",
@@ -2332,60 +2368,6 @@
   },
   {
     "brand": "Acura",
-    "part_number": "77962-TX4-A01",
-    "title": "Air Bag Wiring Harness",
-    "description": "Modules & sensors, technology.",
-    "sale_price": "$219.45",
-    "msrp": "$315.85",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tx4a01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-TK5-A01",
-    "title": "Air Bag Wiring Harness",
-    "description": "3.7L auto trans.",
-    "sale_price": "$206.12",
-    "msrp": "$296.67",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962tk5a01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77965-S3V-A10",
-    "title": "Air Bag Wiring Harness",
-    "description": "Side.",
-    "sale_price": "$118.41",
-    "msrp": "$166.12",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77965s3va10"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77964-S3V-A02",
-    "title": "Air Bag Wiring Harness",
-    "description": "Side.",
-    "sale_price": "$62.11",
-    "msrp": "$87.13",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77964s3va02"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77955-3V0-A01",
-    "title": "Air Bag System Status Indicator",
-    "description": "",
-    "sale_price": "$34.42",
-    "msrp": "$42.09",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-system-status-indicator-779553v0a01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "81334-S0K-A73",
-    "title": "Air Bag Passenger Presence Module",
-    "description": "Occupant position detection, pssngr onl, with type s.",
-    "sale_price": "$289.95",
-    "msrp": "$417.31",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-passenger-presence-module-81334s0ka73"
-  },
-  {
-    "brand": "Acura",
     "part_number": "81169-TY2-A02",
     "title": "Air Bag Passenger Presence Module",
     "description": "Passenger seat. RLX.",
@@ -2401,6 +2383,51 @@
     "sale_price": "$25.01",
     "msrp": "$33.13",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-system-status-indicator-77955txma01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77955-TL2-A01",
+    "title": "Air Bag System Status Indicator",
+    "description": "2011-14, passenger srs off. Passenger air bag. 2009-10, passenger srs off.",
+    "sale_price": "$64.16",
+    "msrp": "$90.02",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-system-status-indicator-77955tl2a01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "81334-S0K-A73",
+    "title": "Air Bag Passenger Presence Module",
+    "description": "Occupant position detection, pssngr onl, with type s.",
+    "sale_price": "$289.95",
+    "msrp": "$417.31",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-passenger-presence-module-81334s0ka73"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77955-3V0-A01",
+    "title": "Air Bag System Status Indicator",
+    "description": "",
+    "sale_price": "$34.42",
+    "msrp": "$42.09",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-system-status-indicator-779553v0a01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77955-TJB-A01",
+    "title": "Air Bag System Status Indicator",
+    "description": "Console & components, 2019-24, passenger air bag. Console & components, 2025, passenger air bag.",
+    "sale_price": "$44.72",
+    "msrp": "$61.71",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-system-status-indicator-77955tjba01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "81334-S0K-307",
+    "title": "Air Bag Passenger Presence Module",
+    "description": "Occupant position detection, pssngr onl, without type s.",
+    "sale_price": "$308.11",
+    "msrp": "$443.45",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-passenger-presence-module-81334s0k307"
   },
   {
     "brand": "Acura",
@@ -2440,30 +2467,12 @@
   },
   {
     "brand": "Acura",
-    "part_number": "81169-TY2-A01",
-    "title": "Air Bag Passenger Presence Module",
-    "description": "Passenger seat. RLX.",
-    "sale_price": "$338.55",
-    "msrp": "$487.27",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-passenger-presence-module-81169ty2a01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "81334-S3M-A74",
-    "title": "Air Bag Passenger Presence Module",
-    "description": "Passenger seat.",
-    "sale_price": "$306.05",
-    "msrp": "$440.48",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-passenger-presence-module-81334s3ma74"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "81334-S0K-A64",
-    "title": "Air Bag Passenger Presence Module",
-    "description": "Occupant position detection, pssngr onl, without type s.",
-    "sale_price": "$290.09",
-    "msrp": "$417.52",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-passenger-presence-module-81334s0ka64"
+    "part_number": "78050-SZN-A02",
+    "title": "Side Impact Inflator Module",
+    "description": "ZDX. Right.",
+    "sale_price": "$810.95",
+    "msrp": "$1,198.22",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-78050szna02"
   },
   {
     "brand": "Acura",
@@ -2485,12 +2494,12 @@
   },
   {
     "brand": "Acura",
-    "part_number": "78050-SZN-A02",
+    "part_number": "78050-SJA-A93",
     "title": "Side Impact Inflator Module",
-    "description": "ZDX. Right.",
-    "sale_price": "$810.95",
-    "msrp": "$1,198.22",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-78050szna02"
+    "description": "RL. Right.",
+    "sale_price": "$530.53",
+    "msrp": "$770.22",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-78050sjaa93"
   },
   {
     "brand": "Acura",
@@ -2512,15 +2521,6 @@
   },
   {
     "brand": "Acura",
-    "part_number": "78050-SJA-A93",
-    "title": "Side Impact Inflator Module",
-    "description": "RL. Right.",
-    "sale_price": "$530.53",
-    "msrp": "$770.22",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-78050sjaa93"
-  },
-  {
-    "brand": "Acura",
     "part_number": "06788-S6M-A80ZA",
     "title": "Side Impact Inflator Module",
     "description": "Graphite. RSX. Left.",
@@ -2536,15 +2536,6 @@
     "sale_price": "$541.57",
     "msrp": "$786.25",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-6783s6ma80za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06788-S3V-A92",
-    "title": "Side Impact Inflator Module",
-    "description": "MDX. Left.",
-    "sale_price": "$436.76",
-    "msrp": "$634.08",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-6788s3va92"
   },
   {
     "brand": "Acura",
@@ -2566,66 +2557,39 @@
   },
   {
     "brand": "Acura",
-    "part_number": "06783-SEP-A80",
-    "title": "Side Impact Inflator Module",
-    "description": "TL. Right.",
-    "sale_price": "$419.44",
-    "msrp": "$608.95",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-6783sepa80"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78870-TL4-A81",
-    "title": "Inflator Curtain",
-    "description": "TSX. Right. Wagon.",
-    "sale_price": "$963.04",
-    "msrp": "$1,422.93",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-inflator-curtain-78870tl4a81"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78875-TL4-A81",
-    "title": "Inflator Curtain",
-    "description": "TSX. Left. Wagon.",
-    "sale_price": "$963.04",
-    "msrp": "$1,422.93",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-inflator-curtain-78875tl4a81"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06783-S3V-A80",
-    "title": "Side Impact Inflator Module",
-    "description": "MDX. Right.",
-    "sale_price": "$436.76",
-    "msrp": "$634.08",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-6783s3va80"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06788-SDC-A70",
-    "title": "Side Impact Inflator Module",
-    "description": "TSX. Left.",
-    "sale_price": "$541.57",
-    "msrp": "$786.25",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-6788sdca70"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06788-S3V-A80",
+    "part_number": "06788-S3V-A92",
     "title": "Side Impact Inflator Module",
     "description": "MDX. Left.",
     "sale_price": "$436.76",
     "msrp": "$634.08",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-6788s3va80"
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-6788s3va92"
   },
   {
     "brand": "Acura",
-    "part_number": "06788-SJA-A80",
+    "part_number": "06783-S3V-A70",
     "title": "Side Impact Inflator Module",
-    "description": "RL. Left.",
-    "sale_price": "$541.57",
-    "msrp": "$786.25",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-6788sjaa80"
+    "description": "MDX. Right.",
+    "sale_price": "$436.76",
+    "msrp": "$634.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-6783s3va70"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78870-TJB-A92",
+    "title": "Inflator Curtain",
+    "description": "RDX. Right. Air bags.",
+    "sale_price": "$587.21",
+    "msrp": "$867.63",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-inflator-curtain-78870tjba92"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78875-TJB-A92",
+    "title": "Inflator Curtain",
+    "description": "RDX. Left. Air bags.",
+    "sale_price": "$590.46",
+    "msrp": "$872.43",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-inflator-curtain-78875tjba92"
   },
   {
     "brand": "Acura",
@@ -2683,30 +2647,48 @@
   },
   {
     "brand": "Acura",
-    "part_number": "06788-S3V-A92",
+    "part_number": "06783-S3V-A92",
     "title": "Side Impact Inflator Module",
-    "description": "MDX. Left.",
+    "description": "MDX. Right.",
     "sale_price": "$436.76",
     "msrp": "$634.08",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-6788s3va92"
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-6783s3va92"
   },
   {
     "brand": "Acura",
-    "part_number": "06770-SY8-A80ZA",
-    "title": "Driver Inflator Module",
-    "description": "CL. Classy gray.",
-    "sale_price": "$641.32",
-    "msrp": "$947.58",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-inflator-module-6770sy8a80za"
+    "part_number": "06783-SDC-A70",
+    "title": "Side Impact Inflator Module",
+    "description": "TSX. Right.",
+    "sale_price": "$541.57",
+    "msrp": "$786.25",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-6783sdca70"
   },
   {
     "brand": "Acura",
-    "part_number": "06780-SY8-A81ZA",
-    "title": "Passenger Inflator Module",
-    "description": "Classy gray. CL.",
-    "sale_price": "$919.51",
-    "msrp": "$1,358.62",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-inflator-module-6780sy8a81za"
+    "part_number": "06783-SEP-A80",
+    "title": "Side Impact Inflator Module",
+    "description": "TL. Right.",
+    "sale_price": "$419.44",
+    "msrp": "$608.95",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-6783sepa80"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78870-TL4-A81",
+    "title": "Inflator Curtain",
+    "description": "TSX. Right. Wagon.",
+    "sale_price": "$963.04",
+    "msrp": "$1,422.93",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-inflator-curtain-78870tl4a81"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "78875-TL4-A81",
+    "title": "Inflator Curtain",
+    "description": "TSX. Left. Wagon.",
+    "sale_price": "$963.04",
+    "msrp": "$1,422.93",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-inflator-curtain-78875tl4a81"
   },
   {
     "brand": "Acura",
@@ -2719,6 +2701,24 @@
   },
   {
     "brand": "Acura",
+    "part_number": "06780-SY8-A81ZA",
+    "title": "Passenger Inflator Module",
+    "description": "Classy gray. CL.",
+    "sale_price": "$919.51",
+    "msrp": "$1,358.62",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-inflator-module-6780sy8a81za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SY8-A80ZA",
+    "title": "Driver Inflator Module",
+    "description": "CL. Classy gray.",
+    "sale_price": "$641.32",
+    "msrp": "$947.58",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-inflator-module-6770sy8a80za"
+  },
+  {
+    "brand": "Acura",
     "part_number": "77929-SG0-A84ZE",
     "title": "Inflator Module",
     "description": "Legend. Drivers side. Usa only.",
@@ -2728,30 +2728,30 @@
   },
   {
     "brand": "Acura",
-    "part_number": "77900-TJB-D62",
+    "part_number": "77900-S3V-A01",
     "title": "Clock Spring",
-    "description": "MODULES & SENSORS. with heated steering wheel. RDX. Advance.",
-    "sale_price": "$82.66",
-    "msrp": "$115.96",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900tjbd62"
+    "description": "Without navigation sys. MDX.",
+    "sale_price": "$115.82",
+    "msrp": "$166.70",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900s3va01"
   },
   {
     "brand": "Acura",
-    "part_number": "77900-SEP-A11",
+    "part_number": "13549382",
     "title": "Clock Spring",
-    "description": "TL.",
-    "sale_price": "$136.68",
-    "msrp": "$196.71",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900sepa11"
+    "description": "Modules & sensors, labeled 13549382. ZDX.",
+    "sale_price": "$52.31",
+    "msrp": "$72.17",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-13549382"
   },
   {
     "brand": "Acura",
-    "part_number": "77900-TLA-D62",
+    "part_number": "77900-T20-D21",
     "title": "Clock Spring",
-    "description": "MDX. With advance package. MODULES & SENSORS. with htd. strng wheel. TLX. Modules & sensors, with heated s'wheel. RLX hybrid. All. With...",
-    "sale_price": "$68.84",
-    "msrp": "$96.59",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900tlad62"
+    "description": "Integra. Modules & sensors, without heated s'wheel.",
+    "sale_price": "$36.09",
+    "msrp": "$47.82",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900t20d21"
   },
   {
     "brand": "Acura",
@@ -2827,57 +2827,12 @@
   },
   {
     "brand": "Acura",
-    "part_number": "77900-TJB-D22",
-    "title": "Clock Spring",
-    "description": "MODULES & SENSORS. without heated steering wheel. RDX. A-spec. Base.",
-    "sale_price": "$59.55",
-    "msrp": "$82.17",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900tjbd22"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77900-SJA-A01",
-    "title": "Clock Spring",
-    "description": "RL.",
-    "sale_price": "$629.93",
-    "msrp": "$930.75",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900sjaa01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77900-SEP-A01",
-    "title": "Clock Spring",
-    "description": "TL.",
-    "sale_price": "$160.64",
-    "msrp": "$231.21",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900sepa01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "13558818",
-    "title": "Clock Spring",
-    "description": "Modules & sensors, labeled 13558818.",
-    "sale_price": "$52.84",
-    "msrp": "$72.90",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-13558818"
-  },
-  {
-    "brand": "Acura",
     "part_number": "77900-TA0-C21",
     "title": "Clock Spring",
     "description": "TSX. TL. ZDX.",
     "sale_price": "$153.97",
     "msrp": "$221.60",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900ta0c21"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77900-STK-A02",
-    "title": "Clock Spring",
-    "description": "RDX.",
-    "sale_price": "$116.69",
-    "msrp": "$167.94",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900stka02"
   },
   {
     "brand": "Acura",
@@ -2890,12 +2845,21 @@
   },
   {
     "brand": "Acura",
-    "part_number": "77900-S84-A21",
+    "part_number": "77900-STK-A02",
     "title": "Clock Spring",
-    "description": "CL. All. MDX. 3.2tl.",
-    "sale_price": "$225.39",
-    "msrp": "$324.40",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900s84a21"
+    "description": "RDX.",
+    "sale_price": "$116.69",
+    "msrp": "$167.94",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900stka02"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "13558818",
+    "title": "Clock Spring",
+    "description": "Modules & sensors, labeled 13558818.",
+    "sale_price": "$52.84",
+    "msrp": "$72.90",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-13558818"
   },
   {
     "brand": "Acura",
@@ -2926,6 +2890,42 @@
   },
   {
     "brand": "Acura",
+    "part_number": "77900-S84-A21",
+    "title": "Clock Spring",
+    "description": "CL. All. MDX. 3.2tl.",
+    "sale_price": "$225.39",
+    "msrp": "$324.40",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900s84a21"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77900-SEP-A01",
+    "title": "Clock Spring",
+    "description": "TL.",
+    "sale_price": "$160.64",
+    "msrp": "$231.21",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900sepa01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77900-SJA-A01",
+    "title": "Clock Spring",
+    "description": "RL.",
+    "sale_price": "$629.93",
+    "msrp": "$930.75",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900sjaa01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77900-TR0-A22",
+    "title": "Clock Spring",
+    "description": "Modules & sensors. ILX, ILX Hybrid. RDX.",
+    "sale_price": "$126.41",
+    "msrp": "$181.94",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900tr0a22"
+  },
+  {
+    "brand": "Acura",
     "part_number": "77967-S3M-A10",
     "title": "Harness",
     "description": "CL. 3.2l. Rear. Right.",
@@ -2953,11 +2953,38 @@
   },
   {
     "brand": "Acura",
+    "part_number": "77929-SG0-A84ZA",
+    "title": "Driver Air Bag",
+    "description": "Usa only.",
+    "sale_price": "$719.79",
+    "msrp": "$1,063.52",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-77929sg0a84za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-SL5-A81ZA",
+    "title": "Passenger Air Bag",
+    "description": "Black.",
+    "sale_price": "$1,386.85",
+    "msrp": "$2,049.13",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-air-bag-6780sl5a81za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-SY8-A80ZB",
+    "title": "Passenger Air Bag",
+    "description": "Quartz gray.",
+    "sale_price": "$650.07",
+    "msrp": "$960.50",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-air-bag-6780sy8a80zb"
+  },
+  {
+    "brand": "Acura",
     "part_number": "06780-SW5-A90ZB",
     "title": "Passenger Air Bag",
     "description": "Taupe.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$1,386.85",
+    "msrp": "$2,049.13",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-air-bag-6780sw5a90zb"
   },
   {
@@ -2965,8 +2992,8 @@
     "part_number": "06770-SP0-A92ZB",
     "title": "Driver Air Bag",
     "description": "",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$924.75",
+    "msrp": "$1,366.36",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sp0a92zb"
   },
   {
@@ -2974,8 +3001,8 @@
     "part_number": "06770-SL5-A91ZC",
     "title": "Driver Air Bag",
     "description": "Brown.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$735.84",
+    "msrp": "$1,087.24",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sl5a91zc"
   },
   {
@@ -2983,8 +3010,8 @@
     "part_number": "06780-SL5-A81ZB",
     "title": "Passenger Air Bag",
     "description": "Palmy gray.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$1,471.01",
+    "msrp": "$2,173.49",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-air-bag-6780sl5a81zb"
   },
   {
@@ -2992,17 +3019,53 @@
     "part_number": "06770-SL5-A90ZB",
     "title": "Driver Air Bag",
     "description": "Palmy gray.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$500.75",
+    "msrp": "$726.99",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sl5a90zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SZ5-A80ZA",
+    "title": "Driver Air Bag",
+    "description": "3.2L, gray. 3.2tl.",
+    "sale_price": "$574.63",
+    "msrp": "$849.04",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sz5a80za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SW5-A81ZB",
+    "title": "Driver Air Bag",
+    "description": "2.5L, taupe. 2.5tl.",
+    "sale_price": "$574.63",
+    "msrp": "$849.04",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sw5a81zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77961-SV4-A84",
+    "title": "Air Bag Harness",
+    "description": "2.2cl. 2.3cl. CL. 2.2l. CL. 2.3l.",
+    "sale_price": "$409.84",
+    "msrp": "$595.00",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-harness-77961sv4a84"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SL5-A91ZA",
+    "title": "Driver Air Bag",
+    "description": "Black. Vigor.",
+    "sale_price": "$924.75",
+    "msrp": "$1,366.36",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sl5a91za"
   },
   {
     "brand": "Acura",
     "part_number": "06780-SL5-A80ZC",
     "title": "Passenger Air Bag",
     "description": "Cognac.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$1,386.85",
+    "msrp": "$2,049.13",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-air-bag-6780sl5a80zc"
   },
   {
@@ -3010,80 +3073,17 @@
     "part_number": "06780-SW5-A84ZB",
     "title": "Passenger Air Bag",
     "description": "Taupe.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$1,386.85",
+    "msrp": "$2,049.13",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-air-bag-6780sw5a84zb"
   },
   {
     "brand": "Acura",
-    "part_number": "06780-SW5-A84ZA",
-    "title": "Passenger Air Bag",
-    "description": "Gray. 2.5tl. 3.2tl.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-air-bag-6780sw5a84za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-SL5-A81ZE",
-    "title": "Passenger Air Bag",
-    "description": "Brown.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-air-bag-6780sl5a81ze"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77961-SV7-A83",
-    "title": "Air Bag Harness",
-    "description": "3.0cl. CL. 3.0l.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-harness-77961sv7a83"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-SW5-A90ZA",
-    "title": "Passenger Air Bag",
-    "description": "Gray. 3.2tl. 2.5tl.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-air-bag-6780sw5a90za"
-  },
-  {
-    "brand": "Acura",
     "part_number": "06780-SL5-A81ZC",
     "title": "Passenger Air Bag",
     "description": "Cognac.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-air-bag-6780sl5a81zc"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SZ5-A80ZA",
-    "title": "Driver Air Bag",
-    "description": "3.2L, gray. 3.2tl.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sz5a80za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SW5-A81ZB",
-    "title": "Driver Air Bag",
-    "description": "2.5L, taupe. 2.5tl.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sw5a81zb"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-SL5-A81ZC",
-    "title": "Passenger Air Bag",
-    "description": "Cognac.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$1,386.85",
+    "msrp": "$2,049.13",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-air-bag-6780sl5a81zc"
   },
   {
@@ -3091,8 +3091,8 @@
     "part_number": "77961-SV4-A84",
     "title": "Air Bag Harness",
     "description": "2.2cl. 2.3cl. CL. 2.2l. CL. 2.3l.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$409.84",
+    "msrp": "$595.00",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-harness-77961sv4a84"
   },
   {
@@ -3100,8 +3100,8 @@
     "part_number": "06770-SZ5-A80ZA",
     "title": "Driver Air Bag",
     "description": "3.2L, gray. 3.2tl.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$574.63",
+    "msrp": "$849.04",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sz5a80za"
   },
   {
@@ -3109,8 +3109,8 @@
     "part_number": "06770-SW5-A81ZB",
     "title": "Driver Air Bag",
     "description": "2.5L, taupe. 2.5tl.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$574.63",
+    "msrp": "$849.04",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sw5a81zb"
   },
   {
@@ -3118,269 +3118,17 @@
     "part_number": "06770-SL5-A91ZA",
     "title": "Driver Air Bag",
     "description": "Black. Vigor.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$924.75",
+    "msrp": "$1,366.36",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-driver-air-bag-6770sl5a91za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SZ3-A90ZB",
-    "title": "Steering Wheel Air Bag",
-    "description": "1996-98. without SE gray.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sz3a90zb"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-SZ3-A80ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "1996-98, without se, black. 3.5rl.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sz3a80za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-ST7-A90ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "1996-01, graphite. Integra.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780st7a90za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SZ3-A92ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "1996-98. without SE black.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sz3a92za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "39050-SEC-L01ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "Center module assembly without navigation system. without wood.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050secl01za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77820-SJA-A51",
-    "title": "Instrument Panel Air Bag",
-    "description": "RL.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820sjaa51"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-S0K-A91",
-    "title": "Air Bag Wiring Harness",
-    "description": "3.2tl. Floor harness. Without navigation system.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962s0ka91"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-ST7-A80ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "1994-95, graphite. Integra.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780st7a80za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77963-S3V-A11",
-    "title": "Air Bag Wiring Harness",
-    "description": "Front.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77963s3va11"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-SZ3-A91",
-    "title": "Air Bag Wiring Harness",
-    "description": "1999-04. floor.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962sz3a91"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-SEA-G11",
-    "title": "Air Bag Wiring Harness",
-    "description": "Auto trans.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962seag11"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-SJA-A80",
-    "title": "Instrument Panel Air Bag",
-    "description": "RL.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sjaa80"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-SEA-G01",
-    "title": "Air Bag Wiring Harness",
-    "description": "Manual trans.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962seag01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77961-S3V-A00",
-    "title": "Air Bag Wiring Harness",
-    "description": "Front.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961s3va00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SZ3-A50ZD",
-    "title": "Steering Wheel Air Bag",
-    "description": "1999-04. lapis.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sz3a50zd"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SZ3-A92ZC",
-    "title": "Steering Wheel Air Bag",
-    "description": "1996-98. SE taupe.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sz3a92zc"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-ST7-305ZA",
-    "title": "Steering Wheel Air Bag",
-    "description": "Integra. 1994-95. taupe.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770st7305za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77923-S6M-A00",
-    "title": "Air Bag Wiring Harness",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77923s6ma00"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-S3V-A80ZB",
-    "title": "Instrument Panel Air Bag",
-    "description": "Saddle.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s3va80zb"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-SZ3-A80ZB",
-    "title": "Instrument Panel Air Bag",
-    "description": "1996-98, without se, gray.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sz3a80zb"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-SL0-A91ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sl0a91za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06770-SY8-A90ZC",
-    "title": "Steering Wheel Air Bag",
-    "description": "Dark fern.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sy8a90zc"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "39050-SEC-L41ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "Center module assembly with navigation system. without wood.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050secl41za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-SEA-G02",
-    "title": "Air Bag Wiring Harness",
-    "description": "Manual trans.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962seag02"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "39050-SEC-L51ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "Center module assembly with navigation system. with wood.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050secl51za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77964-S3V-A01",
-    "title": "Air Bag Wiring Harness",
-    "description": "Side.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77964s3va01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "8-97159-609-1",
-    "title": "Instrument Panel Air Bag",
-    "description": "SLX. Passenger side.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-8971596091"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77961-S0K-A80",
-    "title": "Air Bag Wiring Harness",
-    "description": "Main. 3.2tl.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961s0ka80"
   },
   {
     "brand": "Acura",
     "part_number": "39050-SEC-A12ZA",
     "title": "Instrument Panel Air Bag",
     "description": "Center module assembly without navigation system. with wood.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$4,563.76",
+    "msrp": "$6,743.15",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050seca12za"
   },
   {
@@ -3388,8 +3136,8 @@
     "part_number": "77962-STK-A02",
     "title": "Air Bag Wiring Harness",
     "description": "",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$213.92",
+    "msrp": "$307.88",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962stka02"
   },
   {
@@ -3397,35 +3145,107 @@
     "part_number": "77961-S0K-A81",
     "title": "Air Bag Wiring Harness",
     "description": "3.2tl. Main harness.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$84.73",
+    "msrp": "$118.87",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961s0ka81"
   },
   {
     "brand": "Acura",
-    "part_number": "77923-S6M-A00",
-    "title": "Air Bag Wiring Harness",
-    "description": "",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77923s6ma00"
+    "part_number": "06770-ST7-A81ZB",
+    "title": "Steering Wheel Air Bag",
+    "description": "Integra. 1996-01. taupe.",
+    "sale_price": "$591.73",
+    "msrp": "$874.30",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770st7a81zb"
   },
   {
     "brand": "Acura",
-    "part_number": "06780-S3V-A80ZB",
+    "part_number": "77961-S3V-A01",
+    "title": "Air Bag Wiring Harness",
+    "description": "Front.",
+    "sale_price": "$76.23",
+    "msrp": "$106.95",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961s3va01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SZ3-A50ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "1999-04. black.",
+    "sale_price": "$917.63",
+    "msrp": "$1,355.84",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sz3a50za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77961-ST7-A80",
+    "title": "Air Bag Wiring Harness",
+    "description": "1994-95. Integra.",
+    "sale_price": "$180.18",
+    "msrp": "$259.34",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961st7a80"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SZ3-A90ZB",
+    "title": "Steering Wheel Air Bag",
+    "description": "1996-98. without SE gray.",
+    "sale_price": "$692.64",
+    "msrp": "$1,023.40",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sz3a90zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-SZ3-A80ZA",
     "title": "Instrument Panel Air Bag",
-    "description": "Saddle.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s3va80zb"
+    "description": "1996-98, without se, black. 3.5rl.",
+    "sale_price": "$1,584.99",
+    "msrp": "$2,341.89",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sz3a80za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-ST7-A90ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "1996-01, graphite. Integra.",
+    "sale_price": "$1,386.85",
+    "msrp": "$2,049.13",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780st7a90za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SZ3-A92ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "1996-98. without SE black.",
+    "sale_price": "$774.48",
+    "msrp": "$1,144.34",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sz3a92za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "39050-SEC-L01ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "Center module assembly without navigation system. without wood.",
+    "sale_price": "$3,669.36",
+    "msrp": "$5,421.64",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050secl01za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77820-SJA-A51",
+    "title": "Instrument Panel Air Bag",
+    "description": "RL.",
+    "sale_price": "$1,772.03",
+    "msrp": "$2,618.25",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820sjaa51"
   },
   {
     "brand": "Acura",
     "part_number": "06780-SZ3-A80ZB",
     "title": "Instrument Panel Air Bag",
     "description": "1996-98, without se, gray.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$1,584.99",
+    "msrp": "$2,341.89",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sz3a80zb"
   },
   {
@@ -3433,8 +3253,8 @@
     "part_number": "06780-SL0-A91ZA",
     "title": "Instrument Panel Air Bag",
     "description": "",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$1,584.99",
+    "msrp": "$2,341.89",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sl0a91za"
   },
   {
@@ -3442,8 +3262,8 @@
     "part_number": "06770-SY8-A90ZC",
     "title": "Steering Wheel Air Bag",
     "description": "Dark fern.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$708.28",
+    "msrp": "$1,046.52",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sy8a90zc"
   },
   {
@@ -3451,8 +3271,8 @@
     "part_number": "39050-SEC-L41ZA",
     "title": "Instrument Panel Air Bag",
     "description": "Center module assembly with navigation system. without wood.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$7,627.13",
+    "msrp": "$11,269.40",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050secl41za"
   },
   {
@@ -3460,8 +3280,8 @@
     "part_number": "77962-SEA-G02",
     "title": "Air Bag Wiring Harness",
     "description": "Manual trans.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$148.84",
+    "msrp": "$214.22",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962seag02"
   },
   {
@@ -3469,8 +3289,8 @@
     "part_number": "39050-SEC-L51ZA",
     "title": "Instrument Panel Air Bag",
     "description": "Center module assembly with navigation system. with wood.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$7,748.20",
+    "msrp": "$11,448.29",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050secl51za"
   },
   {
@@ -3478,8 +3298,8 @@
     "part_number": "77964-S3V-A01",
     "title": "Air Bag Wiring Harness",
     "description": "Side.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$72.10",
+    "msrp": "$101.15",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77964s3va01"
   },
   {
@@ -3487,8 +3307,8 @@
     "part_number": "8-97159-609-1",
     "title": "Instrument Panel Air Bag",
     "description": "SLX. Passenger side.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$999.85",
+    "msrp": "$1,477.31",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-8971596091"
   },
   {
@@ -3496,44 +3316,143 @@
     "part_number": "77961-S0K-A80",
     "title": "Air Bag Wiring Harness",
     "description": "Main. 3.2tl.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$125.26",
+    "msrp": "$180.28",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961s0ka80"
   },
   {
     "brand": "Acura",
-    "part_number": "06770-SY8-A90ZD",
+    "part_number": "06770-SZ3-A90ZB",
     "title": "Steering Wheel Air Bag",
-    "description": "Black. MDX. 3.2tl.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sy8a90zd"
+    "description": "1996-98. without SE gray.",
+    "sale_price": "$692.64",
+    "msrp": "$1,023.40",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sz3a90zb"
   },
   {
     "brand": "Acura",
-    "part_number": "39050-SEC-L11ZA",
+    "part_number": "06780-SZ3-A80ZA",
     "title": "Instrument Panel Air Bag",
-    "description": "Center module assembly without navigation system. with wood.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050secl11za"
+    "description": "1996-98, without se, black. 3.5rl.",
+    "sale_price": "$1,584.99",
+    "msrp": "$2,341.89",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sz3a80za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-ST7-A90ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "1996-01, graphite. Integra.",
+    "sale_price": "$1,386.85",
+    "msrp": "$2,049.13",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780st7a90za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SZ3-A92ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "1996-98. without SE black.",
+    "sale_price": "$774.48",
+    "msrp": "$1,144.34",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sz3a92za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "39050-SEC-L01ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "Center module assembly without navigation system. without wood.",
+    "sale_price": "$3,669.36",
+    "msrp": "$5,421.64",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050secl01za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77820-SJA-A51",
+    "title": "Instrument Panel Air Bag",
+    "description": "RL.",
+    "sale_price": "$1,772.03",
+    "msrp": "$2,618.25",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-77820sjaa51"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-S0K-A91",
+    "title": "Air Bag Wiring Harness",
+    "description": "3.2tl. Floor harness. Without navigation system.",
+    "sale_price": "$78.47",
+    "msrp": "$110.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962s0ka91"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-ST7-A80ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "1994-95, graphite. Integra.",
+    "sale_price": "$1,386.85",
+    "msrp": "$2,049.13",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780st7a80za"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77963-S3V-A11",
+    "title": "Air Bag Wiring Harness",
+    "description": "Front.",
+    "sale_price": "$145.78",
+    "msrp": "$209.82",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77963s3va11"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-SEP-A00",
+    "title": "Air Bag Wiring Harness",
+    "description": "",
+    "sale_price": "$74.01",
+    "msrp": "$103.84",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962sepa00"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-ST7-A90ZB",
+    "title": "Instrument Panel Air Bag",
+    "description": "1996-01, taupe.",
+    "sale_price": "$1,386.85",
+    "msrp": "$2,049.13",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780st7a90zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77961-SL0-A85",
+    "title": "Air Bag Wiring Harness",
+    "description": "",
+    "sale_price": "$508.12",
+    "msrp": "$737.69",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961sl0a85"
   },
   {
     "brand": "Acura",
     "part_number": "06770-ST7-A81ZC",
     "title": "Steering Wheel Air Bag",
     "description": "1996-01. graphite.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$591.73",
+    "msrp": "$874.30",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770st7a81zc"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SY8-A90ZD",
+    "title": "Steering Wheel Air Bag",
+    "description": "Black. MDX. 3.2tl.",
+    "sale_price": "$708.28",
+    "msrp": "$1,046.52",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sy8a90zd"
   },
   {
     "brand": "Acura",
     "part_number": "06780-SL0-A70ZA",
     "title": "Instrument Panel Air Bag",
     "description": "",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$1,584.99",
+    "msrp": "$2,341.89",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sl0a70za"
   },
   {
@@ -3541,8 +3460,8 @@
     "part_number": "77961-S0K-A82",
     "title": "Air Bag Wiring Harness",
     "description": "3.2tl. Main harness.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$82.34",
+    "msrp": "$115.52",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961s0ka82"
   },
   {
@@ -3550,8 +3469,8 @@
     "part_number": "77965-S3V-A01",
     "title": "Air Bag Wiring Harness",
     "description": "Side.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$44.53",
+    "msrp": "$61.44",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77965s3va01"
   },
   {
@@ -3559,53 +3478,35 @@
     "part_number": "06770-S6M-A80ZB",
     "title": "Steering Wheel Air Bag",
     "description": "Titanium.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$1,163.59",
+    "msrp": "$1,719.25",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770s6ma80zb"
   },
   {
     "brand": "Acura",
-    "part_number": "77962-SEA-G11",
-    "title": "Air Bag Wiring Harness",
-    "description": "Auto trans.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962seag11"
+    "part_number": "06770-SZ3-A50ZB",
+    "title": "Steering Wheel Air Bag",
+    "description": "1999-04. gray.",
+    "sale_price": "$917.63",
+    "msrp": "$1,355.84",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sz3a50zb"
   },
   {
     "brand": "Acura",
-    "part_number": "06780-SJA-A80",
+    "part_number": "39050-SEC-L11ZA",
     "title": "Instrument Panel Air Bag",
-    "description": "RL.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sjaa80"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77962-SEA-G01",
-    "title": "Air Bag Wiring Harness",
-    "description": "Manual trans.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962seag01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-SZ3-A10ZA",
-    "title": "Instrument Panel Air Bag",
-    "description": "1999-04, black.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sz3a10za"
+    "description": "Center module assembly without navigation system. with wood.",
+    "sale_price": "$4,441.31",
+    "msrp": "$6,562.22",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050secl11za"
   },
   {
     "brand": "Acura",
     "part_number": "77961-S3V-A00",
     "title": "Air Bag Wiring Harness",
     "description": "Front.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$93.36",
+    "msrp": "$130.98",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961s3va00"
   },
   {
@@ -3613,8 +3514,8 @@
     "part_number": "06770-SZ3-A50ZD",
     "title": "Steering Wheel Air Bag",
     "description": "1999-04. lapis.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$774.48",
+    "msrp": "$1,144.34",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sz3a50zd"
   },
   {
@@ -3622,8 +3523,8 @@
     "part_number": "06770-SZ3-A92ZC",
     "title": "Steering Wheel Air Bag",
     "description": "1996-98. SE taupe.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$729.12",
+    "msrp": "$1,077.31",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sz3a92zc"
   },
   {
@@ -3631,8 +3532,8 @@
     "part_number": "06770-ST7-305ZA",
     "title": "Steering Wheel Air Bag",
     "description": "Integra. 1994-95. taupe.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$591.73",
+    "msrp": "$874.30",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770st7305za"
   },
   {
@@ -3640,8 +3541,8 @@
     "part_number": "77923-S6M-A00",
     "title": "Air Bag Wiring Harness",
     "description": "",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$32.67",
+    "msrp": "$43.29",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77923s6ma00"
   },
   {
@@ -3649,8 +3550,8 @@
     "part_number": "06780-S3V-A80ZB",
     "title": "Instrument Panel Air Bag",
     "description": "Saddle.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$933.83",
+    "msrp": "$1,379.77",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s3va80zb"
   },
   {
@@ -3658,8 +3559,8 @@
     "part_number": "06780-SZ3-A80ZB",
     "title": "Instrument Panel Air Bag",
     "description": "1996-98, without se, gray.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$1,584.99",
+    "msrp": "$2,341.89",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sz3a80zb"
   },
   {
@@ -3667,8 +3568,8 @@
     "part_number": "06780-SL0-A91ZA",
     "title": "Instrument Panel Air Bag",
     "description": "",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$1,584.99",
+    "msrp": "$2,341.89",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sl0a91za"
   },
   {
@@ -3676,26 +3577,44 @@
     "part_number": "06770-SY8-A90ZC",
     "title": "Steering Wheel Air Bag",
     "description": "Dark fern.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$708.28",
+    "msrp": "$1,046.52",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sy8a90zc"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "39050-SEC-L41ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "Center module assembly with navigation system. without wood.",
+    "sale_price": "$7,627.13",
+    "msrp": "$11,269.40",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050secl41za"
   },
   {
     "brand": "Acura",
     "part_number": "77962-SEA-G02",
     "title": "Air Bag Wiring Harness",
     "description": "Manual trans.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$148.84",
+    "msrp": "$214.22",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962seag02"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "39050-SEC-L51ZA",
+    "title": "Instrument Panel Air Bag",
+    "description": "Center module assembly with navigation system. with wood.",
+    "sale_price": "$7,748.20",
+    "msrp": "$11,448.29",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050secl51za"
   },
   {
     "brand": "Acura",
     "part_number": "77964-S3V-A01",
     "title": "Air Bag Wiring Harness",
     "description": "Side.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$72.10",
+    "msrp": "$101.15",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77964s3va01"
   },
   {
@@ -3703,8 +3622,8 @@
     "part_number": "8-97159-609-1",
     "title": "Instrument Panel Air Bag",
     "description": "SLX. Passenger side.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$999.85",
+    "msrp": "$1,477.31",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-8971596091"
   },
   {
@@ -3712,89 +3631,134 @@
     "part_number": "77961-S0K-A80",
     "title": "Air Bag Wiring Harness",
     "description": "Main. 3.2tl.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$125.26",
+    "msrp": "$180.28",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961s0ka80"
   },
   {
     "brand": "Acura",
-    "part_number": "39050-SEC-L41ZA",
+    "part_number": "06780-S0K-A81ZB",
     "title": "Instrument Panel Air Bag",
-    "description": "Center module assembly with navigation system. without wood.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050secl41za"
+    "description": "Black. CL. 3.2tl.",
+    "sale_price": "$934.72",
+    "msrp": "$1,381.08",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780s0ka81zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-SEA-G00",
+    "title": "Air Bag Wiring Harness",
+    "description": "Manual trans.",
+    "sale_price": "$124.15",
+    "msrp": "$178.69",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962seag00"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-SZ3-A80ZC",
+    "title": "Instrument Panel Air Bag",
+    "description": "1996-98, without se, taupe.",
+    "sale_price": "$1,584.99",
+    "msrp": "$2,341.89",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sz3a80zc"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06780-SZ3-A82ZB",
+    "title": "Instrument Panel Air Bag",
+    "description": "1996-98, se, gray.",
+    "sale_price": "$1,584.99",
+    "msrp": "$2,341.89",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-6780sz3a82zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SY8-A90ZE",
+    "title": "Steering Wheel Air Bag",
+    "description": "Saddle.",
+    "sale_price": "$708.28",
+    "msrp": "$1,046.52",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sy8a90ze"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77962-SEA-G12",
+    "title": "Air Bag Wiring Harness",
+    "description": "Auto trans.",
+    "sale_price": "$148.84",
+    "msrp": "$214.22",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77962seag12"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77965-S3V-A02",
+    "title": "Air Bag Wiring Harness",
+    "description": "Side.",
+    "sale_price": "$82.00",
+    "msrp": "$115.03",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77965s3va02"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-ST7-305ZB",
+    "title": "Steering Wheel Air Bag",
+    "description": "1994-95. graphite.",
+    "sale_price": "$591.73",
+    "msrp": "$874.30",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770st7305zb"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77961-ST7-A90",
+    "title": "Air Bag Wiring Harness",
+    "description": "1996-01. Integra.",
+    "sale_price": "$417.93",
+    "msrp": "$606.75",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-air-bag-wiring-harness-77961st7a90"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "06770-SZ3-A90ZA",
+    "title": "Steering Wheel Air Bag",
+    "description": "1996-98. without SE black. 3.5rl.",
+    "sale_price": "$729.12",
+    "msrp": "$1,077.31",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-steering-wheel-air-bag-6770sz3a90za"
   },
   {
     "brand": "Acura",
     "part_number": "39050-SEC-L11ZA",
     "title": "Instrument Panel Air Bag",
     "description": "Center module assembly without navigation system. with wood.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$4,441.31",
+    "msrp": "$6,562.22",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-instrument-panel-air-bag-39050secl11za"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "78050-STK-A80",
-    "title": "Side Impact Inflator Module",
-    "description": "RDX. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-78050stka80"
   },
   {
     "brand": "Acura",
     "part_number": "78055-STK-A80",
     "title": "Side Impact Inflator Module",
     "description": "RDX. Left.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$207.98",
+    "msrp": "$299.34",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-78055stka80"
   },
   {
     "brand": "Acura",
-    "part_number": "77900-S3V-A11",
-    "title": "Clock Spring",
-    "description": "With navigation sys.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900s3va11"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77900-SZ3-A03",
-    "title": "Clock Spring",
-    "description": "1999-04.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900sz3a03"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "77900-ST7-A01",
-    "title": "Clock Spring",
-    "description": "Integra. 1996-01, ls, se, gs-r, gs.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900st7a01"
-  },
-  {
-    "brand": "Acura",
-    "part_number": "06780-SP0-A93ZA",
-    "title": "Passenger Inflator Module",
-    "description": "Passenger side. Legend.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-inflator-module-6780sp0a93za"
+    "part_number": "78050-STK-A80",
+    "title": "Side Impact Inflator Module",
+    "description": "RDX. Right.",
+    "sale_price": "$207.98",
+    "msrp": "$299.34",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-side-impact-inflator-module-78050stka80"
   },
   {
     "brand": "Acura",
     "part_number": "77900-SL0-A81",
     "title": "Clock Spring",
     "description": "Ns-x.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$421.64",
+    "msrp": "$612.14",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900sl0a81"
   },
   {
@@ -3802,8 +3766,8 @@
     "part_number": "77900-SZ3-A01",
     "title": "Clock Spring",
     "description": "1996-98. 3.5rl.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$405.89",
+    "msrp": "$589.28",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900sz3a01"
   },
   {
@@ -3811,53 +3775,53 @@
     "part_number": "77900-SZ3-A02",
     "title": "Clock Spring",
     "description": "1996-98.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$405.89",
+    "msrp": "$589.28",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900sz3a02"
   },
   {
     "brand": "Acura",
-    "part_number": "77900-SR3-A01",
+    "part_number": "77900-S3V-A11",
     "title": "Clock Spring",
-    "description": "1994-95. Rs. Integra.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900sr3a01"
+    "description": "With navigation sys.",
+    "sale_price": "$125.38",
+    "msrp": "$180.45",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900s3va11"
   },
   {
     "brand": "Acura",
-    "part_number": "77900-S84-A51",
+    "part_number": "77900-SZ3-A03",
     "title": "Clock Spring",
-    "description": "3.2tl. CL.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900s84a51"
+    "description": "1999-04.",
+    "sale_price": "$430.51",
+    "msrp": "$625.03",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900sz3a03"
   },
   {
     "brand": "Acura",
-    "part_number": "13555885",
+    "part_number": "77900-ST7-A01",
     "title": "Clock Spring",
-    "description": "Modules & sensors, labeled 13555885.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-13555885"
+    "description": "Integra. 1996-01, ls, se, gs-r, gs.",
+    "sale_price": "$382.57",
+    "msrp": "$555.43",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900st7a01"
   },
   {
     "brand": "Acura",
-    "part_number": "77900-ST7-A11",
-    "title": "Clock Spring",
-    "description": "1996-01. Integra. Type r. Rs.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900st7a11"
+    "part_number": "06780-SP0-A93ZA",
+    "title": "Passenger Inflator Module",
+    "description": "Passenger side. Legend.",
+    "sale_price": "$1,584.99",
+    "msrp": "$2,341.89",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-passenger-inflator-module-6780sp0a93za"
   },
   {
     "brand": "Acura",
     "part_number": "77900-SR3-A81",
     "title": "Clock Spring",
     "description": "Integra. 1994-95, ls, se & gs-r.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$331.65",
+    "msrp": "$477.33",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900sr3a81"
   },
   {
@@ -3865,17 +3829,53 @@
     "part_number": "77900-S6M-A01",
     "title": "Clock Spring",
     "description": "RSX.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$297.61",
+    "msrp": "$428.34",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900s6ma01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77900-SR3-A01",
+    "title": "Clock Spring",
+    "description": "1994-95. Rs. Integra.",
+    "sale_price": "$331.65",
+    "msrp": "$477.33",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900sr3a01"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77900-S84-A51",
+    "title": "Clock Spring",
+    "description": "3.2tl. CL.",
+    "sale_price": "$154.55",
+    "msrp": "$222.42",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900s84a51"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "13555885",
+    "title": "Clock Spring",
+    "description": "Modules & sensors, labeled 13555885.",
+    "sale_price": "$52.31",
+    "msrp": "$72.17",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-13555885"
+  },
+  {
+    "brand": "Acura",
+    "part_number": "77900-ST7-A11",
+    "title": "Clock Spring",
+    "description": "1996-01. Integra. Type r. Rs.",
+    "sale_price": "$129.93",
+    "msrp": "$187.00",
+    "url": "https://acura.oempartsonline.com/oem-parts/acura-clock-spring-77900st7a11"
   },
   {
     "brand": "Acura",
     "part_number": "81312-S87-000",
     "title": "Power Seat Wiring Harness",
     "description": "Passenger seat.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$21.70",
+    "msrp": "$28.75",
     "url": "https://acura.oempartsonline.com/oem-parts/acura-power-seat-wiring-harness-81312s87000"
   }
 ]
