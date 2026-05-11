@@ -1,165 +1,12 @@
 [
   {
     "brand": "Mitsubishi",
-    "part_number": "7030A235",
-    "title": "Passenger Air Bag",
-    "description": "Air bags. From 10/12. Outlander Sport. To 10/12.",
-    "sale_price": "$875.66",
-    "msrp": "$1,192.18",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-air-bag-7030a235"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "98515W150P",
-    "title": "Passenger Air Bag",
-    "description": "Air bags, without hybrid.",
-    "sale_price": "$902.28",
-    "msrp": "$1,228.43",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-air-bag-98515w150p"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A316YA",
-    "title": "Knee Air Bag",
-    "description": "Outlander. Beige.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-air-bag-7030a316ya"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A648XA",
-    "title": "Driver Air Bag",
-    "description": "Eclipse Cross. Air bags, without hybrid. Outlander.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-7030a648xa"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A561XA",
-    "title": "Knee Air Bag",
-    "description": "Air bags. Mirage, Mirage G4. Outlander Sport. From 10/12. Left. Black.",
-    "sale_price": "$407.70",
-    "msrp": "$601.34",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-air-bag-7030a561xa"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "985H0W000P",
-    "title": "Seat Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$279.23",
-    "msrp": "$411.85",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-seat-air-bag-985h0w000p"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A514",
+    "part_number": "7030A624",
     "title": "Head Air Bag",
-    "description": "Air bags. Outlander Sport. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a514"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A513",
-    "title": "Head Air Bag",
-    "description": "Air bags. Outlander Sport. Left.",
-    "sale_price": "$609.58",
-    "msrp": "$829.92",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a513"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A642",
-    "title": "Head Air Bag",
-    "description": "Air bags. Eclipse Cross. Right.",
-    "sale_price": "$386.82",
-    "msrp": "$570.54",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a642"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A623",
-    "title": "Head Air Bag",
-    "description": "Air bags, hatchback. Mirage. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a623"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A561HA",
-    "title": "Knee Air Bag",
-    "description": "Outlander Sport. Left. Gray.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-air-bag-7030a561ha"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "985H1W000P",
-    "title": "Seat Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$279.23",
-    "msrp": "$411.85",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-seat-air-bag-985h1w000p"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A237",
-    "title": "Head Air Bag",
-    "description": "Lancer. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a237"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A313",
-    "title": "Passenger Air Bag",
-    "description": "Air bags. Outlander PHEV.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-air-bag-7030a313"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "98510W161P",
-    "title": "Driver Air Bag",
-    "description": "Air bags, without hybrid.",
-    "sale_price": "$583.22",
-    "msrp": "$860.20",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-98510w161p"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A653XA",
-    "title": "Driver Air Bag",
-    "description": "Air bags. Front. Left. Mirage G4.",
-    "sale_price": "$1,001.65",
-    "msrp": "$1,363.73",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-7030a653xa"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "CBXZP811AA",
-    "title": "Air Bag Module",
-    "description": "AIR BAG MODULE",
-    "sale_price": "$37.67",
-    "msrp": "$49.45",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-air-bag-module-cbxzp811aa"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030B006XA",
-    "title": "Driver Air Bag",
-    "description": "Outlander PHEV. Air bags. with hybrid.",
-    "sale_price": "$675.18",
-    "msrp": "$919.23",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-7030b006xa"
+    "description": "Air bags, hatchback. Mirage. Left.",
+    "sale_price": "$690.25",
+    "msrp": "$939.75",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a624"
   },
   {
     "brand": "Mitsubishi",
@@ -175,8 +22,8 @@
     "part_number": "7030A332XA",
     "title": "Driver Air Bag",
     "description": "Lancer. Without turbo.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$797.34",
+    "msrp": "$1,085.55",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-7030a332xa"
   },
   {
@@ -220,8 +67,8 @@
     "part_number": "7030A408XA",
     "title": "Module, Air Bag",
     "description": "MODULE,AIR BAG",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$875.23",
+    "msrp": "$1,191.61",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-air-bag-7030a408xa"
   },
   {
@@ -229,27 +76,261 @@
     "part_number": "7030A105XA",
     "title": "Module, Air Bag",
     "description": "MODULE,AIR BAG",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$730.45",
+    "msrp": "$994.49",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-air-bag-7030a105xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030B006XA",
+    "title": "Driver Air Bag",
+    "description": "Outlander PHEV. Air bags. with hybrid.",
+    "sale_price": "$675.18",
+    "msrp": "$919.23",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-7030b006xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "985B4W061P",
+    "title": "Knee Air Bag",
+    "description": "Air bags, without hybrid.",
+    "sale_price": "$412.95",
+    "msrp": "$609.07",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-air-bag-985b4w061p"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A641",
+    "title": "Head Air Bag",
+    "description": "Air bags. Eclipse Cross. Left.",
+    "sale_price": "$386.82",
+    "msrp": "$570.54",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a641"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A635XA",
+    "title": "Knee Air Bag",
+    "description": "Air bags. Eclipse Cross.",
+    "sale_price": "$431.52",
+    "msrp": "$636.46",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-air-bag-7030a635xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A235",
+    "title": "Passenger Air Bag",
+    "description": "Air bags. From 10/12. Outlander Sport. To 10/12.",
+    "sale_price": "$875.66",
+    "msrp": "$1,192.18",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-air-bag-7030a235"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "98515W150P",
+    "title": "Passenger Air Bag",
+    "description": "Air bags, without hybrid.",
+    "sale_price": "$902.28",
+    "msrp": "$1,228.43",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-air-bag-98515w150p"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A316YA",
+    "title": "Knee Air Bag",
+    "description": "Outlander. Beige.",
+    "sale_price": "$694.63",
+    "msrp": "$945.72",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-air-bag-7030a316ya"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A648XA",
+    "title": "Driver Air Bag",
+    "description": "Eclipse Cross. Air bags, without hybrid. Outlander.",
+    "sale_price": "$556.65",
+    "msrp": "$821.02",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-7030a648xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A561XA",
+    "title": "Knee Air Bag",
+    "description": "Air bags. Mirage, Mirage G4. Outlander Sport. From 10/12. Left. Black.",
+    "sale_price": "$407.70",
+    "msrp": "$601.34",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-air-bag-7030a561xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "98510W161P",
+    "title": "Driver Air Bag",
+    "description": "Air bags, without hybrid.",
+    "sale_price": "$583.22",
+    "msrp": "$860.20",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-98510w161p"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A653XA",
+    "title": "Driver Air Bag",
+    "description": "Air bags. Front. Left. Mirage G4.",
+    "sale_price": "$1,001.65",
+    "msrp": "$1,363.73",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-7030a653xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "CBXZP811AA",
+    "title": "Air Bag Module",
+    "description": "AIR BAG MODULE",
+    "sale_price": "$37.67",
+    "msrp": "$49.45",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-air-bag-module-cbxzp811aa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A624",
+    "title": "Head Air Bag",
+    "description": "Air bags, hatchback. Mirage. Left.",
+    "sale_price": "$690.25",
+    "msrp": "$939.75",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a624"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A731",
+    "title": "Head Air Bag",
+    "description": "Air bags, sedan. Mirage G4. Left.",
+    "sale_price": "$877.39",
+    "msrp": "$1,194.54",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a731"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A332XA",
+    "title": "Driver Air Bag",
+    "description": "Lancer. Without turbo.",
+    "sale_price": "$797.34",
+    "msrp": "$1,085.55",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-7030a332xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A631",
+    "title": "Passenger Air Bag",
+    "description": "Air bags. Eclipse Cross.",
+    "sale_price": "$854.57",
+    "msrp": "$1,163.48",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-air-bag-7030a631"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A900",
+    "title": "Head Air Bag",
+    "description": "Air bags. Right. Outlander PHEV.",
+    "sale_price": "$715.93",
+    "msrp": "$947.47",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a900"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A364",
+    "title": "Head Air Bag",
+    "description": "Air bags. Right. Outlander PHEV.",
+    "sale_price": "$559.18",
+    "msrp": "$824.75",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a364"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "985H3W020P",
+    "title": "Seat Air Bag",
+    "description": "Air bags, without hybrid.",
+    "sale_price": "$243.96",
+    "msrp": "$359.82",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-seat-air-bag-985h3w020p"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A408XA",
+    "title": "Module, Air Bag",
+    "description": "MODULE,AIR BAG",
+    "sale_price": "$875.23",
+    "msrp": "$1,191.61",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-air-bag-7030a408xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A105XA",
+    "title": "Module, Air Bag",
+    "description": "MODULE,AIR BAG",
+    "sale_price": "$730.45",
+    "msrp": "$994.49",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-air-bag-7030a105xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A732",
+    "title": "Head Air Bag",
+    "description": "Air bags, sedan. Mirage G4. Right.",
+    "sale_price": "$965.13",
+    "msrp": "$1,313.99",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a732"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A337",
+    "title": "Head Air Bag",
+    "description": "Air bags. Mirage. Left.",
+    "sale_price": "$930.19",
+    "msrp": "$1,266.43",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a337"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A688",
+    "title": "Driver Air Bag",
+    "description": "Air bags, with hybrid. Outlander PHEV.",
+    "sale_price": "$708.84",
+    "msrp": "$965.06",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-7030a688"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "985B5W031P",
+    "title": "Knee Air Bag",
+    "description": "From 08/02/22. Outlander PHEV. Right. Air bags. with hybrid.",
+    "sale_price": "$370.64",
+    "msrp": "$546.67",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-air-bag-985b5w031p"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A343",
+    "title": "Head Air Bag",
+    "description": "Air bags. Outlander Sport. Right.",
+    "sale_price": "$700.77",
+    "msrp": "$954.08",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a343"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A327XA",
+    "title": "Module, Air Bag",
+    "description": "MODULE,AIR BAG",
+    "sale_price": "$744.22",
+    "msrp": "$1,013.23",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-air-bag-7030a327xa"
   },
   {
     "brand": "Mitsubishi",
     "part_number": "7030A238",
     "title": "Head Air Bag",
     "description": "Lancer. Right.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$696.05",
+    "msrp": "$947.65",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a238"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A605XA",
-    "title": "Driver Air Bag",
-    "description": "Air bags. Outlander Sport.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-7030a605xa"
   },
   {
     "brand": "Mitsubishi",
@@ -301,8 +382,8 @@
     "part_number": "7030A338",
     "title": "Head Air Bag",
     "description": "Air bags. Mirage. Right.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$930.19",
+    "msrp": "$1,266.43",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a338"
   },
   {
@@ -325,129 +406,84 @@
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "7030A561XA",
-    "title": "Knee Air Bag",
-    "description": "Air bags. Mirage, Mirage G4. Outlander Sport. From 10/12. Left. Black.",
-    "sale_price": "$407.70",
-    "msrp": "$601.34",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-air-bag-7030a561xa"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "985H0W000P",
-    "title": "Seat Air Bag",
-    "description": "Air bags.",
-    "sale_price": "$279.23",
-    "msrp": "$411.85",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-seat-air-bag-985h0w000p"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "98515W150P",
-    "title": "Passenger Air Bag",
-    "description": "Air bags, without hybrid.",
-    "sale_price": "$902.28",
-    "msrp": "$1,228.43",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-air-bag-98515w150p"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A316YA",
-    "title": "Knee Air Bag",
-    "description": "Outlander. Beige.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-air-bag-7030a316ya"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "985B5W031P",
-    "title": "Knee Air Bag",
-    "description": "From 08/02/22. Outlander PHEV. Right. Air bags. with hybrid.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-air-bag-985b5w031p"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A732",
+    "part_number": "7030A342",
     "title": "Head Air Bag",
-    "description": "Air bags, sedan. Mirage G4. Right.",
-    "sale_price": "$965.13",
-    "msrp": "$1,313.99",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a732"
+    "description": "Air bags. Outlander Sport. Left.",
+    "sale_price": "$700.77",
+    "msrp": "$954.08",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a342"
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "7030A337",
-    "title": "Head Air Bag",
-    "description": "Air bags. Mirage. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a337"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A688",
+    "part_number": "MN100507HA",
     "title": "Driver Air Bag",
-    "description": "Air bags, with hybrid. Outlander PHEV.",
-    "sale_price": "$708.84",
-    "msrp": "$965.06",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-7030a688"
+    "description": "Outlander. Lancer. Without turbo.",
+    "sale_price": "$555.49",
+    "msrp": "$819.30",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-mn100507ha"
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "7030A343",
-    "title": "Head Air Bag",
-    "description": "Air bags. Outlander Sport. Right.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a343"
+    "part_number": "7030A605XA",
+    "title": "Driver Air Bag",
+    "description": "Air bags. Outlander Sport.",
+    "sale_price": "$905.12",
+    "msrp": "$1,232.29",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-7030a605xa"
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "7030A327XA",
+    "part_number": "MR795657",
+    "title": "Driver Air Bag",
+    "description": "Brown.",
+    "sale_price": "$134.86",
+    "msrp": "$197.17",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-mr795657"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A180XA",
     "title": "Module, Air Bag",
     "description": "MODULE,AIR BAG",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-air-bag-7030a327xa"
+    "sale_price": "$686.79",
+    "msrp": "$935.05",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-air-bag-7030a180xa"
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "7030B006XA",
-    "title": "Driver Air Bag",
-    "description": "Outlander PHEV. Air bags. with hybrid.",
-    "sale_price": "$675.18",
-    "msrp": "$919.23",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-7030b006xa"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "985B4W061P",
-    "title": "Knee Air Bag",
+    "part_number": "985H2W020P",
+    "title": "Rear Seat Air Bag",
     "description": "Air bags, without hybrid.",
-    "sale_price": "$412.95",
-    "msrp": "$609.07",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-air-bag-985b4w061p"
+    "sale_price": "$243.96",
+    "msrp": "$359.82",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-rear-seat-air-bag-985h2w020p"
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "7030A641",
-    "title": "Head Air Bag",
-    "description": "Air bags. Eclipse Cross. Left.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-head-air-bag-7030a641"
+    "part_number": "8619A324",
+    "title": "Spring, Air Bag Sensor",
+    "description": "SPRING,AIR BAG SENSOR",
+    "sale_price": "$213.52",
+    "msrp": "$314.93",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-spring-air-bag-sensor-8619a324"
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "7030A635XA",
-    "title": "Knee Air Bag",
-    "description": "Air bags. Eclipse Cross.",
-    "sale_price": "$431.52",
-    "msrp": "$636.46",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-air-bag-7030a635xa"
+    "part_number": "7030A728XA",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. Eclipse Cross. Right.",
+    "sale_price": "$245.03",
+    "msrp": "$361.41",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-ft-seat-air-bag-7030a728xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A925",
+    "title": "Ft Seat Air Bag",
+    "description": "Air bags. Outlander. Front. Left. Outer.",
+    "sale_price": "$305.15",
+    "msrp": "$450.07",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-ft-seat-air-bag-7030a925"
   },
   {
     "brand": "Mitsubishi",
@@ -472,53 +508,26 @@
     "part_number": "7030A727XA",
     "title": "Ft Seat Air Bag",
     "description": "Air bags. Eclipse Cross. Left.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$245.03",
+    "msrp": "$361.41",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-ft-seat-air-bag-7030a727xa"
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "985H2W020P",
-    "title": "Rear Seat Air Bag",
-    "description": "Air bags, without hybrid.",
-    "sale_price": "$243.96",
-    "msrp": "$359.82",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-rear-seat-air-bag-985h2w020p"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "8619A324",
-    "title": "Spring, Air Bag Sensor",
-    "description": "SPRING,AIR BAG SENSOR",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-spring-air-bag-sensor-8619a324"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A728XA",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. Eclipse Cross. Right.",
-    "sale_price": "$245.03",
-    "msrp": "$361.41",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-ft-seat-air-bag-7030a728xa"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A925",
-    "title": "Ft Seat Air Bag",
-    "description": "Air bags. Outlander. Front. Left. Outer.",
-    "sale_price": "$305.15",
-    "msrp": "$450.07",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-ft-seat-air-bag-7030a925"
+    "part_number": "MR636201",
+    "title": "Module, Air Bag, Pyro Type",
+    "description": "MODULE,AIR BAG,PYRO TYP",
+    "sale_price": "$575.99",
+    "msrp": "$784.20",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-air-bag-pyro-type-mr636201"
   },
   {
     "brand": "Mitsubishi",
     "part_number": "MR636200",
     "title": "Module, Air Bag, Pyro Type",
     "description": "MODULE,AIR BAG,PYRO TYP",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$599.04",
+    "msrp": "$815.57",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-air-bag-pyro-type-mr636200"
   },
   {
@@ -526,8 +535,8 @@
     "part_number": "MR527359",
     "title": "Module, Air Bag, Pyro Type",
     "description": "MODULE,AIR BAG,PYRO TYP",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$920.34",
+    "msrp": "$1,253.02",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-air-bag-pyro-type-mr527359"
   },
   {
@@ -538,42 +547,6 @@
     "sale_price": "$154.06",
     "msrp": "$225.23",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-inflator-kit-air-bag-pa-7030a977"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "MR636201",
-    "title": "Module, Air Bag, Pyro Type",
-    "description": "MODULE,AIR BAG,PYRO TYP",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-air-bag-pyro-type-mr636201"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "MR955629YA",
-    "title": "Driver Inflator Module",
-    "description": "Endeavor. From 01/04, brown.",
-    "sale_price": "$278.43",
-    "msrp": "$410.67",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-inflator-module-mr955629ya"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A043",
-    "title": "Driver Inflator Module",
-    "description": "Lancer. With turbo.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-inflator-module-7030a043"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A444XA",
-    "title": "Driver Inflator Module",
-    "description": "Outlander Sport. Air bags.",
-    "sale_price": "$687.88",
-    "msrp": "$936.52",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-inflator-module-7030a444xa"
   },
   {
     "brand": "Mitsubishi",
@@ -589,8 +562,8 @@
     "part_number": "MN100478HA",
     "title": "Driver Inflator Module",
     "description": "Outlander.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$789.28",
+    "msrp": "$1,074.58",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-inflator-module-mn100478ha"
   },
   {
@@ -598,8 +571,8 @@
     "part_number": "7030A088XA",
     "title": "Driver Inflator Module",
     "description": "Outlander.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$929.68",
+    "msrp": "$1,265.74",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-inflator-module-7030a088xa"
   },
   {
@@ -616,9 +589,36 @@
     "part_number": "7030A460XA",
     "title": "Driver Inflator Module",
     "description": "Air bags, without hybrid. Outlander.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$913.72",
+    "msrp": "$1,244.00",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-inflator-module-7030a460xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "MR955629YA",
+    "title": "Driver Inflator Module",
+    "description": "Endeavor. From 01/04, brown.",
+    "sale_price": "$278.43",
+    "msrp": "$410.67",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-inflator-module-mr955629ya"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A043",
+    "title": "Driver Inflator Module",
+    "description": "Lancer. With turbo.",
+    "sale_price": "$802.14",
+    "msrp": "$1,060.48",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-inflator-module-7030a043"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A444XA",
+    "title": "Driver Inflator Module",
+    "description": "Outlander Sport. Air bags.",
+    "sale_price": "$687.88",
+    "msrp": "$936.52",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-inflator-module-7030a444xa"
   },
   {
     "brand": "Mitsubishi",
@@ -640,12 +640,12 @@
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "8619A015",
+    "part_number": "8619A618",
     "title": "Clock Spring",
-    "description": "Lancer. With cruise control. Montero. From 05/02 auto trans. Endeavor. To 12/03. Outlander.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-clock-spring-8619a015"
+    "description": "Without heated strg. wheel. Outlander PHEV. Modules & sensors. without htd wheel.",
+    "sale_price": "$257.78",
+    "msrp": "$371.17",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-clock-spring-8619a618"
   },
   {
     "brand": "Mitsubishi",
@@ -661,8 +661,8 @@
     "part_number": "8619A015",
     "title": "Clock Spring",
     "description": "Lancer. With cruise control. Montero. From 05/02 auto trans. Endeavor. To 12/03. Outlander.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$205.13",
+    "msrp": "$299.90",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-clock-spring-8619a015"
   },
   {
@@ -679,8 +679,8 @@
     "part_number": "8619A017",
     "title": "Clock Spring",
     "description": "SPRING,AIR BAG SENSOR",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$211.47",
+    "msrp": "$311.91",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-clock-spring-8619a017"
   },
   {
@@ -694,38 +694,11 @@
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "MR372516",
-    "title": "Clock Spring",
-    "description": "Diamante. All. Ls. With remote control.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-clock-spring-mr372516"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "MR583930",
-    "title": "Clock Spring",
-    "description": "Lancer. Without cruise control. With turbo. From 05/02, manual trans.",
-    "sale_price": "$195.15",
-    "msrp": "$285.31",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-clock-spring-mr583930"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "8619A362",
-    "title": "Clock Spring",
-    "description": "Modules & sensors. Mirage. From 4/1/14.",
-    "sale_price": "$236.40",
-    "msrp": "$326.65",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-clock-spring-8619a362"
-  },
-  {
-    "brand": "Mitsubishi",
     "part_number": "MR301705",
     "title": "Clock Spring",
     "description": "Lancer. Without cruise control.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$197.70",
+    "msrp": "$289.03",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-clock-spring-mr301705"
   },
   {
@@ -766,11 +739,38 @@
   },
   {
     "brand": "Mitsubishi",
+    "part_number": "8619A362",
+    "title": "Clock Spring",
+    "description": "Modules & sensors. Mirage. From 4/1/14.",
+    "sale_price": "$236.40",
+    "msrp": "$326.65",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-clock-spring-8619a362"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "MR583930",
+    "title": "Clock Spring",
+    "description": "Lancer. Without cruise control. With turbo. From 05/02, manual trans.",
+    "sale_price": "$195.15",
+    "msrp": "$285.31",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-clock-spring-mr583930"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "MR372516",
+    "title": "Clock Spring",
+    "description": "Diamante. All. Ls. With remote control.",
+    "sale_price": "$166.76",
+    "msrp": "$243.80",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-clock-spring-mr372516"
+  },
+  {
+    "brand": "Mitsubishi",
     "part_number": "7030A040",
     "title": "Inflator Curtain",
     "description": "Outlander. Right.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$627.09",
+    "msrp": "$853.77",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-inflator-curtain-7030a040"
   },
   {
@@ -793,12 +793,12 @@
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "7030A994",
+    "part_number": "7030A071",
     "title": "Passenger Inflator Module",
-    "description": "Air bags. Outlander. To 08/02/22.",
-    "sale_price": "$949.60",
-    "msrp": "$1,292.85",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-inflator-module-7030a994"
+    "description": "Lancer.",
+    "sale_price": "$1,574.82",
+    "msrp": "$1,990.93",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-inflator-module-7030a071"
   },
   {
     "brand": "Mitsubishi",
@@ -811,20 +811,47 @@
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "7030A071",
+    "part_number": "7030A994",
     "title": "Passenger Inflator Module",
-    "description": "Lancer.",
-    "sale_price": "$1,574.82",
-    "msrp": "$1,990.93",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-inflator-module-7030a071"
+    "description": "Air bags. Outlander. To 08/02/22.",
+    "sale_price": "$949.60",
+    "msrp": "$1,292.85",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-inflator-module-7030a994"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A316XA",
+    "title": "Knee Inflator Module",
+    "description": "Outlander. Black.",
+    "sale_price": "$695.30",
+    "msrp": "$946.63",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-inflator-module-7030a316xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A073XA",
+    "title": "Knee Inflator Module",
+    "description": "Lancer. Black.",
+    "sale_price": "$407.70",
+    "msrp": "$601.34",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-inflator-module-7030a073xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A544XA",
+    "title": "Knee Inflator Module",
+    "description": "Outlander Sport. From 10/12. Air bags.",
+    "sale_price": "$460.86",
+    "msrp": "$679.73",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-inflator-module-7030a544xa"
   },
   {
     "brand": "Mitsubishi",
     "part_number": "7030A073YA",
     "title": "Knee Inflator Module",
     "description": "Lancer. Beige.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$578.56",
+    "msrp": "$787.69",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-inflator-module-7030a073ya"
   },
   {
@@ -838,48 +865,12 @@
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "7030A544XA",
-    "title": "Knee Inflator Module",
-    "description": "Outlander Sport. From 10/12. Air bags.",
-    "sale_price": "$460.86",
-    "msrp": "$679.73",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-inflator-module-7030a544xa"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A073XA",
-    "title": "Knee Inflator Module",
-    "description": "Lancer. Black.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-inflator-module-7030a073xa"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A316XA",
-    "title": "Knee Inflator Module",
-    "description": "Outlander. Black.",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-inflator-module-7030a316xa"
-  },
-  {
-    "brand": "Mitsubishi",
     "part_number": "7030A998XA",
     "title": "Knee Inflator Module",
     "description": "Air bags. Outlander. Right. To 08/02/22.",
     "sale_price": "$480.32",
     "msrp": "$708.43",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-knee-inflator-module-7030a998xa"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030B001",
-    "title": "Side Impact Inflator Module",
-    "description": "Outlander. Second row. Left. Air bags.",
-    "sale_price": "$302.76",
-    "msrp": "$446.55",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-side-impact-inflator-module-7030b001"
   },
   {
     "brand": "Mitsubishi",
@@ -892,6 +883,15 @@
   },
   {
     "brand": "Mitsubishi",
+    "part_number": "7030B001",
+    "title": "Side Impact Inflator Module",
+    "description": "Outlander. Second row. Left. Air bags.",
+    "sale_price": "$302.76",
+    "msrp": "$446.55",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-side-impact-inflator-module-7030b001"
+  },
+  {
+    "brand": "Mitsubishi",
     "part_number": "7030A442",
     "title": "Inflator Curtain",
     "description": "Outlander Sport. Right.",
@@ -901,29 +901,29 @@
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "7030A901YA",
-    "title": "Module, Passenger Air Ba",
-    "description": "MODULE,PASSENGER AIR BA",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-passenger-air-ba-7030a901ya"
-  },
-  {
-    "brand": "Mitsubishi",
     "part_number": "7030A847XA",
     "title": "Module, Passenger Air Ba",
     "description": "MODULE,PASSENGER AIR BA",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$869.76",
+    "msrp": "$1,184.15",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-passenger-air-ba-7030a847xa"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A901YA",
+    "title": "Module, Passenger Air Ba",
+    "description": "MODULE,PASSENGER AIR BA",
+    "sale_price": "$763.13",
+    "msrp": "$1,038.98",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-passenger-air-ba-7030a901ya"
   },
   {
     "brand": "Mitsubishi",
     "part_number": "7030A944",
     "title": "Module, Passenger Air Ba",
     "description": "MODULE,PASSENGER AIR BA",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$261.39",
+    "msrp": "$385.53",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-passenger-air-ba-7030a944"
   },
   {
@@ -931,17 +931,26 @@
     "part_number": "7030A316YB",
     "title": "Module, Driver Knee Air",
     "description": "MODULE,DRIVER KNEE AIR",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$590.87",
+    "msrp": "$804.45",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-driver-knee-air-7030a316yb"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "7030A348",
+    "title": "Module, Roof Rail Air Ba",
+    "description": "MODULE,ROOF RAIL AIR BA",
+    "sale_price": "$568.55",
+    "msrp": "$774.06",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-roof-rail-air-ba-7030a348"
   },
   {
     "brand": "Mitsubishi",
     "part_number": "7030A373",
     "title": "Module, Front Seat Gas Air",
     "description": "MODULE,FR SEAT GAS AIR",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$268.74",
+    "msrp": "$396.37",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-front-seat-gas-air-7030a373"
   },
   {
@@ -949,44 +958,44 @@
     "part_number": "7030A347",
     "title": "Module, Roof Rail Air Ba",
     "description": "MODULE,ROOF RAIL AIR BA",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$545.11",
+    "msrp": "$804.00",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-roof-rail-air-ba-7030a347"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "7030A348",
-    "title": "Module, Roof Rail Air Ba",
-    "description": "MODULE,ROOF RAIL AIR BA",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-roof-rail-air-ba-7030a348"
   },
   {
     "brand": "Mitsubishi",
     "part_number": "7030A175",
     "title": "Module, Front Seat Gas Air",
     "description": "MODULE,FR SEAT GAS AIR",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$266.95",
+    "msrp": "$393.73",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-front-seat-gas-air-7030a175"
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "7030A348",
+    "part_number": "7030A347",
     "title": "Module, Roof Rail Air Ba",
     "description": "MODULE,ROOF RAIL AIR BA",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-roof-rail-air-ba-7030a348"
+    "sale_price": "$545.11",
+    "msrp": "$804.00",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-roof-rail-air-ba-7030a347"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "MR766541",
+    "title": "Passenger Air Bag",
+    "description": "MODULE,PSNGR AIRBAG EX9",
+    "sale_price": "$925.29",
+    "msrp": "$1,259.75",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-air-bag-mr766541"
   },
   {
     "brand": "Mitsubishi",
     "part_number": "MR356357",
     "title": "Passenger Air Bag",
     "description": "MODULE,PSNGR A/BAG  EX9",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$339.12",
+    "msrp": "$555.97",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-air-bag-mr356357"
   },
   {
@@ -994,26 +1003,26 @@
     "part_number": "MR356356",
     "title": "Passenger Air Bag",
     "description": "MODULE,PSNGR A/BAG  EX9",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$322.91",
+    "msrp": "$555.97",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-air-bag-mr356356"
   },
   {
     "brand": "Mitsubishi",
-    "part_number": "MR766541",
-    "title": "Passenger Air Bag",
-    "description": "MODULE,PSNGR AIRBAG EX9",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-air-bag-mr766541"
+    "part_number": "MR197018",
+    "title": "Driver Air Bag",
+    "description": "MODULE,AIR BAG",
+    "sale_price": "$433.99",
+    "msrp": "$640.10",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-mr197018"
   },
   {
     "brand": "Mitsubishi",
     "part_number": "MR147962",
     "title": "Passenger Air Bag",
     "description": "MODULE,PSNGR AIRBAG EX9    This item is non-returnable.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$321.81",
+    "msrp": "$827.98",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-air-bag-mr147962"
   },
   {
@@ -1021,8 +1030,8 @@
     "part_number": "MB948613",
     "title": "Driver Air Bag",
     "description": "Diamante. Driver side. From 2/91. Sedan. Wagon.",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$261.56",
+    "msrp": "$526.17",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-mb948613"
   },
   {
@@ -1030,44 +1039,35 @@
     "part_number": "MR746258",
     "title": "Driver Air Bag",
     "description": "MODULE,AIR BAG       EX",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$239.79",
+    "msrp": "$423.95",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-mr746258"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "MR197018",
-    "title": "Driver Air Bag",
-    "description": "MODULE,AIR BAG",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-air-bag-mr197018"
   },
   {
     "brand": "Mitsubishi",
     "part_number": "MB948612",
     "title": "Module, Air Bag       Ex",
     "description": "MODULE,AIR BAG       EX",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$245.66",
+    "msrp": "$526.17",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-module-air-bag-ex-mb948612"
-  },
-  {
-    "brand": "Mitsubishi",
-    "part_number": "MR250885",
-    "title": "Passenger Inflator Module",
-    "description": "MODULE,PSNGR AIRBAG EX9",
-    "sale_price": "",
-    "msrp": "",
-    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-inflator-module-mr250885"
   },
   {
     "brand": "Mitsubishi",
     "part_number": "MR746245",
     "title": "Driver Inflator Module",
     "description": "MODULE,AIR BAG       EX",
-    "sale_price": "",
-    "msrp": "",
+    "sale_price": "$282.09",
+    "msrp": "$423.95",
     "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-driver-inflator-module-mr746245"
+  },
+  {
+    "brand": "Mitsubishi",
+    "part_number": "MR250885",
+    "title": "Passenger Inflator Module",
+    "description": "MODULE,PSNGR AIRBAG EX9",
+    "sale_price": "$740.79",
+    "msrp": "$1,775.41",
+    "url": "https://mitsubishi.oempartsonline.com/oem-parts/mitsubishi-passenger-inflator-module-mr250885"
   }
 ]
